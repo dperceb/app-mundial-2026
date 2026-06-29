@@ -72,7 +72,15 @@ function renderRoute(route) {
       container.innerHTML = renderStandings(appData.standings, appData.meta);
       break;
     case 'eliminatoria':
-      container.innerHTML = renderBracket(appData.matches, appData.standings);
+      try {
+        const html = renderBracket(appData.matches, appData.standings);
+        container.innerHTML = html;
+        requestAnimationFrame(() => {
+          container.querySelector('.bracket-container')?.scrollTo({ left: 0, behavior: 'instant' });
+        });
+      } catch (err) {
+        container.innerHTML = renderError(err.message);
+      }
       break;
     case 'selecciones':
       container.innerHTML = renderTeamsGrid(appData.teams);
@@ -99,7 +107,8 @@ function navigateTo(route) {
   currentRoute = r;
 
   document.querySelectorAll('.view').forEach((el) => el.classList.remove('active'));
-  document.getElementById(VIEWS[r])?.classList.add('active');
+  const activeEl = document.getElementById(VIEWS[r]);
+  activeEl?.classList.add('active');
 
   document.querySelectorAll('.main-nav a').forEach((a) => {
     a.classList.toggle('active', a.dataset.nav === r);
@@ -128,7 +137,12 @@ function initRouter() {
       const nav = el.dataset.nav;
       if (nav && VIEWS[nav]) {
         e.preventDefault();
-        window.location.hash = nav;
+        const current = window.location.hash.replace('#', '') || 'inicio';
+        if (current === nav) {
+          navigateTo(nav);
+        } else {
+          window.location.hash = nav;
+        }
       }
     });
   });
@@ -169,9 +183,10 @@ function setupPolling() {
 }
 
 async function init() {
-  const route = (window.location.hash.replace('#', '') || 'inicio');
-  const initialView = VIEWS[route] ? route : 'inicio';
-  const initialEl = getContainer(initialView);
+  const route = parseHash();
+  document.querySelectorAll('.view').forEach((el) => el.classList.remove('active'));
+  const initialEl = getContainer(route);
+  initialEl?.classList.add('active');
   if (initialEl) initialEl.innerHTML = renderLoading();
 
   try {

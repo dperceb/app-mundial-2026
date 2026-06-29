@@ -65,6 +65,8 @@ function getLoserTeam(match) {
 }
 
 function resolveTeam(team, matchMap) {
+  if (!team) return { slug: 'tbd', name: 'Por definir', pending: true };
+
   const winnerRef = team.slug?.match(/^winner-match-(\d+)$/);
   if (winnerRef) {
     const parent = matchMap.get(Number(winnerRef[1]));
