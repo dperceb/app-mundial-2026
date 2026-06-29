@@ -5,9 +5,12 @@ import {
   getCompetitionMatches,
   mapFdStatus,
   mapFdScore,
+  mapFdTeam,
+  mapFdGoals,
   FootballDataError,
 } from './lib/football-data.js';
 import { matchFdToFixture } from './lib/merge.js';
+import { fetchOpenFootballMatches, buildOpenFootballGoalMap } from './lib/openfootball.js';
 
 const RESULTS_FILE = 'live-results.json';
 
@@ -53,6 +56,14 @@ async function main() {
     const results = [];
     const unmatched = [];
 
+    let ofGoalMap = new Map();
+    try {
+      const ofMatches = await fetchOpenFootballMatches();
+      ofGoalMap = buildOpenFootballGoalMap(ofMatches, baseFixtures.fixtures);
+    } catch (err) {
+      console.warn('openfootball goles no disponibles:', err.message);
+    }
+
     fdMatches.forEach((m) => {
       const fixture = matchFdToFixture(m, baseFixtures.fixtures, existingMap);
       if (!fixture) {
@@ -60,14 +71,18 @@ async function main() {
         return;
       }
       existingMap[m.id] = fixture.matchNumber;
+      const fdGoals = mapFdGoals(m);
+      const ofGoals = ofGoalMap.get(fixture.matchNumber) || null;
       results.push({
         fdMatchId: m.id,
         matchNumber: fixture.matchNumber,
         status: mapFdStatus(m.status),
         minute: m.minute ?? null,
         score: mapFdScore(m),
-        homeTeam: m.homeTeam ? { name: m.homeTeam.name, shortName: m.homeTeam.shortName } : null,
-        awayTeam: m.awayTeam ? { name: m.awayTeam.name, shortName: m.awayTeam.shortName } : null,
+        homeTeam: mapFdTeam(m.homeTeam),
+        awayTeam: mapFdTeam(m.awayTeam),
+        goals: fdGoals?.length ? fdGoals : ofGoals,
+        goalsSource: fdGoals?.length ? 'football-data' : ofGoals ? 'openfootball' : null,
       });
     });
 
@@ -82,7 +97,8 @@ async function main() {
     };
 
     writeJsonAtomic(outPath, payload);
-    console.log(`✓ live-results.json (${results.length} partidos emparejados)`);
+    const withGoals = results.filter((r) => r.goals?.length).length;
+    console.log(`✓ live-results.json (${results.length} partidos emparejados, ${withGoals} con goles)`);
     if (unmatched.length) console.warn(`  ${unmatched.length} partidos FD sin emparejar`);
   } catch (err) {
     const message = err instanceof FootballDataError ? err.message : err.message;

@@ -30,7 +30,7 @@
   --font-body: 'Noto Sans', system-ui, sans-serif;
 
   /* Spacing & layout */
-  --header-height: 72px;
+  --header-height: 80px;
   --radius-sm: 8px;
   --radius-md: 12px;
   --radius-lg: 16px;
@@ -137,11 +137,20 @@ ul, ol {
   line-height: 1.1;
 }
 
-.logo-text span {
+.logo-text .logo-tagline {
   color: var(--wc-gold);
   display: block;
   font-size: 0.75rem;
   letter-spacing: 0.15em;
+}
+
+.logo-text .logo-author {
+  display: block;
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 0.6rem;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  margin-top: 0.1rem;
 }
 
 /* Navigation */
@@ -507,6 +516,53 @@ ul, ol {
   margin-top: 0.25rem;
 }
 
+.match-goals {
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.5rem;
+  padding: 0.35rem 0.25rem 0;
+  border-top: 1px dashed var(--color-border);
+  margin-top: 0.35rem;
+}
+
+.match-goals-col {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.match-goals-col.home {
+  align-items: flex-end;
+  text-align: right;
+}
+
+.match-goals-col.away {
+  align-items: flex-start;
+  text-align: left;
+}
+
+.goal-entry {
+  display: block;
+  font-size: 0.72rem;
+  line-height: 1.35;
+  color: var(--color-text-muted);
+}
+
+.goal-entry .goal-minute {
+  font-weight: 700;
+  color: var(--wc-gold-dark);
+}
+
+.goal-entry .goal-scorer {
+  color: var(--color-text);
+  font-weight: 500;
+}
+
+.match-card.finished .match-score {
+  color: var(--wc-black);
+}
+
 /* Badge */
 .badge {
   display: inline-flex;
@@ -726,34 +782,95 @@ ul, ol {
 .form-dot.L { background: var(--wc-live); }
 
 /* Bracket */
+.bracket-hint {
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+  margin-bottom: 1rem;
+}
+
 .bracket-container {
   overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
   padding-bottom: 1rem;
+  margin: 0 -0.25rem;
 }
 
 .bracket {
   display: flex;
-  gap: 1.5rem;
+  gap: 2rem;
   min-width: max-content;
-  padding: 1rem 0;
+  padding: 1rem 0.5rem 1.5rem;
+  align-items: stretch;
 }
 
 .bracket-round {
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
-  gap: 1rem;
-  min-width: 200px;
+  min-width: 168px;
+  position: relative;
+}
+
+.bracket-round:not(:last-child)::after {
+  content: '';
+  position: absolute;
+  top: 2.5rem;
+  right: -1rem;
+  bottom: 0;
+  width: 1rem;
+  pointer-events: none;
+  background:
+    repeating-linear-gradient(
+      to bottom,
+      transparent 0,
+      transparent calc(50% - 0.5px),
+      var(--color-border) calc(50% - 0.5px),
+      var(--color-border) calc(50% + 0.5px),
+      transparent calc(50% + 0.5px),
+      transparent 100%
+    );
+  background-size: 100% 3.75rem;
+  opacity: 0.6;
 }
 
 .bracket-round-title {
   font-family: var(--font-display);
-  font-size: 0.875rem;
+  font-size: 0.8rem;
   text-align: center;
   color: var(--wc-gold-dark);
   text-transform: uppercase;
-  letter-spacing: 0.1em;
-  margin-bottom: 0.5rem;
+  letter-spacing: 0.08em;
+  margin-bottom: 0.75rem;
+  flex-shrink: 0;
+}
+
+.bracket-round-matches {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  flex: 1;
+  min-height: 1080px;
+  gap: 0.35rem;
+}
+
+.bracket-round--final .bracket-round-matches {
+  min-height: 1080px;
+  justify-content: center;
+}
+
+.bracket-round--sf .bracket-round-matches {
+  min-height: 1080px;
+}
+
+.bracket-round--qf .bracket-round-matches {
+  min-height: 1080px;
+}
+
+.bracket-round--r16 .bracket-round-matches {
+  min-height: 1080px;
+}
+
+.bracket-round--r32 .bracket-round-matches {
+  min-height: 1080px;
 }
 
 .bracket-match {
@@ -761,26 +878,53 @@ ul, ol {
   border: 1px solid var(--color-border);
   border-radius: var(--radius-md);
   overflow: hidden;
-  font-size: 0.8rem;
+  font-size: 0.78rem;
   box-shadow: var(--shadow-sm);
+  position: relative;
+  flex-shrink: 0;
+}
+
+.bracket-match.live {
+  border-color: var(--wc-live);
+  box-shadow: 0 0 0 2px var(--wc-live-glow);
+}
+
+.bracket-match.finished {
+  border-color: rgba(197, 165, 114, 0.5);
 }
 
 .bracket-match .team-row {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 0.4rem 0.6rem;
-  gap: 0.5rem;
+  padding: 0.45rem 0.55rem;
+  gap: 0.4rem;
   border-bottom: 1px solid var(--color-border);
+  transition: background var(--transition-fast);
 }
 
-.bracket-match .team-row:last-child {
+.bracket-match .team-row:last-of-type {
   border-bottom: none;
 }
 
 .bracket-match .team-row.winner {
-  background: rgba(197, 165, 114, 0.15);
+  background: rgba(197, 165, 114, 0.22);
   font-weight: 700;
+  color: var(--wc-black);
+}
+
+.bracket-match .team-row.winner .team-info span {
+  color: var(--wc-gold-dark);
+}
+
+.bracket-match .team-row.loser {
+  opacity: 0.45;
+}
+
+.bracket-match .team-row.tbd .team-info span {
+  color: var(--color-text-muted);
+  font-style: italic;
+  font-weight: 400;
 }
 
 .bracket-match .team-info {
@@ -795,6 +939,7 @@ ul, ol {
   width: 18px;
   height: 18px;
   flex-shrink: 0;
+  object-fit: contain;
 }
 
 .bracket-match .team-info span {
@@ -804,17 +949,38 @@ ul, ol {
 }
 
 .bracket-match .score {
+  font-family: var(--font-display);
   font-weight: 700;
-  min-width: 16px;
+  min-width: 18px;
   text-align: right;
+  font-size: 0.9rem;
 }
 
 .bracket-match .match-date {
-  font-size: 0.65rem;
+  font-size: 0.62rem;
   color: var(--color-text-muted);
   text-align: center;
-  padding: 0.25rem;
+  padding: 0.2rem 0.35rem;
   background: rgba(0, 0, 0, 0.03);
+}
+
+.bracket-match .match-date .badge {
+  font-size: 0.55rem;
+  padding: 0.1rem 0.35rem;
+}
+
+.bracket-third-place {
+  margin-top: 1.5rem;
+  max-width: 220px;
+}
+
+.bracket-extra-title {
+  font-family: var(--font-display);
+  font-size: 0.85rem;
+  color: var(--wc-gold-dark);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-bottom: 0.5rem;
 }
 
 /* Scorers table */
@@ -1232,5 +1398,17 @@ ul, ol {
 
   .quick-links {
     grid-template-columns: repeat(2, 1fr);
+  }
+
+  .bracket-round {
+    min-width: 148px;
+  }
+
+  .bracket-round-matches {
+    min-height: 920px;
+  }
+
+  .bracket-match {
+    font-size: 0.72rem;
   }
 }

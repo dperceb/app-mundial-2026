@@ -14,11 +14,13 @@ import {
   renderUpdateBar,
 } from './renderMatches.js';
 import { renderStandings, renderTeamsGrid } from './renderGroups.js';
+import { renderBracket } from './renderBracket.js';
 
 const VIEWS = {
   inicio: 'view-inicio',
   partidos: 'view-partidos',
   grupos: 'view-grupos',
+  eliminatoria: 'view-eliminatoria',
   selecciones: 'view-selecciones',
 };
 
@@ -68,6 +70,9 @@ function renderRoute(route) {
     }
     case 'grupos':
       container.innerHTML = renderStandings(appData.standings, appData.meta);
+      break;
+    case 'eliminatoria':
+      container.innerHTML = renderBracket(appData.matches, appData.standings);
       break;
     case 'selecciones':
       container.innerHTML = renderTeamsGrid(appData.teams);

@@ -140,9 +140,9 @@ También en **Settings → Actions → General → Workflow permissions**:
 
 ### 4. Publicar el sitio
 
-**Actions → Deploy to GitHub Pages → Run workflow**
+Cualquier **push a `main`** vuelve a publicar el sitio automáticamente (1–3 min).
 
-O haz push a `main` con cambios en `public/`.
+También puedes forzarlo: **Actions → Deploy to GitHub Pages → Run workflow**.
 
 ### 5. Primera carga de datos
 
@@ -174,12 +174,29 @@ En **Settings → Pages** debe aparecer: *Your site is live at…*
 | Sitio 404 en el navegador | Espera 2–3 min tras deploy verde; confirma la URL en Settings → Pages |
 | Datos sin actualizar | Ejecuta **Actions → Update WC26 data** y verifica el secret `FOOTBALL_DATA_TOKEN` |
 
-Los workflows en [`.github/workflows/`](.github/workflows/) hacen lo siguiente:
+### Flujo automático (resumen)
+
+| Qué haces | Qué pasa en internet |
+|-----------|----------------------|
+| `git push` a `main` | Se redespliega el sitio con los archivos de `public/` |
+| Cada 15 min (cron) | Se actualizan resultados/clasificación y se redespliega |
+| Cambias solo código local | Haz commit + push → el sitio se actualiza solo |
+
+```bash
+git add .
+git commit -m "tu mensaje"
+git pull origin main --rebase
+git push origin main
+```
+
+Los workflows en [`.github/workflows/`](.github/workflows/):
 
 | Workflow | Función |
 |----------|---------|
-| `update-data.yml` | Cada 15 min actualiza los JSON y hace commit |
-| `deploy-pages.yml` | Publica la carpeta `public/` en GitHub Pages |
+| `update-data.yml` | Cada 15 min actualiza los JSON, hace commit y dispara el deploy |
+| `deploy-pages.yml` | Publica `public/` en GitHub Pages (push, cron o manual) |
+
+> **Importante:** elimina el workflow duplicado `static.yml` si GitHub lo creó al activar Pages (subía el repo entero en lugar de `public/`). Este proyecto ya usa solo `deploy-pages.yml`.
 
 ## Acceso desde móvil
 

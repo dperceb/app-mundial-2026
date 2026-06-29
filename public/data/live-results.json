@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T20:54:03.588Z",
+  "lastUpdated": "2026-06-29T20:55:33.446Z",
   "source": "football-data.org",
   "ok": true,
   "error": null,
@@ -19,12 +19,33 @@
       },
       "homeTeam": {
         "name": "Mexico",
-        "shortName": "Mexico"
+        "shortName": "Mexico",
+        "crest": "https://crests.football-data.org/769.svg"
       },
       "awayTeam": {
         "name": "South Africa",
-        "shortName": "South Africa"
-      }
+        "shortName": "South Africa",
+        "crest": "https://crests.football-data.org/9396.svg"
+      },
+      "goals": [
+        {
+          "minute": 9,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Mexico",
+          "scorer": "Julián Quiñones",
+          "assist": null
+        },
+        {
+          "minute": 67,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Mexico",
+          "scorer": "Raúl Jiménez",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537328,
@@ -39,12 +60,41 @@
       },
       "homeTeam": {
         "name": "South Korea",
-        "shortName": "Korea Republic"
+        "shortName": "Korea Republic",
+        "crest": "https://crests.football-data.org/772.png"
       },
       "awayTeam": {
         "name": "Czechia",
-        "shortName": "Czechia"
-      }
+        "shortName": "Czechia",
+        "crest": "https://crests.football-data.org/798.svg"
+      },
+      "goals": [
+        {
+          "minute": 59,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Czechia",
+          "scorer": "Ladislav Krejcí",
+          "assist": null
+        },
+        {
+          "minute": 67,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Korea Republic",
+          "scorer": "Hwang In-Beom",
+          "assist": null
+        },
+        {
+          "minute": 80,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Korea Republic",
+          "scorer": "Oh Hyeon-Gyu",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537333,
@@ -59,12 +109,33 @@
       },
       "homeTeam": {
         "name": "Canada",
-        "shortName": "Canada"
+        "shortName": "Canada",
+        "crest": "https://crests.football-data.org/canada.svg"
       },
       "awayTeam": {
         "name": "Bosnia-Herzegovina",
-        "shortName": "Bosnia-H."
-      }
+        "shortName": "Bosnia-H.",
+        "crest": "https://crests.football-data.org/bosnia.svg"
+      },
+      "goals": [
+        {
+          "minute": 21,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Bosnia and Herzegovina",
+          "scorer": "Jovo Lukić",
+          "assist": null
+        },
+        {
+          "minute": 78,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Canada",
+          "scorer": "Cyle Larin",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537345,
@@ -79,12 +150,57 @@
       },
       "homeTeam": {
         "name": "United States",
-        "shortName": "USA"
+        "shortName": "USA",
+        "crest": "https://crests.football-data.org/usa.svg"
       },
       "awayTeam": {
         "name": "Paraguay",
-        "shortName": "Paraguay"
-      }
+        "shortName": "Paraguay",
+        "crest": "https://crests.football-data.org/761.svg"
+      },
+      "goals": [
+        {
+          "minute": 7,
+          "injuryTime": null,
+          "type": "OWN_GOAL",
+          "team": "United States",
+          "scorer": "Damian Bobadilla",
+          "assist": null
+        },
+        {
+          "minute": 31,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "United States",
+          "scorer": "Folarin Balogun",
+          "assist": null
+        },
+        {
+          "minute": 45,
+          "injuryTime": 5,
+          "type": "REGULAR",
+          "team": "United States",
+          "scorer": "Folarin Balogun",
+          "assist": null
+        },
+        {
+          "minute": 73,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Paraguay",
+          "scorer": "Mauricio",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 8,
+          "type": "REGULAR",
+          "team": "United States",
+          "scorer": "Giovanni Reyna",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537334,
@@ -99,12 +215,33 @@
       },
       "homeTeam": {
         "name": "Qatar",
-        "shortName": "Qatar"
+        "shortName": "Qatar",
+        "crest": "https://crests.football-data.org/8030.svg"
       },
       "awayTeam": {
         "name": "Switzerland",
-        "shortName": "Switzerland"
-      }
+        "shortName": "Switzerland",
+        "crest": "https://crests.football-data.org/788.svg"
+      },
+      "goals": [
+        {
+          "minute": 17,
+          "injuryTime": null,
+          "type": "PENALTY",
+          "team": "Switzerland",
+          "scorer": "Breel Embolo",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 4,
+          "type": "OWN_GOAL",
+          "team": "Qatar",
+          "scorer": "Miro Muheim",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537339,
@@ -119,12 +256,33 @@
       },
       "homeTeam": {
         "name": "Brazil",
-        "shortName": "Brazil"
+        "shortName": "Brazil",
+        "crest": "https://crests.football-data.org/764.svg"
       },
       "awayTeam": {
         "name": "Morocco",
-        "shortName": "Morocco"
-      }
+        "shortName": "Morocco",
+        "crest": "https://crests.football-data.org/morocco.svg"
+      },
+      "goals": [
+        {
+          "minute": 21,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Morocco",
+          "scorer": "Ismael Saibari",
+          "assist": null
+        },
+        {
+          "minute": 32,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Brazil",
+          "scorer": "Vinícius Júnior",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537340,
@@ -139,12 +297,25 @@
       },
       "homeTeam": {
         "name": "Haiti",
-        "shortName": "Haiti"
+        "shortName": "Haiti",
+        "crest": "https://crests.football-data.org/haiti.svg"
       },
       "awayTeam": {
         "name": "Scotland",
-        "shortName": "Scotland"
-      }
+        "shortName": "Scotland",
+        "crest": "https://crests.football-data.org/814.svg"
+      },
+      "goals": [
+        {
+          "minute": 28,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Scotland",
+          "scorer": "John McGinn",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537346,
@@ -159,12 +330,33 @@
       },
       "homeTeam": {
         "name": "Australia",
-        "shortName": "Australia"
+        "shortName": "Australia",
+        "crest": "https://crests.football-data.org/779.svg"
       },
       "awayTeam": {
         "name": "Turkey",
-        "shortName": "Turkey"
-      }
+        "shortName": "Turkey",
+        "crest": "https://crests.football-data.org/803.svg"
+      },
+      "goals": [
+        {
+          "minute": 27,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Australia",
+          "scorer": "Nestory Irankunda",
+          "assist": null
+        },
+        {
+          "minute": 75,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Australia",
+          "scorer": "Connor Metcalfe",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537351,
@@ -179,12 +371,81 @@
       },
       "homeTeam": {
         "name": "Germany",
-        "shortName": "Germany"
+        "shortName": "Germany",
+        "crest": "https://crests.football-data.org/759.svg"
       },
       "awayTeam": {
         "name": "Curaçao",
-        "shortName": "Curaçao"
-      }
+        "shortName": "Curaçao",
+        "crest": "https://crests.football-data.org/curacao.svg"
+      },
+      "goals": [
+        {
+          "minute": 6,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Germany",
+          "scorer": "Felix Nmecha",
+          "assist": null
+        },
+        {
+          "minute": 21,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Curacao",
+          "scorer": "Livano Comenencia",
+          "assist": null
+        },
+        {
+          "minute": 38,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Germany",
+          "scorer": "Nico Schlotterbeck",
+          "assist": null
+        },
+        {
+          "minute": 45,
+          "injuryTime": 5,
+          "type": "PENALTY",
+          "team": "Germany",
+          "scorer": "Kai Havertz",
+          "assist": null
+        },
+        {
+          "minute": 47,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Germany",
+          "scorer": "Jamal Musiala",
+          "assist": null
+        },
+        {
+          "minute": 68,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Germany",
+          "scorer": "Nathaniel Brown",
+          "assist": null
+        },
+        {
+          "minute": 78,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Germany",
+          "scorer": "Deniz Undav",
+          "assist": null
+        },
+        {
+          "minute": 88,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Germany",
+          "scorer": "Kai Havertz",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537357,
@@ -199,12 +460,49 @@
       },
       "homeTeam": {
         "name": "Netherlands",
-        "shortName": "Netherlands"
+        "shortName": "Netherlands",
+        "crest": "https://crests.football-data.org/8601.svg"
       },
       "awayTeam": {
         "name": "Japan",
-        "shortName": "Japan"
-      }
+        "shortName": "Japan",
+        "crest": "https://crests.football-data.org/766.svg"
+      },
+      "goals": [
+        {
+          "minute": 51,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Netherlands",
+          "scorer": "Virgil van Dijk",
+          "assist": null
+        },
+        {
+          "minute": 57,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Japan",
+          "scorer": "Keito Nakamura",
+          "assist": null
+        },
+        {
+          "minute": 64,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Netherlands",
+          "scorer": "Crysencio Summerville",
+          "assist": null
+        },
+        {
+          "minute": 88,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Japan",
+          "scorer": "Daichi Kamada",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537352,
@@ -219,12 +517,25 @@
       },
       "homeTeam": {
         "name": "Ivory Coast",
-        "shortName": "Ivory Coast"
+        "shortName": "Ivory Coast",
+        "crest": "https://crests.football-data.org/787.svg"
       },
       "awayTeam": {
         "name": "Ecuador",
-        "shortName": "Ecuador"
-      }
+        "shortName": "Ecuador",
+        "crest": "https://crests.football-data.org/791.svg"
+      },
+      "goals": [
+        {
+          "minute": 90,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Cote d'Ivoire",
+          "scorer": "Amad Diallo",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537358,
@@ -239,12 +550,65 @@
       },
       "homeTeam": {
         "name": "Sweden",
-        "shortName": "Sweden"
+        "shortName": "Sweden",
+        "crest": "https://crests.football-data.org/792.svg"
       },
       "awayTeam": {
         "name": "Tunisia",
-        "shortName": "Tunisia"
-      }
+        "shortName": "Tunisia",
+        "crest": "https://crests.football-data.org/tunisia.svg"
+      },
+      "goals": [
+        {
+          "minute": 7,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Sweden",
+          "scorer": "Yasin Ayari",
+          "assist": null
+        },
+        {
+          "minute": 30,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Sweden",
+          "scorer": "Alexander Isak",
+          "assist": null
+        },
+        {
+          "minute": 43,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Tunisia",
+          "scorer": "Omar Rekik",
+          "assist": null
+        },
+        {
+          "minute": 59,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Sweden",
+          "scorer": "Viktor Gyökeres",
+          "assist": null
+        },
+        {
+          "minute": 84,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Sweden",
+          "scorer": "Mattias Svanberg",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 6,
+          "type": "REGULAR",
+          "team": "Sweden",
+          "scorer": "Yasin Ayari",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537369,
@@ -259,12 +623,16 @@
       },
       "homeTeam": {
         "name": "Spain",
-        "shortName": "Spain"
+        "shortName": "Spain",
+        "crest": "https://crests.football-data.org/760.svg"
       },
       "awayTeam": {
         "name": "Cape Verde Islands",
-        "shortName": "Cape Verde"
-      }
+        "shortName": "Cape Verde",
+        "crest": "https://crests.football-data.org/cape_verde.svg"
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537363,
@@ -279,12 +647,33 @@
       },
       "homeTeam": {
         "name": "Belgium",
-        "shortName": "Belgium"
+        "shortName": "Belgium",
+        "crest": "https://crests.football-data.org/805.svg"
       },
       "awayTeam": {
         "name": "Egypt",
-        "shortName": "Egypt"
-      }
+        "shortName": "Egypt",
+        "crest": "https://crests.football-data.org/825.svg"
+      },
+      "goals": [
+        {
+          "minute": 19,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Egypt",
+          "scorer": "Emam Ashour",
+          "assist": null
+        },
+        {
+          "minute": 66,
+          "injuryTime": null,
+          "type": "OWN_GOAL",
+          "team": "Belgium",
+          "scorer": "Mohamed Hany",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537370,
@@ -299,12 +688,33 @@
       },
       "homeTeam": {
         "name": "Saudi Arabia",
-        "shortName": "Saudi Arabia"
+        "shortName": "Saudi Arabia",
+        "crest": "https://crests.football-data.org/saudi_arabia.svg"
       },
       "awayTeam": {
         "name": "Uruguay",
-        "shortName": "Uruguay"
-      }
+        "shortName": "Uruguay",
+        "crest": "https://crests.football-data.org/758.svg"
+      },
+      "goals": [
+        {
+          "minute": 41,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Saudi Arabia",
+          "scorer": "Abdulelah Al-Amri",
+          "assist": null
+        },
+        {
+          "minute": 80,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Uruguay",
+          "scorer": "Maxi Araújo",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537364,
@@ -319,12 +729,49 @@
       },
       "homeTeam": {
         "name": "Iran",
-        "shortName": "Iran"
+        "shortName": "Iran",
+        "crest": "https://crests.football-data.org/iran.svg"
       },
       "awayTeam": {
         "name": "New Zealand",
-        "shortName": "New Zealand"
-      }
+        "shortName": "New Zealand",
+        "crest": "https://crests.football-data.org/783.svg"
+      },
+      "goals": [
+        {
+          "minute": 7,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "New Zealand",
+          "scorer": "Elijah Just",
+          "assist": null
+        },
+        {
+          "minute": 32,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "IR Iran",
+          "scorer": "Ramin Rezaeian",
+          "assist": null
+        },
+        {
+          "minute": 54,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "New Zealand",
+          "scorer": "Elijah Just",
+          "assist": null
+        },
+        {
+          "minute": 64,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "IR Iran",
+          "scorer": "Mohammad Mohebbi",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537391,
@@ -339,12 +786,49 @@
       },
       "homeTeam": {
         "name": "France",
-        "shortName": "France"
+        "shortName": "France",
+        "crest": "https://crests.football-data.org/773.svg"
       },
       "awayTeam": {
         "name": "Senegal",
-        "shortName": "Senegal"
-      }
+        "shortName": "Senegal",
+        "crest": "https://crests.football-data.org/senegal.svg"
+      },
+      "goals": [
+        {
+          "minute": 66,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "France",
+          "scorer": "Kylian Mbappé",
+          "assist": null
+        },
+        {
+          "minute": 82,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "France",
+          "scorer": "Bradley Barcola",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 5,
+          "type": "REGULAR",
+          "team": "Senegal",
+          "scorer": "Ibrahim Mbaye",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 6,
+          "type": "REGULAR",
+          "team": "France",
+          "scorer": "Kylian Mbappé",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537392,
@@ -359,12 +843,57 @@
       },
       "homeTeam": {
         "name": "Iraq",
-        "shortName": "Iraq"
+        "shortName": "Iraq",
+        "crest": "https://crests.football-data.org/iraq.svg"
       },
       "awayTeam": {
         "name": "Norway",
-        "shortName": "Norway"
-      }
+        "shortName": "Norway",
+        "crest": "https://crests.football-data.org/813.svg"
+      },
+      "goals": [
+        {
+          "minute": 29,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Norway",
+          "scorer": "Erling Haaland",
+          "assist": null
+        },
+        {
+          "minute": 39,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Iraq",
+          "scorer": "Aymen Hussein",
+          "assist": null
+        },
+        {
+          "minute": 43,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Norway",
+          "scorer": "Erling Haaland",
+          "assist": null
+        },
+        {
+          "minute": 76,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Norway",
+          "scorer": "Leo Østigard",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 6,
+          "type": "OWN_GOAL",
+          "team": "Norway",
+          "scorer": "Aymen Hussein",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537397,
@@ -379,12 +908,41 @@
       },
       "homeTeam": {
         "name": "Argentina",
-        "shortName": "Argentina"
+        "shortName": "Argentina",
+        "crest": "https://crests.football-data.org/762.png"
       },
       "awayTeam": {
         "name": "Algeria",
-        "shortName": "Algeria"
-      }
+        "shortName": "Algeria",
+        "crest": "https://crests.football-data.org/algeria.svg"
+      },
+      "goals": [
+        {
+          "minute": 17,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Argentina",
+          "scorer": "Lionel Messi",
+          "assist": null
+        },
+        {
+          "minute": 60,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Argentina",
+          "scorer": "Lionel Messi",
+          "assist": null
+        },
+        {
+          "minute": 76,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Argentina",
+          "scorer": "Lionel Messi",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537398,
@@ -399,12 +957,49 @@
       },
       "homeTeam": {
         "name": "Austria",
-        "shortName": "Austria"
+        "shortName": "Austria",
+        "crest": "https://crests.football-data.org/816.svg"
       },
       "awayTeam": {
         "name": "Jordan",
-        "shortName": "Jordan"
-      }
+        "shortName": "Jordan",
+        "crest": "https://crests.football-data.org/8049.png"
+      },
+      "goals": [
+        {
+          "minute": 21,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Austria",
+          "scorer": "Romano Schmid",
+          "assist": null
+        },
+        {
+          "minute": 50,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Jordan",
+          "scorer": "Ali Olwan",
+          "assist": null
+        },
+        {
+          "minute": 76,
+          "injuryTime": null,
+          "type": "OWN_GOAL",
+          "team": "Austria",
+          "scorer": "Yazan Al-Arab",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 12,
+          "type": "PENALTY",
+          "team": "Austria",
+          "scorer": "Marko Arnautovic",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537403,
@@ -419,12 +1014,33 @@
       },
       "homeTeam": {
         "name": "Portugal",
-        "shortName": "Portugal"
+        "shortName": "Portugal",
+        "crest": "https://crests.football-data.org/765.svg"
       },
       "awayTeam": {
         "name": "Congo DR",
-        "shortName": "Congo DR"
-      }
+        "shortName": "Congo DR",
+        "crest": "https://crests.football-data.org/congo_dr.svg"
+      },
+      "goals": [
+        {
+          "minute": 6,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Portugal",
+          "scorer": "João Neves",
+          "assist": null
+        },
+        {
+          "minute": 45,
+          "injuryTime": 5,
+          "type": "REGULAR",
+          "team": "Congo DR",
+          "scorer": "Yoane Wissa",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537409,
@@ -439,12 +1055,65 @@
       },
       "homeTeam": {
         "name": "England",
-        "shortName": "England"
+        "shortName": "England",
+        "crest": "https://crests.football-data.org/770.svg"
       },
       "awayTeam": {
         "name": "Croatia",
-        "shortName": "Croatia"
-      }
+        "shortName": "Croatia",
+        "crest": "https://crests.football-data.org/799.svg"
+      },
+      "goals": [
+        {
+          "minute": 12,
+          "injuryTime": null,
+          "type": "PENALTY",
+          "team": "England",
+          "scorer": "Harry Kane",
+          "assist": null
+        },
+        {
+          "minute": 36,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Croatia",
+          "scorer": "Martin Baturina",
+          "assist": null
+        },
+        {
+          "minute": 42,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "England",
+          "scorer": "Harry Kane",
+          "assist": null
+        },
+        {
+          "minute": 45,
+          "injuryTime": 5,
+          "type": "REGULAR",
+          "team": "Croatia",
+          "scorer": "Petar Musa",
+          "assist": null
+        },
+        {
+          "minute": 47,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "England",
+          "scorer": "Jude Bellingham",
+          "assist": null
+        },
+        {
+          "minute": 85,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "England",
+          "scorer": "Marcus Rashford",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537410,
@@ -459,12 +1128,25 @@
       },
       "homeTeam": {
         "name": "Ghana",
-        "shortName": "Ghana"
+        "shortName": "Ghana",
+        "crest": "https://crests.football-data.org/ghana.svg"
       },
       "awayTeam": {
         "name": "Panama",
-        "shortName": "Panama"
-      }
+        "shortName": "Panama",
+        "crest": "https://crests.football-data.org/panama.svg"
+      },
+      "goals": [
+        {
+          "minute": 90,
+          "injuryTime": 5,
+          "type": "REGULAR",
+          "team": "Ghana",
+          "scorer": "Caleb Yirenkyi",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537404,
@@ -479,12 +1161,49 @@
       },
       "homeTeam": {
         "name": "Uzbekistan",
-        "shortName": "Uzbekistan"
+        "shortName": "Uzbekistan",
+        "crest": "https://crests.football-data.org/8070.png"
       },
       "awayTeam": {
         "name": "Colombia",
-        "shortName": "Colombia"
-      }
+        "shortName": "Colombia",
+        "crest": "https://crests.football-data.org/818.svg"
+      },
+      "goals": [
+        {
+          "minute": 40,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Colombia",
+          "scorer": "Daniel Muñoz",
+          "assist": null
+        },
+        {
+          "minute": 60,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Uzbekistan",
+          "scorer": "Abbosbek Fayzullaev",
+          "assist": null
+        },
+        {
+          "minute": 65,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Colombia",
+          "scorer": "Luis Díaz",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 9,
+          "type": "REGULAR",
+          "team": "Colombia",
+          "scorer": "Jáminton Campaz",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537329,
@@ -499,12 +1218,33 @@
       },
       "homeTeam": {
         "name": "Czechia",
-        "shortName": "Czechia"
+        "shortName": "Czechia",
+        "crest": "https://crests.football-data.org/798.svg"
       },
       "awayTeam": {
         "name": "South Africa",
-        "shortName": "South Africa"
-      }
+        "shortName": "South Africa",
+        "crest": "https://crests.football-data.org/9396.svg"
+      },
+      "goals": [
+        {
+          "minute": 6,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Czechia",
+          "scorer": "Michal Sadílek",
+          "assist": null
+        },
+        {
+          "minute": 83,
+          "injuryTime": null,
+          "type": "PENALTY",
+          "team": "South Africa",
+          "scorer": "Teboho Mokoena",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537335,
@@ -519,12 +1259,57 @@
       },
       "homeTeam": {
         "name": "Switzerland",
-        "shortName": "Switzerland"
+        "shortName": "Switzerland",
+        "crest": "https://crests.football-data.org/788.svg"
       },
       "awayTeam": {
         "name": "Bosnia-Herzegovina",
-        "shortName": "Bosnia-H."
-      }
+        "shortName": "Bosnia-H.",
+        "crest": "https://crests.football-data.org/bosnia.svg"
+      },
+      "goals": [
+        {
+          "minute": 74,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Switzerland",
+          "scorer": "Johan Manzambi",
+          "assist": null
+        },
+        {
+          "minute": 84,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Switzerland",
+          "scorer": "Rubén Vargas",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Switzerland",
+          "scorer": "Johan Manzambi",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 3,
+          "type": "REGULAR",
+          "team": "Bosnia and Herzegovina",
+          "scorer": "Ermin Mahmic",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 7,
+          "type": "PENALTY",
+          "team": "Switzerland",
+          "scorer": "Granit Xhaka",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537336,
@@ -539,12 +1324,65 @@
       },
       "homeTeam": {
         "name": "Canada",
-        "shortName": "Canada"
+        "shortName": "Canada",
+        "crest": "https://crests.football-data.org/canada.svg"
       },
       "awayTeam": {
         "name": "Qatar",
-        "shortName": "Qatar"
-      }
+        "shortName": "Qatar",
+        "crest": "https://crests.football-data.org/8030.svg"
+      },
+      "goals": [
+        {
+          "minute": 16,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Canada",
+          "scorer": "Cyle Larin",
+          "assist": null
+        },
+        {
+          "minute": 29,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Canada",
+          "scorer": "Jonathan David",
+          "assist": null
+        },
+        {
+          "minute": 45,
+          "injuryTime": 3,
+          "type": "REGULAR",
+          "team": "Canada",
+          "scorer": "Jonathan David",
+          "assist": null
+        },
+        {
+          "minute": 64,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Canada",
+          "scorer": "Nathan Saliba",
+          "assist": null
+        },
+        {
+          "minute": 75,
+          "injuryTime": null,
+          "type": "OWN_GOAL",
+          "team": "Canada",
+          "scorer": "Mohamed Manai",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 2,
+          "type": "REGULAR",
+          "team": "Canada",
+          "scorer": "Jonathan David",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537330,
@@ -559,12 +1397,25 @@
       },
       "homeTeam": {
         "name": "Mexico",
-        "shortName": "Mexico"
+        "shortName": "Mexico",
+        "crest": "https://crests.football-data.org/769.svg"
       },
       "awayTeam": {
         "name": "South Korea",
-        "shortName": "Korea Republic"
-      }
+        "shortName": "Korea Republic",
+        "crest": "https://crests.football-data.org/772.png"
+      },
+      "goals": [
+        {
+          "minute": 50,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Mexico",
+          "scorer": "Luis Romo",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537348,
@@ -579,12 +1430,33 @@
       },
       "homeTeam": {
         "name": "United States",
-        "shortName": "USA"
+        "shortName": "USA",
+        "crest": "https://crests.football-data.org/usa.svg"
       },
       "awayTeam": {
         "name": "Australia",
-        "shortName": "Australia"
-      }
+        "shortName": "Australia",
+        "crest": "https://crests.football-data.org/779.svg"
+      },
+      "goals": [
+        {
+          "minute": 11,
+          "injuryTime": null,
+          "type": "OWN_GOAL",
+          "team": "United States",
+          "scorer": "Cameron Burgess",
+          "assist": null
+        },
+        {
+          "minute": 43,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "United States",
+          "scorer": "Alex Freeman",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537342,
@@ -599,12 +1471,25 @@
       },
       "homeTeam": {
         "name": "Scotland",
-        "shortName": "Scotland"
+        "shortName": "Scotland",
+        "crest": "https://crests.football-data.org/814.svg"
       },
       "awayTeam": {
         "name": "Morocco",
-        "shortName": "Morocco"
-      }
+        "shortName": "Morocco",
+        "crest": "https://crests.football-data.org/morocco.svg"
+      },
+      "goals": [
+        {
+          "minute": 2,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Morocco",
+          "scorer": "Ismael Saibari",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537341,
@@ -619,12 +1504,41 @@
       },
       "homeTeam": {
         "name": "Brazil",
-        "shortName": "Brazil"
+        "shortName": "Brazil",
+        "crest": "https://crests.football-data.org/764.svg"
       },
       "awayTeam": {
         "name": "Haiti",
-        "shortName": "Haiti"
-      }
+        "shortName": "Haiti",
+        "crest": "https://crests.football-data.org/haiti.svg"
+      },
+      "goals": [
+        {
+          "minute": 23,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Brazil",
+          "scorer": "Matheus Cunha",
+          "assist": null
+        },
+        {
+          "minute": 36,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Brazil",
+          "scorer": "Matheus Cunha",
+          "assist": null
+        },
+        {
+          "minute": 45,
+          "injuryTime": 3,
+          "type": "REGULAR",
+          "team": "Brazil",
+          "scorer": "Vinícius Júnior",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537347,
@@ -639,12 +1553,25 @@
       },
       "homeTeam": {
         "name": "Turkey",
-        "shortName": "Turkey"
+        "shortName": "Turkey",
+        "crest": "https://crests.football-data.org/803.svg"
       },
       "awayTeam": {
         "name": "Paraguay",
-        "shortName": "Paraguay"
-      }
+        "shortName": "Paraguay",
+        "crest": "https://crests.football-data.org/761.svg"
+      },
+      "goals": [
+        {
+          "minute": 2,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Paraguay",
+          "scorer": "Matías Galarza",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537359,
@@ -659,12 +1586,65 @@
       },
       "homeTeam": {
         "name": "Netherlands",
-        "shortName": "Netherlands"
+        "shortName": "Netherlands",
+        "crest": "https://crests.football-data.org/8601.svg"
       },
       "awayTeam": {
         "name": "Sweden",
-        "shortName": "Sweden"
-      }
+        "shortName": "Sweden",
+        "crest": "https://crests.football-data.org/792.svg"
+      },
+      "goals": [
+        {
+          "minute": 5,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Netherlands",
+          "scorer": "Brian Brobbey",
+          "assist": null
+        },
+        {
+          "minute": 17,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Netherlands",
+          "scorer": "Brian Brobbey",
+          "assist": null
+        },
+        {
+          "minute": 47,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Netherlands",
+          "scorer": "Cody Gakpo",
+          "assist": null
+        },
+        {
+          "minute": 54,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Netherlands",
+          "scorer": "Cody Gakpo",
+          "assist": null
+        },
+        {
+          "minute": 59,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Sweden",
+          "scorer": "Anthony Elanga",
+          "assist": null
+        },
+        {
+          "minute": 89,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Netherlands",
+          "scorer": "Crysencio Summerville",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537353,
@@ -679,12 +1659,41 @@
       },
       "homeTeam": {
         "name": "Germany",
-        "shortName": "Germany"
+        "shortName": "Germany",
+        "crest": "https://crests.football-data.org/759.svg"
       },
       "awayTeam": {
         "name": "Ivory Coast",
-        "shortName": "Ivory Coast"
-      }
+        "shortName": "Ivory Coast",
+        "crest": "https://crests.football-data.org/787.svg"
+      },
+      "goals": [
+        {
+          "minute": 30,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Cote d'Ivoire",
+          "scorer": "Franck Kessié",
+          "assist": null
+        },
+        {
+          "minute": 68,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Germany",
+          "scorer": "Deniz Undav",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 4,
+          "type": "REGULAR",
+          "team": "Germany",
+          "scorer": "Deniz Undav",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537354,
@@ -699,12 +1708,16 @@
       },
       "homeTeam": {
         "name": "Ecuador",
-        "shortName": "Ecuador"
+        "shortName": "Ecuador",
+        "crest": "https://crests.football-data.org/791.svg"
       },
       "awayTeam": {
         "name": "Curaçao",
-        "shortName": "Curaçao"
-      }
+        "shortName": "Curaçao",
+        "crest": "https://crests.football-data.org/curacao.svg"
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537360,
@@ -719,12 +1732,49 @@
       },
       "homeTeam": {
         "name": "Tunisia",
-        "shortName": "Tunisia"
+        "shortName": "Tunisia",
+        "crest": "https://crests.football-data.org/tunisia.svg"
       },
       "awayTeam": {
         "name": "Japan",
-        "shortName": "Japan"
-      }
+        "shortName": "Japan",
+        "crest": "https://crests.football-data.org/766.svg"
+      },
+      "goals": [
+        {
+          "minute": 4,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Japan",
+          "scorer": "Daichi Kamada",
+          "assist": null
+        },
+        {
+          "minute": 31,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Japan",
+          "scorer": "Ayase Ueda",
+          "assist": null
+        },
+        {
+          "minute": 69,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Japan",
+          "scorer": "Junya Ito",
+          "assist": null
+        },
+        {
+          "minute": 83,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Japan",
+          "scorer": "Ayase Ueda",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537371,
@@ -739,12 +1789,49 @@
       },
       "homeTeam": {
         "name": "Spain",
-        "shortName": "Spain"
+        "shortName": "Spain",
+        "crest": "https://crests.football-data.org/760.svg"
       },
       "awayTeam": {
         "name": "Saudi Arabia",
-        "shortName": "Saudi Arabia"
-      }
+        "shortName": "Saudi Arabia",
+        "crest": "https://crests.football-data.org/saudi_arabia.svg"
+      },
+      "goals": [
+        {
+          "minute": 10,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Spain",
+          "scorer": "Lamine Yamal",
+          "assist": null
+        },
+        {
+          "minute": 21,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Spain",
+          "scorer": "Mikel Oyarzabal",
+          "assist": null
+        },
+        {
+          "minute": 24,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Spain",
+          "scorer": "Mikel Oyarzabal",
+          "assist": null
+        },
+        {
+          "minute": 49,
+          "injuryTime": null,
+          "type": "OWN_GOAL",
+          "team": "Spain",
+          "scorer": "Hassan Al-Tambakti",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537365,
@@ -759,12 +1846,16 @@
       },
       "homeTeam": {
         "name": "Belgium",
-        "shortName": "Belgium"
+        "shortName": "Belgium",
+        "crest": "https://crests.football-data.org/805.svg"
       },
       "awayTeam": {
         "name": "Iran",
-        "shortName": "Iran"
-      }
+        "shortName": "Iran",
+        "crest": "https://crests.football-data.org/iran.svg"
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537372,
@@ -779,12 +1870,49 @@
       },
       "homeTeam": {
         "name": "Uruguay",
-        "shortName": "Uruguay"
+        "shortName": "Uruguay",
+        "crest": "https://crests.football-data.org/758.svg"
       },
       "awayTeam": {
         "name": "Cape Verde Islands",
-        "shortName": "Cape Verde"
-      }
+        "shortName": "Cape Verde",
+        "crest": "https://crests.football-data.org/cape_verde.svg"
+      },
+      "goals": [
+        {
+          "minute": 21,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Cabo Verde",
+          "scorer": "Kevin Pina",
+          "assist": null
+        },
+        {
+          "minute": 44,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Uruguay",
+          "scorer": "Maxi Araújo",
+          "assist": null
+        },
+        {
+          "minute": 45,
+          "injuryTime": 6,
+          "type": "REGULAR",
+          "team": "Uruguay",
+          "scorer": "Agustín Cano",
+          "assist": null
+        },
+        {
+          "minute": 61,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Cabo Verde",
+          "scorer": "Hélio Varela",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537366,
@@ -799,12 +1927,49 @@
       },
       "homeTeam": {
         "name": "New Zealand",
-        "shortName": "New Zealand"
+        "shortName": "New Zealand",
+        "crest": "https://crests.football-data.org/783.svg"
       },
       "awayTeam": {
         "name": "Egypt",
-        "shortName": "Egypt"
-      }
+        "shortName": "Egypt",
+        "crest": "https://crests.football-data.org/825.svg"
+      },
+      "goals": [
+        {
+          "minute": 15,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "New Zealand",
+          "scorer": "Finn Surman",
+          "assist": null
+        },
+        {
+          "minute": 58,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Egypt",
+          "scorer": "Mostafa Zico",
+          "assist": null
+        },
+        {
+          "minute": 67,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Egypt",
+          "scorer": "Mohamed Salah",
+          "assist": null
+        },
+        {
+          "minute": 82,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Egypt",
+          "scorer": "Trézéguet",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537399,
@@ -819,12 +1984,33 @@
       },
       "homeTeam": {
         "name": "Argentina",
-        "shortName": "Argentina"
+        "shortName": "Argentina",
+        "crest": "https://crests.football-data.org/762.png"
       },
       "awayTeam": {
         "name": "Austria",
-        "shortName": "Austria"
-      }
+        "shortName": "Austria",
+        "crest": "https://crests.football-data.org/816.svg"
+      },
+      "goals": [
+        {
+          "minute": 38,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Argentina",
+          "scorer": "Lionel Messi",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 5,
+          "type": "REGULAR",
+          "team": "Argentina",
+          "scorer": "Lionel Messi",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537393,
@@ -839,12 +2025,41 @@
       },
       "homeTeam": {
         "name": "France",
-        "shortName": "France"
+        "shortName": "France",
+        "crest": "https://crests.football-data.org/773.svg"
       },
       "awayTeam": {
         "name": "Iraq",
-        "shortName": "Iraq"
-      }
+        "shortName": "Iraq",
+        "crest": "https://crests.football-data.org/iraq.svg"
+      },
+      "goals": [
+        {
+          "minute": 14,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "France",
+          "scorer": "Kylian Mbappé",
+          "assist": null
+        },
+        {
+          "minute": 54,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "France",
+          "scorer": "Kylian Mbappé",
+          "assist": null
+        },
+        {
+          "minute": 66,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "France",
+          "scorer": "Ousmane Dembélé",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537394,
@@ -859,12 +2074,57 @@
       },
       "homeTeam": {
         "name": "Norway",
-        "shortName": "Norway"
+        "shortName": "Norway",
+        "crest": "https://crests.football-data.org/813.svg"
       },
       "awayTeam": {
         "name": "Senegal",
-        "shortName": "Senegal"
-      }
+        "shortName": "Senegal",
+        "crest": "https://crests.football-data.org/senegal.svg"
+      },
+      "goals": [
+        {
+          "minute": 43,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Norway",
+          "scorer": "Marcus Holmgren Pedersen",
+          "assist": null
+        },
+        {
+          "minute": 48,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Norway",
+          "scorer": "Erling Haaland",
+          "assist": null
+        },
+        {
+          "minute": 53,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Senegal",
+          "scorer": "Ismaïla Sarr",
+          "assist": null
+        },
+        {
+          "minute": 58,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Norway",
+          "scorer": "Erling Haaland",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 3,
+          "type": "REGULAR",
+          "team": "Senegal",
+          "scorer": "Ismaïla Sarr",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537400,
@@ -879,12 +2139,41 @@
       },
       "homeTeam": {
         "name": "Jordan",
-        "shortName": "Jordan"
+        "shortName": "Jordan",
+        "crest": "https://crests.football-data.org/8049.png"
       },
       "awayTeam": {
         "name": "Algeria",
-        "shortName": "Algeria"
-      }
+        "shortName": "Algeria",
+        "crest": "https://crests.football-data.org/algeria.svg"
+      },
+      "goals": [
+        {
+          "minute": 36,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Jordan",
+          "scorer": "Nizar Al-Rashdan",
+          "assist": null
+        },
+        {
+          "minute": 69,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Algeria",
+          "scorer": "Nadhir Benbouali",
+          "assist": null
+        },
+        {
+          "minute": 82,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Algeria",
+          "scorer": "Amine Gouiri",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537405,
@@ -899,12 +2188,57 @@
       },
       "homeTeam": {
         "name": "Portugal",
-        "shortName": "Portugal"
+        "shortName": "Portugal",
+        "crest": "https://crests.football-data.org/765.svg"
       },
       "awayTeam": {
         "name": "Uzbekistan",
-        "shortName": "Uzbekistan"
-      }
+        "shortName": "Uzbekistan",
+        "crest": "https://crests.football-data.org/8070.png"
+      },
+      "goals": [
+        {
+          "minute": 6,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Portugal",
+          "scorer": "Cristiano Ronaldo",
+          "assist": null
+        },
+        {
+          "minute": 17,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Portugal",
+          "scorer": "Nuno Mendes",
+          "assist": null
+        },
+        {
+          "minute": 39,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Portugal",
+          "scorer": "Cristiano Ronaldo",
+          "assist": null
+        },
+        {
+          "minute": 60,
+          "injuryTime": null,
+          "type": "OWN_GOAL",
+          "team": "Portugal",
+          "scorer": "Abduvohid Nematov",
+          "assist": null
+        },
+        {
+          "minute": 87,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Portugal",
+          "scorer": "Rafael Leão",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537411,
@@ -919,12 +2253,16 @@
       },
       "homeTeam": {
         "name": "England",
-        "shortName": "England"
+        "shortName": "England",
+        "crest": "https://crests.football-data.org/770.svg"
       },
       "awayTeam": {
         "name": "Ghana",
-        "shortName": "Ghana"
-      }
+        "shortName": "Ghana",
+        "crest": "https://crests.football-data.org/ghana.svg"
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537412,
@@ -939,12 +2277,25 @@
       },
       "homeTeam": {
         "name": "Panama",
-        "shortName": "Panama"
+        "shortName": "Panama",
+        "crest": "https://crests.football-data.org/panama.svg"
       },
       "awayTeam": {
         "name": "Croatia",
-        "shortName": "Croatia"
-      }
+        "shortName": "Croatia",
+        "crest": "https://crests.football-data.org/799.svg"
+      },
+      "goals": [
+        {
+          "minute": 54,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Croatia",
+          "scorer": "Ante Budimir",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537406,
@@ -959,12 +2310,25 @@
       },
       "homeTeam": {
         "name": "Colombia",
-        "shortName": "Colombia"
+        "shortName": "Colombia",
+        "crest": "https://crests.football-data.org/818.svg"
       },
       "awayTeam": {
         "name": "Congo DR",
-        "shortName": "Congo DR"
-      }
+        "shortName": "Congo DR",
+        "crest": "https://crests.football-data.org/congo_dr.svg"
+      },
+      "goals": [
+        {
+          "minute": 76,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Colombia",
+          "scorer": "Daniel Muñoz",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537337,
@@ -979,12 +2343,41 @@
       },
       "homeTeam": {
         "name": "Switzerland",
-        "shortName": "Switzerland"
+        "shortName": "Switzerland",
+        "crest": "https://crests.football-data.org/788.svg"
       },
       "awayTeam": {
         "name": "Canada",
-        "shortName": "Canada"
-      }
+        "shortName": "Canada",
+        "crest": "https://crests.football-data.org/canada.svg"
+      },
+      "goals": [
+        {
+          "minute": 46,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Switzerland",
+          "scorer": "Rubén Vargas",
+          "assist": null
+        },
+        {
+          "minute": 57,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Switzerland",
+          "scorer": "Johan Manzambi",
+          "assist": null
+        },
+        {
+          "minute": 76,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Canada",
+          "scorer": "Promise David",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537338,
@@ -999,12 +2392,49 @@
       },
       "homeTeam": {
         "name": "Bosnia-Herzegovina",
-        "shortName": "Bosnia-H."
+        "shortName": "Bosnia-H.",
+        "crest": "https://crests.football-data.org/bosnia.svg"
       },
       "awayTeam": {
         "name": "Qatar",
-        "shortName": "Qatar"
-      }
+        "shortName": "Qatar",
+        "crest": "https://crests.football-data.org/8030.svg"
+      },
+      "goals": [
+        {
+          "minute": 29,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Bosnia and Herzegovina",
+          "scorer": "Kerim Alajbegovic",
+          "assist": null
+        },
+        {
+          "minute": 34,
+          "injuryTime": null,
+          "type": "OWN_GOAL",
+          "team": "Bosnia and Herzegovina",
+          "scorer": "Mahmoud Abunada",
+          "assist": null
+        },
+        {
+          "minute": 42,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Qatar",
+          "scorer": "Hassan Al-Haydos",
+          "assist": null
+        },
+        {
+          "minute": 80,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Bosnia and Herzegovina",
+          "scorer": "Ermin Mahmic",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537344,
@@ -1019,12 +2449,65 @@
       },
       "homeTeam": {
         "name": "Morocco",
-        "shortName": "Morocco"
+        "shortName": "Morocco",
+        "crest": "https://crests.football-data.org/morocco.svg"
       },
       "awayTeam": {
         "name": "Haiti",
-        "shortName": "Haiti"
-      }
+        "shortName": "Haiti",
+        "crest": "https://crests.football-data.org/haiti.svg"
+      },
+      "goals": [
+        {
+          "minute": 10,
+          "injuryTime": null,
+          "type": "OWN_GOAL",
+          "team": "Haiti",
+          "scorer": "Yassine Bounou",
+          "assist": null
+        },
+        {
+          "minute": 39,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Morocco",
+          "scorer": "Achraf Hakimi",
+          "assist": null
+        },
+        {
+          "minute": 43,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Haiti",
+          "scorer": "Wilson Isidor",
+          "assist": null
+        },
+        {
+          "minute": 45,
+          "injuryTime": 1,
+          "type": "REGULAR",
+          "team": "Morocco",
+          "scorer": "Ismael Saibari",
+          "assist": null
+        },
+        {
+          "minute": 78,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Morocco",
+          "scorer": "Soufiane Rahimi",
+          "assist": null
+        },
+        {
+          "minute": 89,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Morocco",
+          "scorer": "Gessime Yassine",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537343,
@@ -1039,12 +2522,41 @@
       },
       "homeTeam": {
         "name": "Scotland",
-        "shortName": "Scotland"
+        "shortName": "Scotland",
+        "crest": "https://crests.football-data.org/814.svg"
       },
       "awayTeam": {
         "name": "Brazil",
-        "shortName": "Brazil"
-      }
+        "shortName": "Brazil",
+        "crest": "https://crests.football-data.org/764.svg"
+      },
+      "goals": [
+        {
+          "minute": 7,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Brazil",
+          "scorer": "Vinícius Júnior",
+          "assist": null
+        },
+        {
+          "minute": 45,
+          "injuryTime": 3,
+          "type": "REGULAR",
+          "team": "Brazil",
+          "scorer": "Vinícius Júnior",
+          "assist": null
+        },
+        {
+          "minute": 60,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Brazil",
+          "scorer": "Matheus Cunha",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537331,
@@ -1059,12 +2571,41 @@
       },
       "homeTeam": {
         "name": "Czechia",
-        "shortName": "Czechia"
+        "shortName": "Czechia",
+        "crest": "https://crests.football-data.org/798.svg"
       },
       "awayTeam": {
         "name": "Mexico",
-        "shortName": "Mexico"
-      }
+        "shortName": "Mexico",
+        "crest": "https://crests.football-data.org/769.svg"
+      },
+      "goals": [
+        {
+          "minute": 55,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Mexico",
+          "scorer": "Mateo Chávez",
+          "assist": null
+        },
+        {
+          "minute": 61,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Mexico",
+          "scorer": "Julián Quiñones",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 4,
+          "type": "REGULAR",
+          "team": "Mexico",
+          "scorer": "Álvaro Fidalgo",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537332,
@@ -1079,12 +2620,25 @@
       },
       "homeTeam": {
         "name": "South Africa",
-        "shortName": "South Africa"
+        "shortName": "South Africa",
+        "crest": "https://crests.football-data.org/9396.svg"
       },
       "awayTeam": {
         "name": "South Korea",
-        "shortName": "Korea Republic"
-      }
+        "shortName": "Korea Republic",
+        "crest": "https://crests.football-data.org/772.png"
+      },
+      "goals": [
+        {
+          "minute": 63,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "South Africa",
+          "scorer": "Thapelo Maseko",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537355,
@@ -1099,12 +2653,41 @@
       },
       "homeTeam": {
         "name": "Ecuador",
-        "shortName": "Ecuador"
+        "shortName": "Ecuador",
+        "crest": "https://crests.football-data.org/791.svg"
       },
       "awayTeam": {
         "name": "Germany",
-        "shortName": "Germany"
-      }
+        "shortName": "Germany",
+        "crest": "https://crests.football-data.org/759.svg"
+      },
+      "goals": [
+        {
+          "minute": 2,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Germany",
+          "scorer": "Leroy Sané",
+          "assist": null
+        },
+        {
+          "minute": 9,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Ecuador",
+          "scorer": "Nilson Angulo",
+          "assist": null
+        },
+        {
+          "minute": 77,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Ecuador",
+          "scorer": "Gonzalo Plata",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537356,
@@ -1119,12 +2702,33 @@
       },
       "homeTeam": {
         "name": "Curaçao",
-        "shortName": "Curaçao"
+        "shortName": "Curaçao",
+        "crest": "https://crests.football-data.org/curacao.svg"
       },
       "awayTeam": {
         "name": "Ivory Coast",
-        "shortName": "Ivory Coast"
-      }
+        "shortName": "Ivory Coast",
+        "crest": "https://crests.football-data.org/787.svg"
+      },
+      "goals": [
+        {
+          "minute": 7,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Cote d'Ivoire",
+          "scorer": "Nicolas Pépé",
+          "assist": null
+        },
+        {
+          "minute": 64,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Cote d'Ivoire",
+          "scorer": "Nicolas Pépé",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537361,
@@ -1139,12 +2743,49 @@
       },
       "homeTeam": {
         "name": "Tunisia",
-        "shortName": "Tunisia"
+        "shortName": "Tunisia",
+        "crest": "https://crests.football-data.org/tunisia.svg"
       },
       "awayTeam": {
         "name": "Netherlands",
-        "shortName": "Netherlands"
-      }
+        "shortName": "Netherlands",
+        "crest": "https://crests.football-data.org/8601.svg"
+      },
+      "goals": [
+        {
+          "minute": 3,
+          "injuryTime": null,
+          "type": "OWN_GOAL",
+          "team": "Netherlands",
+          "scorer": "Ellyes Skhiri",
+          "assist": null
+        },
+        {
+          "minute": 7,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Netherlands",
+          "scorer": "Brian Brobbey",
+          "assist": null
+        },
+        {
+          "minute": 54,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Tunisia",
+          "scorer": "Hazem Mastouri",
+          "assist": null
+        },
+        {
+          "minute": 62,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Netherlands",
+          "scorer": "Jan Paul van Hecke",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537362,
@@ -1159,12 +2800,33 @@
       },
       "homeTeam": {
         "name": "Japan",
-        "shortName": "Japan"
+        "shortName": "Japan",
+        "crest": "https://crests.football-data.org/766.svg"
       },
       "awayTeam": {
         "name": "Sweden",
-        "shortName": "Sweden"
-      }
+        "shortName": "Sweden",
+        "crest": "https://crests.football-data.org/792.svg"
+      },
+      "goals": [
+        {
+          "minute": 56,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Japan",
+          "scorer": "Daizen Maeda",
+          "assist": null
+        },
+        {
+          "minute": 62,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Sweden",
+          "scorer": "Anthony Elanga",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537349,
@@ -1179,12 +2841,57 @@
       },
       "homeTeam": {
         "name": "Turkey",
-        "shortName": "Turkey"
+        "shortName": "Turkey",
+        "crest": "https://crests.football-data.org/803.svg"
       },
       "awayTeam": {
         "name": "United States",
-        "shortName": "USA"
-      }
+        "shortName": "USA",
+        "crest": "https://crests.football-data.org/usa.svg"
+      },
+      "goals": [
+        {
+          "minute": 3,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "United States",
+          "scorer": "Auston Trusty",
+          "assist": null
+        },
+        {
+          "minute": 10,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Turkiye",
+          "scorer": "Arda Güler",
+          "assist": null
+        },
+        {
+          "minute": 31,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Turkiye",
+          "scorer": "Baris Alper Yilmaz",
+          "assist": null
+        },
+        {
+          "minute": 49,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "United States",
+          "scorer": "Sebastian Berhalter",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 8,
+          "type": "REGULAR",
+          "team": "Turkiye",
+          "scorer": "Kaan Ayhan",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537350,
@@ -1199,12 +2906,16 @@
       },
       "homeTeam": {
         "name": "Paraguay",
-        "shortName": "Paraguay"
+        "shortName": "Paraguay",
+        "crest": "https://crests.football-data.org/761.svg"
       },
       "awayTeam": {
         "name": "Australia",
-        "shortName": "Australia"
-      }
+        "shortName": "Australia",
+        "crest": "https://crests.football-data.org/779.svg"
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537395,
@@ -1219,12 +2930,57 @@
       },
       "homeTeam": {
         "name": "Norway",
-        "shortName": "Norway"
+        "shortName": "Norway",
+        "crest": "https://crests.football-data.org/813.svg"
       },
       "awayTeam": {
         "name": "France",
-        "shortName": "France"
-      }
+        "shortName": "France",
+        "crest": "https://crests.football-data.org/773.svg"
+      },
+      "goals": [
+        {
+          "minute": 7,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "France",
+          "scorer": "Ousmane Dembélé",
+          "assist": null
+        },
+        {
+          "minute": 20,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "France",
+          "scorer": "Ousmane Dembélé",
+          "assist": null
+        },
+        {
+          "minute": 21,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Norway",
+          "scorer": "Thelo Aasgaard",
+          "assist": null
+        },
+        {
+          "minute": 32,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "France",
+          "scorer": "Ousmane Dembélé",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 4,
+          "type": "REGULAR",
+          "team": "France",
+          "scorer": "Désiré Doué",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537396,
@@ -1239,12 +2995,57 @@
       },
       "homeTeam": {
         "name": "Senegal",
-        "shortName": "Senegal"
+        "shortName": "Senegal",
+        "crest": "https://crests.football-data.org/senegal.svg"
       },
       "awayTeam": {
         "name": "Iraq",
-        "shortName": "Iraq"
-      }
+        "shortName": "Iraq",
+        "crest": "https://crests.football-data.org/iraq.svg"
+      },
+      "goals": [
+        {
+          "minute": 4,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Senegal",
+          "scorer": "Habib Diarra",
+          "assist": null
+        },
+        {
+          "minute": 56,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Senegal",
+          "scorer": "Ismaïla Sarr",
+          "assist": null
+        },
+        {
+          "minute": 59,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Senegal",
+          "scorer": "Pape Gueye",
+          "assist": null
+        },
+        {
+          "minute": 71,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Senegal",
+          "scorer": "Pape Gueye",
+          "assist": null
+        },
+        {
+          "minute": 82,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Senegal",
+          "scorer": "Iliman Ndiaye",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537373,
@@ -1259,12 +3060,25 @@
       },
       "homeTeam": {
         "name": "Uruguay",
-        "shortName": "Uruguay"
+        "shortName": "Uruguay",
+        "crest": "https://crests.football-data.org/758.svg"
       },
       "awayTeam": {
         "name": "Spain",
-        "shortName": "Spain"
-      }
+        "shortName": "Spain",
+        "crest": "https://crests.football-data.org/760.svg"
+      },
+      "goals": [
+        {
+          "minute": 42,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Spain",
+          "scorer": "Álex Baena",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537374,
@@ -1279,12 +3093,16 @@
       },
       "homeTeam": {
         "name": "Cape Verde Islands",
-        "shortName": "Cape Verde"
+        "shortName": "Cape Verde",
+        "crest": "https://crests.football-data.org/cape_verde.svg"
       },
       "awayTeam": {
         "name": "Saudi Arabia",
-        "shortName": "Saudi Arabia"
-      }
+        "shortName": "Saudi Arabia",
+        "crest": "https://crests.football-data.org/saudi_arabia.svg"
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537367,
@@ -1299,12 +3117,65 @@
       },
       "homeTeam": {
         "name": "New Zealand",
-        "shortName": "New Zealand"
+        "shortName": "New Zealand",
+        "crest": "https://crests.football-data.org/783.svg"
       },
       "awayTeam": {
         "name": "Belgium",
-        "shortName": "Belgium"
-      }
+        "shortName": "Belgium",
+        "crest": "https://crests.football-data.org/805.svg"
+      },
+      "goals": [
+        {
+          "minute": 28,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Belgium",
+          "scorer": "Leandro Trossard",
+          "assist": null
+        },
+        {
+          "minute": 50,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Belgium",
+          "scorer": "Leandro Trossard",
+          "assist": null
+        },
+        {
+          "minute": 66,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Belgium",
+          "scorer": "Kevin De Bruyne",
+          "assist": null
+        },
+        {
+          "minute": 84,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "New Zealand",
+          "scorer": "Elijah Just",
+          "assist": null
+        },
+        {
+          "minute": 86,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Belgium",
+          "scorer": "Romelu Lukaku",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 4,
+          "type": "REGULAR",
+          "team": "Belgium",
+          "scorer": "Alexis Saelemaekers",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537368,
@@ -1319,12 +3190,33 @@
       },
       "homeTeam": {
         "name": "Egypt",
-        "shortName": "Egypt"
+        "shortName": "Egypt",
+        "crest": "https://crests.football-data.org/825.svg"
       },
       "awayTeam": {
         "name": "Iran",
-        "shortName": "Iran"
-      }
+        "shortName": "Iran",
+        "crest": "https://crests.football-data.org/iran.svg"
+      },
+      "goals": [
+        {
+          "minute": 5,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Egypt",
+          "scorer": "Mahmoud Saber",
+          "assist": null
+        },
+        {
+          "minute": 14,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "IR Iran",
+          "scorer": "Ramin Rezaeian",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537413,
@@ -1339,12 +3231,33 @@
       },
       "homeTeam": {
         "name": "Panama",
-        "shortName": "Panama"
+        "shortName": "Panama",
+        "crest": "https://crests.football-data.org/panama.svg"
       },
       "awayTeam": {
         "name": "England",
-        "shortName": "England"
-      }
+        "shortName": "England",
+        "crest": "https://crests.football-data.org/770.svg"
+      },
+      "goals": [
+        {
+          "minute": 62,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "England",
+          "scorer": "Jude Bellingham",
+          "assist": null
+        },
+        {
+          "minute": 67,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "England",
+          "scorer": "Harry Kane",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537414,
@@ -1359,12 +3272,41 @@
       },
       "homeTeam": {
         "name": "Croatia",
-        "shortName": "Croatia"
+        "shortName": "Croatia",
+        "crest": "https://crests.football-data.org/799.svg"
       },
       "awayTeam": {
         "name": "Ghana",
-        "shortName": "Ghana"
-      }
+        "shortName": "Ghana",
+        "crest": "https://crests.football-data.org/ghana.svg"
+      },
+      "goals": [
+        {
+          "minute": 31,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Croatia",
+          "scorer": "Petar Sucic",
+          "assist": null
+        },
+        {
+          "minute": 73,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Ghana",
+          "scorer": "Derrick Luckassen",
+          "assist": null
+        },
+        {
+          "minute": 83,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Croatia",
+          "scorer": "Nikola Vlasic",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537407,
@@ -1379,12 +3321,16 @@
       },
       "homeTeam": {
         "name": "Colombia",
-        "shortName": "Colombia"
+        "shortName": "Colombia",
+        "crest": "https://crests.football-data.org/818.svg"
       },
       "awayTeam": {
         "name": "Portugal",
-        "shortName": "Portugal"
-      }
+        "shortName": "Portugal",
+        "crest": "https://crests.football-data.org/765.svg"
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537408,
@@ -1399,12 +3345,49 @@
       },
       "homeTeam": {
         "name": "Congo DR",
-        "shortName": "Congo DR"
+        "shortName": "Congo DR",
+        "crest": "https://crests.football-data.org/congo_dr.svg"
       },
       "awayTeam": {
         "name": "Uzbekistan",
-        "shortName": "Uzbekistan"
-      }
+        "shortName": "Uzbekistan",
+        "crest": "https://crests.football-data.org/8070.png"
+      },
+      "goals": [
+        {
+          "minute": 10,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Uzbekistan",
+          "scorer": "Eldor Shomurodov",
+          "assist": null
+        },
+        {
+          "minute": 68,
+          "injuryTime": null,
+          "type": "PENALTY",
+          "team": "Congo DR",
+          "scorer": "Yoane Wissa",
+          "assist": null
+        },
+        {
+          "minute": 78,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Congo DR",
+          "scorer": "Fiston Mayele",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 1,
+          "type": "REGULAR",
+          "team": "Congo DR",
+          "scorer": "Yoane Wissa",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537401,
@@ -1419,12 +3402,49 @@
       },
       "homeTeam": {
         "name": "Jordan",
-        "shortName": "Jordan"
+        "shortName": "Jordan",
+        "crest": "https://crests.football-data.org/8049.png"
       },
       "awayTeam": {
         "name": "Argentina",
-        "shortName": "Argentina"
-      }
+        "shortName": "Argentina",
+        "crest": "https://crests.football-data.org/762.png"
+      },
+      "goals": [
+        {
+          "minute": 19,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Argentina",
+          "scorer": "Giovani Lo Celso",
+          "assist": null
+        },
+        {
+          "minute": 31,
+          "injuryTime": null,
+          "type": "PENALTY",
+          "team": "Argentina",
+          "scorer": "Lautaro Martínez",
+          "assist": null
+        },
+        {
+          "minute": 55,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Jordan",
+          "scorer": "Mousa Al-Tamari",
+          "assist": null
+        },
+        {
+          "minute": 80,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Argentina",
+          "scorer": "Lionel Messi",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537402,
@@ -1439,12 +3459,65 @@
       },
       "homeTeam": {
         "name": "Algeria",
-        "shortName": "Algeria"
+        "shortName": "Algeria",
+        "crest": "https://crests.football-data.org/algeria.svg"
       },
       "awayTeam": {
         "name": "Austria",
-        "shortName": "Austria"
-      }
+        "shortName": "Austria",
+        "crest": "https://crests.football-data.org/816.svg"
+      },
+      "goals": [
+        {
+          "minute": 28,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Austria",
+          "scorer": "Marko Arnautovic",
+          "assist": null
+        },
+        {
+          "minute": 45,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Algeria",
+          "scorer": "Rafik Belghali",
+          "assist": null
+        },
+        {
+          "minute": 55,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Austria",
+          "scorer": "Marcel Sabitzer",
+          "assist": null
+        },
+        {
+          "minute": 60,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Algeria",
+          "scorer": "Riyad Mahrez",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 3,
+          "type": "REGULAR",
+          "team": "Algeria",
+          "scorer": "Riyad Mahrez",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 6,
+          "type": "REGULAR",
+          "team": "Austria",
+          "scorer": "Sasa Kalajdzic",
+          "assist": null
+        }
+      ],
+      "goalsSource": "openfootball"
     },
     {
       "fdMatchId": 537417,
@@ -1459,12 +3532,16 @@
       },
       "homeTeam": {
         "name": "South Africa",
-        "shortName": "South Africa"
+        "shortName": "South Africa",
+        "crest": "https://crests.football-data.org/9396.svg"
       },
       "awayTeam": {
         "name": "Canada",
-        "shortName": "Canada"
-      }
+        "shortName": "Canada",
+        "crest": "https://crests.football-data.org/canada.svg"
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537423,
@@ -1479,12 +3556,16 @@
       },
       "homeTeam": {
         "name": "Brazil",
-        "shortName": "Brazil"
+        "shortName": "Brazil",
+        "crest": "https://crests.football-data.org/764.svg"
       },
       "awayTeam": {
         "name": "Japan",
-        "shortName": "Japan"
-      }
+        "shortName": "Japan",
+        "crest": "https://crests.football-data.org/766.svg"
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537415,
@@ -1499,12 +3580,16 @@
       },
       "homeTeam": {
         "name": "Germany",
-        "shortName": "Germany"
+        "shortName": "Germany",
+        "crest": "https://crests.football-data.org/759.svg"
       },
       "awayTeam": {
         "name": "Paraguay",
-        "shortName": "Paraguay"
-      }
+        "shortName": "Paraguay",
+        "crest": "https://crests.football-data.org/761.svg"
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537418,
@@ -1514,12 +3599,16 @@
       "score": null,
       "homeTeam": {
         "name": "Netherlands",
-        "shortName": "Netherlands"
+        "shortName": "Netherlands",
+        "crest": "https://crests.football-data.org/8601.svg"
       },
       "awayTeam": {
         "name": "Morocco",
-        "shortName": "Morocco"
-      }
+        "shortName": "Morocco",
+        "crest": "https://crests.football-data.org/morocco.svg"
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537424,
@@ -1529,12 +3618,16 @@
       "score": null,
       "homeTeam": {
         "name": "Ivory Coast",
-        "shortName": "Ivory Coast"
+        "shortName": "Ivory Coast",
+        "crest": "https://crests.football-data.org/787.svg"
       },
       "awayTeam": {
         "name": "Norway",
-        "shortName": "Norway"
-      }
+        "shortName": "Norway",
+        "crest": "https://crests.football-data.org/813.svg"
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537416,
@@ -1544,12 +3637,16 @@
       "score": null,
       "homeTeam": {
         "name": "France",
-        "shortName": "France"
+        "shortName": "France",
+        "crest": "https://crests.football-data.org/773.svg"
       },
       "awayTeam": {
         "name": "Sweden",
-        "shortName": "Sweden"
-      }
+        "shortName": "Sweden",
+        "crest": "https://crests.football-data.org/792.svg"
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537425,
@@ -1559,12 +3656,16 @@
       "score": null,
       "homeTeam": {
         "name": "Mexico",
-        "shortName": "Mexico"
+        "shortName": "Mexico",
+        "crest": "https://crests.football-data.org/769.svg"
       },
       "awayTeam": {
         "name": "Ecuador",
-        "shortName": "Ecuador"
-      }
+        "shortName": "Ecuador",
+        "crest": "https://crests.football-data.org/791.svg"
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537426,
@@ -1574,12 +3675,16 @@
       "score": null,
       "homeTeam": {
         "name": "England",
-        "shortName": "England"
+        "shortName": "England",
+        "crest": "https://crests.football-data.org/770.svg"
       },
       "awayTeam": {
         "name": "Congo DR",
-        "shortName": "Congo DR"
-      }
+        "shortName": "Congo DR",
+        "crest": "https://crests.football-data.org/congo_dr.svg"
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537422,
@@ -1589,12 +3694,16 @@
       "score": null,
       "homeTeam": {
         "name": "Belgium",
-        "shortName": "Belgium"
+        "shortName": "Belgium",
+        "crest": "https://crests.football-data.org/805.svg"
       },
       "awayTeam": {
         "name": "Senegal",
-        "shortName": "Senegal"
-      }
+        "shortName": "Senegal",
+        "crest": "https://crests.football-data.org/senegal.svg"
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537421,
@@ -1604,12 +3713,16 @@
       "score": null,
       "homeTeam": {
         "name": "United States",
-        "shortName": "USA"
+        "shortName": "USA",
+        "crest": "https://crests.football-data.org/usa.svg"
       },
       "awayTeam": {
         "name": "Bosnia-Herzegovina",
-        "shortName": "Bosnia-H."
-      }
+        "shortName": "Bosnia-H.",
+        "crest": "https://crests.football-data.org/bosnia.svg"
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537420,
@@ -1619,12 +3732,16 @@
       "score": null,
       "homeTeam": {
         "name": "Spain",
-        "shortName": "Spain"
+        "shortName": "Spain",
+        "crest": "https://crests.football-data.org/760.svg"
       },
       "awayTeam": {
         "name": "Austria",
-        "shortName": "Austria"
-      }
+        "shortName": "Austria",
+        "crest": "https://crests.football-data.org/816.svg"
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537419,
@@ -1634,12 +3751,16 @@
       "score": null,
       "homeTeam": {
         "name": "Portugal",
-        "shortName": "Portugal"
+        "shortName": "Portugal",
+        "crest": "https://crests.football-data.org/765.svg"
       },
       "awayTeam": {
         "name": "Croatia",
-        "shortName": "Croatia"
-      }
+        "shortName": "Croatia",
+        "crest": "https://crests.football-data.org/799.svg"
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537429,
@@ -1649,12 +3770,16 @@
       "score": null,
       "homeTeam": {
         "name": "Switzerland",
-        "shortName": "Switzerland"
+        "shortName": "Switzerland",
+        "crest": "https://crests.football-data.org/788.svg"
       },
       "awayTeam": {
         "name": "Algeria",
-        "shortName": "Algeria"
-      }
+        "shortName": "Algeria",
+        "crest": "https://crests.football-data.org/algeria.svg"
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537428,
@@ -1664,12 +3789,16 @@
       "score": null,
       "homeTeam": {
         "name": "Australia",
-        "shortName": "Australia"
+        "shortName": "Australia",
+        "crest": "https://crests.football-data.org/779.svg"
       },
       "awayTeam": {
         "name": "Egypt",
-        "shortName": "Egypt"
-      }
+        "shortName": "Egypt",
+        "crest": "https://crests.football-data.org/825.svg"
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537427,
@@ -1679,12 +3808,16 @@
       "score": null,
       "homeTeam": {
         "name": "Argentina",
-        "shortName": "Argentina"
+        "shortName": "Argentina",
+        "crest": "https://crests.football-data.org/762.png"
       },
       "awayTeam": {
         "name": "Cape Verde Islands",
-        "shortName": "Cape Verde"
-      }
+        "shortName": "Cape Verde",
+        "crest": "https://crests.football-data.org/cape_verde.svg"
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537430,
@@ -1694,12 +3827,16 @@
       "score": null,
       "homeTeam": {
         "name": "Colombia",
-        "shortName": "Colombia"
+        "shortName": "Colombia",
+        "crest": "https://crests.football-data.org/818.svg"
       },
       "awayTeam": {
         "name": "Ghana",
-        "shortName": "Ghana"
-      }
+        "shortName": "Ghana",
+        "crest": "https://crests.football-data.org/ghana.svg"
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537376,
@@ -1709,12 +3846,16 @@
       "score": null,
       "homeTeam": {
         "name": "Canada",
-        "shortName": "Canada"
+        "shortName": "Canada",
+        "crest": "https://crests.football-data.org/canada.svg"
       },
       "awayTeam": {
         "name": null,
-        "shortName": null
-      }
+        "shortName": null,
+        "crest": null
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537375,
@@ -1724,12 +3865,16 @@
       "score": null,
       "homeTeam": {
         "name": null,
-        "shortName": null
+        "shortName": null,
+        "crest": null
       },
       "awayTeam": {
         "name": null,
-        "shortName": null
-      }
+        "shortName": null,
+        "crest": null
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537377,
@@ -1739,12 +3884,16 @@
       "score": null,
       "homeTeam": {
         "name": null,
-        "shortName": null
+        "shortName": null,
+        "crest": null
       },
       "awayTeam": {
         "name": null,
-        "shortName": null
-      }
+        "shortName": null,
+        "crest": null
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537378,
@@ -1754,12 +3903,16 @@
       "score": null,
       "homeTeam": {
         "name": null,
-        "shortName": null
+        "shortName": null,
+        "crest": null
       },
       "awayTeam": {
         "name": null,
-        "shortName": null
-      }
+        "shortName": null,
+        "crest": null
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537379,
@@ -1769,12 +3922,16 @@
       "score": null,
       "homeTeam": {
         "name": null,
-        "shortName": null
+        "shortName": null,
+        "crest": null
       },
       "awayTeam": {
         "name": null,
-        "shortName": null
-      }
+        "shortName": null,
+        "crest": null
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537380,
@@ -1784,12 +3941,16 @@
       "score": null,
       "homeTeam": {
         "name": null,
-        "shortName": null
+        "shortName": null,
+        "crest": null
       },
       "awayTeam": {
         "name": null,
-        "shortName": null
-      }
+        "shortName": null,
+        "crest": null
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537381,
@@ -1799,12 +3960,16 @@
       "score": null,
       "homeTeam": {
         "name": null,
-        "shortName": null
+        "shortName": null,
+        "crest": null
       },
       "awayTeam": {
         "name": null,
-        "shortName": null
-      }
+        "shortName": null,
+        "crest": null
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537382,
@@ -1814,12 +3979,16 @@
       "score": null,
       "homeTeam": {
         "name": null,
-        "shortName": null
+        "shortName": null,
+        "crest": null
       },
       "awayTeam": {
         "name": null,
-        "shortName": null
-      }
+        "shortName": null,
+        "crest": null
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537383,
@@ -1829,12 +3998,16 @@
       "score": null,
       "homeTeam": {
         "name": null,
-        "shortName": null
+        "shortName": null,
+        "crest": null
       },
       "awayTeam": {
         "name": null,
-        "shortName": null
-      }
+        "shortName": null,
+        "crest": null
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537384,
@@ -1844,12 +4017,16 @@
       "score": null,
       "homeTeam": {
         "name": null,
-        "shortName": null
+        "shortName": null,
+        "crest": null
       },
       "awayTeam": {
         "name": null,
-        "shortName": null
-      }
+        "shortName": null,
+        "crest": null
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537385,
@@ -1859,12 +4036,16 @@
       "score": null,
       "homeTeam": {
         "name": null,
-        "shortName": null
+        "shortName": null,
+        "crest": null
       },
       "awayTeam": {
         "name": null,
-        "shortName": null
-      }
+        "shortName": null,
+        "crest": null
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537386,
@@ -1874,12 +4055,16 @@
       "score": null,
       "homeTeam": {
         "name": null,
-        "shortName": null
+        "shortName": null,
+        "crest": null
       },
       "awayTeam": {
         "name": null,
-        "shortName": null
-      }
+        "shortName": null,
+        "crest": null
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537387,
@@ -1889,12 +4074,16 @@
       "score": null,
       "homeTeam": {
         "name": null,
-        "shortName": null
+        "shortName": null,
+        "crest": null
       },
       "awayTeam": {
         "name": null,
-        "shortName": null
-      }
+        "shortName": null,
+        "crest": null
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537388,
@@ -1904,12 +4093,16 @@
       "score": null,
       "homeTeam": {
         "name": null,
-        "shortName": null
+        "shortName": null,
+        "crest": null
       },
       "awayTeam": {
         "name": null,
-        "shortName": null
-      }
+        "shortName": null,
+        "crest": null
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537389,
@@ -1919,12 +4112,16 @@
       "score": null,
       "homeTeam": {
         "name": null,
-        "shortName": null
+        "shortName": null,
+        "crest": null
       },
       "awayTeam": {
         "name": null,
-        "shortName": null
-      }
+        "shortName": null,
+        "crest": null
+      },
+      "goals": null,
+      "goalsSource": null
     },
     {
       "fdMatchId": 537390,
@@ -1934,12 +4131,16 @@
       "score": null,
       "homeTeam": {
         "name": null,
-        "shortName": null
+        "shortName": null,
+        "crest": null
       },
       "awayTeam": {
         "name": null,
-        "shortName": null
-      }
+        "shortName": null,
+        "crest": null
+      },
+      "goals": null,
+      "goalsSource": null
     }
   ]
 }

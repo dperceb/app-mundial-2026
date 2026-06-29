@@ -25,6 +25,9 @@ const TEAM_ALIASES = {
   'dr congo': 'dr-congo',
   'congo dr': 'dr-congo',
   'democratic republic of the congo': 'dr-congo',
+  'd.r. congo': 'dr-congo',
+  'new zealand': 'new-zealand',
+  'scotland': 'scotland',
 };
 
 const STAGE_TO_FD = {

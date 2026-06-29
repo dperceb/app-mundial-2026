@@ -13,14 +13,18 @@ async function sleep(ms) {
   return new Promise((r) => setTimeout(r, ms));
 }
 
-export async function fdFetch(path, token, retries = 2) {
+export async function fdFetch(path, token, options = {}) {
+  const { retries = 2, headers: extraHeaders = {} } = options;
   const url = `${API_BASE}${path}`;
   let lastErr;
 
   for (let attempt = 0; attempt <= retries; attempt++) {
     try {
       const res = await fetch(url, {
-        headers: { 'X-Auth-Token': token },
+        headers: {
+          'X-Auth-Token': token,
+          ...extraHeaders,
+        },
       });
 
       if (res.status === 429) {
@@ -47,7 +51,9 @@ export async function fdFetch(path, token, retries = 2) {
 }
 
 export async function getCompetitionMatches(token, season = SEASON) {
-  const data = await fdFetch(`/competitions/${COMPETITION}/matches?season=${season}`, token);
+  const data = await fdFetch(`/competitions/${COMPETITION}/matches?season=${season}`, token, {
+    headers: { 'X-Unfold-Goals': 'true' },
+  });
   return data.matches || [];
 }
 
@@ -81,4 +87,26 @@ export function mapFdScore(match) {
     homeHt: ht?.home ?? null,
     awayHt: ht?.away ?? null,
   };
+}
+
+export function mapFdTeam(team) {
+  if (!team) return null;
+  return {
+    name: team.name,
+    shortName: team.shortName || null,
+    crest: team.crest || null,
+  };
+}
+
+export function mapFdGoals(match) {
+  if (!match.goals?.length) return null;
+  return match.goals.map((g) => ({
+    minute: g.minute ?? null,
+    injuryTime: g.injuryTime ?? null,
+    type: g.type || 'REGULAR',
+    team: g.team?.name || null,
+    teamId: g.team?.id ?? null,
+    scorer: g.scorer?.name || null,
+    assist: g.assist?.name || null,
+  }));
 }

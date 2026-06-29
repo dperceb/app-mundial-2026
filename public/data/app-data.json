@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-06-29T20:54:04.784Z",
+  "lastUpdated": "2026-06-29T20:55:33.912Z",
   "meta": {
     "staticLastUpdated": "2026-06-29T19:13:55.072Z",
-    "resultsLastUpdated": "2026-06-29T20:54:03.588Z",
-    "standingsLastUpdated": "2026-06-29T20:54:04.759Z",
+    "resultsLastUpdated": "2026-06-29T20:55:33.446Z",
+    "standingsLastUpdated": "2026-06-29T20:55:33.844Z",
     "liveOk": true,
     "resultsOk": true,
     "standingsOk": true,
@@ -374,11 +374,13 @@
       "group": "A",
       "homeTeam": {
         "slug": "mexico",
-        "name": "Mexico"
+        "name": "Mexico",
+        "crest": "https://crests.football-data.org/769.svg"
       },
       "awayTeam": {
         "slug": "south-africa",
-        "name": "South Africa"
+        "name": "South Africa",
+        "crest": "https://crests.football-data.org/9396.svg"
       },
       "stadium": {
         "name": "Estadio Azteca",
@@ -394,6 +396,24 @@
         "homeHt": 1,
         "awayHt": 0
       },
+      "goals": [
+        {
+          "minute": 9,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Mexico",
+          "scorer": "Julián Quiñones",
+          "assist": null
+        },
+        {
+          "minute": 67,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Mexico",
+          "scorer": "Raúl Jiménez",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -405,11 +425,13 @@
       "group": "A",
       "homeTeam": {
         "slug": "south-korea",
-        "name": "Korea Republic"
+        "name": "Korea Republic",
+        "crest": "https://crests.football-data.org/772.png"
       },
       "awayTeam": {
         "slug": "czech-republic",
-        "name": "Czechia"
+        "name": "Czechia",
+        "crest": "https://crests.football-data.org/798.svg"
       },
       "stadium": {
         "name": "Estadio Akron",
@@ -425,6 +447,32 @@
         "homeHt": 0,
         "awayHt": 0
       },
+      "goals": [
+        {
+          "minute": 59,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Czechia",
+          "scorer": "Ladislav Krejcí",
+          "assist": null
+        },
+        {
+          "minute": 67,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Korea Republic",
+          "scorer": "Hwang In-Beom",
+          "assist": null
+        },
+        {
+          "minute": 80,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Korea Republic",
+          "scorer": "Oh Hyeon-Gyu",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -436,11 +484,13 @@
       "group": "B",
       "homeTeam": {
         "slug": "canada",
-        "name": "Canada"
+        "name": "Canada",
+        "crest": "https://crests.football-data.org/canada.svg"
       },
       "awayTeam": {
         "slug": "bosnia-herzegovina",
-        "name": "Bosnia and Herzegovina"
+        "name": "Bosnia and Herzegovina",
+        "crest": "https://crests.football-data.org/bosnia.svg"
       },
       "stadium": {
         "name": "BMO Field",
@@ -456,6 +506,24 @@
         "homeHt": 0,
         "awayHt": 1
       },
+      "goals": [
+        {
+          "minute": 21,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Bosnia and Herzegovina",
+          "scorer": "Jovo Lukić",
+          "assist": null
+        },
+        {
+          "minute": 78,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Canada",
+          "scorer": "Cyle Larin",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -467,11 +535,13 @@
       "group": "D",
       "homeTeam": {
         "slug": "united-states",
-        "name": "United States"
+        "name": "United States",
+        "crest": "https://crests.football-data.org/usa.svg"
       },
       "awayTeam": {
         "slug": "paraguay",
-        "name": "Paraguay"
+        "name": "Paraguay",
+        "crest": "https://crests.football-data.org/761.svg"
       },
       "stadium": {
         "name": "SoFi Stadium",
@@ -487,6 +557,48 @@
         "homeHt": 3,
         "awayHt": 0
       },
+      "goals": [
+        {
+          "minute": 7,
+          "injuryTime": null,
+          "type": "OWN_GOAL",
+          "team": "United States",
+          "scorer": "Damian Bobadilla",
+          "assist": null
+        },
+        {
+          "minute": 31,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "United States",
+          "scorer": "Folarin Balogun",
+          "assist": null
+        },
+        {
+          "minute": 45,
+          "injuryTime": 5,
+          "type": "REGULAR",
+          "team": "United States",
+          "scorer": "Folarin Balogun",
+          "assist": null
+        },
+        {
+          "minute": 73,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Paraguay",
+          "scorer": "Mauricio",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 8,
+          "type": "REGULAR",
+          "team": "United States",
+          "scorer": "Giovanni Reyna",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -498,11 +610,13 @@
       "group": "C",
       "homeTeam": {
         "slug": "haiti",
-        "name": "Haiti"
+        "name": "Haiti",
+        "crest": "https://crests.football-data.org/haiti.svg"
       },
       "awayTeam": {
         "slug": "scotland",
-        "name": "Scotland"
+        "name": "Scotland",
+        "crest": "https://crests.football-data.org/814.svg"
       },
       "stadium": {
         "name": "Gillette Stadium",
@@ -518,6 +632,16 @@
         "homeHt": 0,
         "awayHt": 1
       },
+      "goals": [
+        {
+          "minute": 28,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Scotland",
+          "scorer": "John McGinn",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -529,11 +653,13 @@
       "group": "D",
       "homeTeam": {
         "slug": "australia",
-        "name": "Australia"
+        "name": "Australia",
+        "crest": "https://crests.football-data.org/779.svg"
       },
       "awayTeam": {
         "slug": "turkiye",
-        "name": "Turkiye"
+        "name": "Turkiye",
+        "crest": "https://crests.football-data.org/803.svg"
       },
       "stadium": {
         "name": "BC Place",
@@ -549,6 +675,24 @@
         "homeHt": 1,
         "awayHt": 0
       },
+      "goals": [
+        {
+          "minute": 27,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Australia",
+          "scorer": "Nestory Irankunda",
+          "assist": null
+        },
+        {
+          "minute": 75,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Australia",
+          "scorer": "Connor Metcalfe",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -560,11 +704,13 @@
       "group": "C",
       "homeTeam": {
         "slug": "brazil",
-        "name": "Brazil"
+        "name": "Brazil",
+        "crest": "https://crests.football-data.org/764.svg"
       },
       "awayTeam": {
         "slug": "morocco",
-        "name": "Morocco"
+        "name": "Morocco",
+        "crest": "https://crests.football-data.org/morocco.svg"
       },
       "stadium": {
         "name": "MetLife Stadium",
@@ -580,6 +726,24 @@
         "homeHt": 1,
         "awayHt": 1
       },
+      "goals": [
+        {
+          "minute": 21,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Morocco",
+          "scorer": "Ismael Saibari",
+          "assist": null
+        },
+        {
+          "minute": 32,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Brazil",
+          "scorer": "Vinícius Júnior",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -591,11 +755,13 @@
       "group": "B",
       "homeTeam": {
         "slug": "qatar",
-        "name": "Qatar"
+        "name": "Qatar",
+        "crest": "https://crests.football-data.org/8030.svg"
       },
       "awayTeam": {
         "slug": "switzerland",
-        "name": "Switzerland"
+        "name": "Switzerland",
+        "crest": "https://crests.football-data.org/788.svg"
       },
       "stadium": {
         "name": "Levi's Stadium",
@@ -611,6 +777,24 @@
         "homeHt": 0,
         "awayHt": 1
       },
+      "goals": [
+        {
+          "minute": 17,
+          "injuryTime": null,
+          "type": "PENALTY",
+          "team": "Switzerland",
+          "scorer": "Breel Embolo",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 4,
+          "type": "OWN_GOAL",
+          "team": "Qatar",
+          "scorer": "Miro Muheim",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -622,11 +806,13 @@
       "group": "E",
       "homeTeam": {
         "slug": "ivory-coast",
-        "name": "Cote d'Ivoire"
+        "name": "Cote d'Ivoire",
+        "crest": "https://crests.football-data.org/787.svg"
       },
       "awayTeam": {
         "slug": "ecuador",
-        "name": "Ecuador"
+        "name": "Ecuador",
+        "crest": "https://crests.football-data.org/791.svg"
       },
       "stadium": {
         "name": "Lincoln Financial Field",
@@ -642,6 +828,16 @@
         "homeHt": 0,
         "awayHt": 0
       },
+      "goals": [
+        {
+          "minute": 90,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Cote d'Ivoire",
+          "scorer": "Amad Diallo",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -653,11 +849,13 @@
       "group": "E",
       "homeTeam": {
         "slug": "germany",
-        "name": "Germany"
+        "name": "Germany",
+        "crest": "https://crests.football-data.org/759.svg"
       },
       "awayTeam": {
         "slug": "curacao",
-        "name": "Curacao"
+        "name": "Curacao",
+        "crest": "https://crests.football-data.org/curacao.svg"
       },
       "stadium": {
         "name": "NRG Stadium",
@@ -673,6 +871,72 @@
         "homeHt": 3,
         "awayHt": 1
       },
+      "goals": [
+        {
+          "minute": 6,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Germany",
+          "scorer": "Felix Nmecha",
+          "assist": null
+        },
+        {
+          "minute": 21,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Curacao",
+          "scorer": "Livano Comenencia",
+          "assist": null
+        },
+        {
+          "minute": 38,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Germany",
+          "scorer": "Nico Schlotterbeck",
+          "assist": null
+        },
+        {
+          "minute": 45,
+          "injuryTime": 5,
+          "type": "PENALTY",
+          "team": "Germany",
+          "scorer": "Kai Havertz",
+          "assist": null
+        },
+        {
+          "minute": 47,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Germany",
+          "scorer": "Jamal Musiala",
+          "assist": null
+        },
+        {
+          "minute": 68,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Germany",
+          "scorer": "Nathaniel Brown",
+          "assist": null
+        },
+        {
+          "minute": 78,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Germany",
+          "scorer": "Deniz Undav",
+          "assist": null
+        },
+        {
+          "minute": 88,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Germany",
+          "scorer": "Kai Havertz",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -684,11 +948,13 @@
       "group": "F",
       "homeTeam": {
         "slug": "netherlands",
-        "name": "Netherlands"
+        "name": "Netherlands",
+        "crest": "https://crests.football-data.org/8601.svg"
       },
       "awayTeam": {
         "slug": "japan",
-        "name": "Japan"
+        "name": "Japan",
+        "crest": "https://crests.football-data.org/766.svg"
       },
       "stadium": {
         "name": "AT&T Stadium",
@@ -704,6 +970,40 @@
         "homeHt": 0,
         "awayHt": 0
       },
+      "goals": [
+        {
+          "minute": 51,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Netherlands",
+          "scorer": "Virgil van Dijk",
+          "assist": null
+        },
+        {
+          "minute": 57,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Japan",
+          "scorer": "Keito Nakamura",
+          "assist": null
+        },
+        {
+          "minute": 64,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Netherlands",
+          "scorer": "Crysencio Summerville",
+          "assist": null
+        },
+        {
+          "minute": 88,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Japan",
+          "scorer": "Daichi Kamada",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -715,11 +1015,13 @@
       "group": "F",
       "homeTeam": {
         "slug": "sweden",
-        "name": "Sweden"
+        "name": "Sweden",
+        "crest": "https://crests.football-data.org/792.svg"
       },
       "awayTeam": {
         "slug": "tunisia",
-        "name": "Tunisia"
+        "name": "Tunisia",
+        "crest": "https://crests.football-data.org/tunisia.svg"
       },
       "stadium": {
         "name": "Estadio BBVA",
@@ -735,6 +1037,56 @@
         "homeHt": 2,
         "awayHt": 1
       },
+      "goals": [
+        {
+          "minute": 7,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Sweden",
+          "scorer": "Yasin Ayari",
+          "assist": null
+        },
+        {
+          "minute": 30,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Sweden",
+          "scorer": "Alexander Isak",
+          "assist": null
+        },
+        {
+          "minute": 43,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Tunisia",
+          "scorer": "Omar Rekik",
+          "assist": null
+        },
+        {
+          "minute": 59,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Sweden",
+          "scorer": "Viktor Gyökeres",
+          "assist": null
+        },
+        {
+          "minute": 84,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Sweden",
+          "scorer": "Mattias Svanberg",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 6,
+          "type": "REGULAR",
+          "team": "Sweden",
+          "scorer": "Yasin Ayari",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -746,11 +1098,13 @@
       "group": "H",
       "homeTeam": {
         "slug": "saudi-arabia",
-        "name": "Saudi Arabia"
+        "name": "Saudi Arabia",
+        "crest": "https://crests.football-data.org/saudi_arabia.svg"
       },
       "awayTeam": {
         "slug": "uruguay",
-        "name": "Uruguay"
+        "name": "Uruguay",
+        "crest": "https://crests.football-data.org/758.svg"
       },
       "stadium": {
         "name": "Hard Rock Stadium",
@@ -766,6 +1120,24 @@
         "homeHt": 1,
         "awayHt": 0
       },
+      "goals": [
+        {
+          "minute": 41,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Saudi Arabia",
+          "scorer": "Abdulelah Al-Amri",
+          "assist": null
+        },
+        {
+          "minute": 80,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Uruguay",
+          "scorer": "Maxi Araújo",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -777,11 +1149,13 @@
       "group": "H",
       "homeTeam": {
         "slug": "spain",
-        "name": "Spain"
+        "name": "Spain",
+        "crest": "https://crests.football-data.org/760.svg"
       },
       "awayTeam": {
         "slug": "cabo-verde",
-        "name": "Cabo Verde"
+        "name": "Cabo Verde",
+        "crest": "https://crests.football-data.org/cape_verde.svg"
       },
       "stadium": {
         "name": "Mercedes-Benz Stadium",
@@ -797,6 +1171,7 @@
         "homeHt": 0,
         "awayHt": 0
       },
+      "goals": null,
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -808,11 +1183,13 @@
       "group": "G",
       "homeTeam": {
         "slug": "ir-iran",
-        "name": "IR Iran"
+        "name": "IR Iran",
+        "crest": "https://crests.football-data.org/iran.svg"
       },
       "awayTeam": {
         "slug": "new-zealand",
-        "name": "New Zealand"
+        "name": "New Zealand",
+        "crest": "https://crests.football-data.org/783.svg"
       },
       "stadium": {
         "name": "SoFi Stadium",
@@ -828,6 +1205,40 @@
         "homeHt": 1,
         "awayHt": 1
       },
+      "goals": [
+        {
+          "minute": 7,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "New Zealand",
+          "scorer": "Elijah Just",
+          "assist": null
+        },
+        {
+          "minute": 32,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "IR Iran",
+          "scorer": "Ramin Rezaeian",
+          "assist": null
+        },
+        {
+          "minute": 54,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "New Zealand",
+          "scorer": "Elijah Just",
+          "assist": null
+        },
+        {
+          "minute": 64,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "IR Iran",
+          "scorer": "Mohammad Mohebbi",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -839,11 +1250,13 @@
       "group": "G",
       "homeTeam": {
         "slug": "belgium",
-        "name": "Belgium"
+        "name": "Belgium",
+        "crest": "https://crests.football-data.org/805.svg"
       },
       "awayTeam": {
         "slug": "egypt",
-        "name": "Egypt"
+        "name": "Egypt",
+        "crest": "https://crests.football-data.org/825.svg"
       },
       "stadium": {
         "name": "Lumen Field",
@@ -859,6 +1272,24 @@
         "homeHt": 0,
         "awayHt": 1
       },
+      "goals": [
+        {
+          "minute": 19,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Egypt",
+          "scorer": "Emam Ashour",
+          "assist": null
+        },
+        {
+          "minute": 66,
+          "injuryTime": null,
+          "type": "OWN_GOAL",
+          "team": "Belgium",
+          "scorer": "Mohamed Hany",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -870,11 +1301,13 @@
       "group": "I",
       "homeTeam": {
         "slug": "france",
-        "name": "France"
+        "name": "France",
+        "crest": "https://crests.football-data.org/773.svg"
       },
       "awayTeam": {
         "slug": "senegal",
-        "name": "Senegal"
+        "name": "Senegal",
+        "crest": "https://crests.football-data.org/senegal.svg"
       },
       "stadium": {
         "name": "MetLife Stadium",
@@ -890,6 +1323,40 @@
         "homeHt": 0,
         "awayHt": 0
       },
+      "goals": [
+        {
+          "minute": 66,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "France",
+          "scorer": "Kylian Mbappé",
+          "assist": null
+        },
+        {
+          "minute": 82,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "France",
+          "scorer": "Bradley Barcola",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 5,
+          "type": "REGULAR",
+          "team": "Senegal",
+          "scorer": "Ibrahim Mbaye",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 6,
+          "type": "REGULAR",
+          "team": "France",
+          "scorer": "Kylian Mbappé",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -901,11 +1368,13 @@
       "group": "I",
       "homeTeam": {
         "slug": "iraq",
-        "name": "Iraq"
+        "name": "Iraq",
+        "crest": "https://crests.football-data.org/iraq.svg"
       },
       "awayTeam": {
         "slug": "norway",
-        "name": "Norway"
+        "name": "Norway",
+        "crest": "https://crests.football-data.org/813.svg"
       },
       "stadium": {
         "name": "Gillette Stadium",
@@ -921,6 +1390,48 @@
         "homeHt": 1,
         "awayHt": 2
       },
+      "goals": [
+        {
+          "minute": 29,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Norway",
+          "scorer": "Erling Haaland",
+          "assist": null
+        },
+        {
+          "minute": 39,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Iraq",
+          "scorer": "Aymen Hussein",
+          "assist": null
+        },
+        {
+          "minute": 43,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Norway",
+          "scorer": "Erling Haaland",
+          "assist": null
+        },
+        {
+          "minute": 76,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Norway",
+          "scorer": "Leo Østigard",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 6,
+          "type": "OWN_GOAL",
+          "team": "Norway",
+          "scorer": "Aymen Hussein",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -932,11 +1443,13 @@
       "group": "J",
       "homeTeam": {
         "slug": "argentina",
-        "name": "Argentina"
+        "name": "Argentina",
+        "crest": "https://crests.football-data.org/762.png"
       },
       "awayTeam": {
         "slug": "algeria",
-        "name": "Algeria"
+        "name": "Algeria",
+        "crest": "https://crests.football-data.org/algeria.svg"
       },
       "stadium": {
         "name": "Arrowhead Stadium",
@@ -952,6 +1465,32 @@
         "homeHt": 1,
         "awayHt": 0
       },
+      "goals": [
+        {
+          "minute": 17,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Argentina",
+          "scorer": "Lionel Messi",
+          "assist": null
+        },
+        {
+          "minute": 60,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Argentina",
+          "scorer": "Lionel Messi",
+          "assist": null
+        },
+        {
+          "minute": 76,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Argentina",
+          "scorer": "Lionel Messi",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -963,11 +1502,13 @@
       "group": "J",
       "homeTeam": {
         "slug": "austria",
-        "name": "Austria"
+        "name": "Austria",
+        "crest": "https://crests.football-data.org/816.svg"
       },
       "awayTeam": {
         "slug": "jordan",
-        "name": "Jordan"
+        "name": "Jordan",
+        "crest": "https://crests.football-data.org/8049.png"
       },
       "stadium": {
         "name": "Levi's Stadium",
@@ -983,6 +1524,40 @@
         "homeHt": 1,
         "awayHt": 0
       },
+      "goals": [
+        {
+          "minute": 21,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Austria",
+          "scorer": "Romano Schmid",
+          "assist": null
+        },
+        {
+          "minute": 50,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Jordan",
+          "scorer": "Ali Olwan",
+          "assist": null
+        },
+        {
+          "minute": 76,
+          "injuryTime": null,
+          "type": "OWN_GOAL",
+          "team": "Austria",
+          "scorer": "Yazan Al-Arab",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 12,
+          "type": "PENALTY",
+          "team": "Austria",
+          "scorer": "Marko Arnautovic",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -994,11 +1569,13 @@
       "group": "L",
       "homeTeam": {
         "slug": "ghana",
-        "name": "Ghana"
+        "name": "Ghana",
+        "crest": "https://crests.football-data.org/ghana.svg"
       },
       "awayTeam": {
         "slug": "panama",
-        "name": "Panama"
+        "name": "Panama",
+        "crest": "https://crests.football-data.org/panama.svg"
       },
       "stadium": {
         "name": "BMO Field",
@@ -1014,6 +1591,16 @@
         "homeHt": 0,
         "awayHt": 0
       },
+      "goals": [
+        {
+          "minute": 90,
+          "injuryTime": 5,
+          "type": "REGULAR",
+          "team": "Ghana",
+          "scorer": "Caleb Yirenkyi",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -1025,11 +1612,13 @@
       "group": "L",
       "homeTeam": {
         "slug": "england",
-        "name": "England"
+        "name": "England",
+        "crest": "https://crests.football-data.org/770.svg"
       },
       "awayTeam": {
         "slug": "croatia",
-        "name": "Croatia"
+        "name": "Croatia",
+        "crest": "https://crests.football-data.org/799.svg"
       },
       "stadium": {
         "name": "AT&T Stadium",
@@ -1045,6 +1634,56 @@
         "homeHt": 2,
         "awayHt": 2
       },
+      "goals": [
+        {
+          "minute": 12,
+          "injuryTime": null,
+          "type": "PENALTY",
+          "team": "England",
+          "scorer": "Harry Kane",
+          "assist": null
+        },
+        {
+          "minute": 36,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Croatia",
+          "scorer": "Martin Baturina",
+          "assist": null
+        },
+        {
+          "minute": 42,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "England",
+          "scorer": "Harry Kane",
+          "assist": null
+        },
+        {
+          "minute": 45,
+          "injuryTime": 5,
+          "type": "REGULAR",
+          "team": "Croatia",
+          "scorer": "Petar Musa",
+          "assist": null
+        },
+        {
+          "minute": 47,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "England",
+          "scorer": "Jude Bellingham",
+          "assist": null
+        },
+        {
+          "minute": 85,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "England",
+          "scorer": "Marcus Rashford",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -1056,11 +1695,13 @@
       "group": "K",
       "homeTeam": {
         "slug": "portugal",
-        "name": "Portugal"
+        "name": "Portugal",
+        "crest": "https://crests.football-data.org/765.svg"
       },
       "awayTeam": {
         "slug": "congo-dr",
-        "name": "Congo DR"
+        "name": "Congo DR",
+        "crest": "https://crests.football-data.org/congo_dr.svg"
       },
       "stadium": {
         "name": "NRG Stadium",
@@ -1076,6 +1717,24 @@
         "homeHt": 1,
         "awayHt": 1
       },
+      "goals": [
+        {
+          "minute": 6,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Portugal",
+          "scorer": "João Neves",
+          "assist": null
+        },
+        {
+          "minute": 45,
+          "injuryTime": 5,
+          "type": "REGULAR",
+          "team": "Congo DR",
+          "scorer": "Yoane Wissa",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -1087,11 +1746,13 @@
       "group": "K",
       "homeTeam": {
         "slug": "uzbekistan",
-        "name": "Uzbekistan"
+        "name": "Uzbekistan",
+        "crest": "https://crests.football-data.org/8070.png"
       },
       "awayTeam": {
         "slug": "colombia",
-        "name": "Colombia"
+        "name": "Colombia",
+        "crest": "https://crests.football-data.org/818.svg"
       },
       "stadium": {
         "name": "Estadio Azteca",
@@ -1107,6 +1768,40 @@
         "homeHt": 0,
         "awayHt": 1
       },
+      "goals": [
+        {
+          "minute": 40,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Colombia",
+          "scorer": "Daniel Muñoz",
+          "assist": null
+        },
+        {
+          "minute": 60,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Uzbekistan",
+          "scorer": "Abbosbek Fayzullaev",
+          "assist": null
+        },
+        {
+          "minute": 65,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Colombia",
+          "scorer": "Luis Díaz",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 9,
+          "type": "REGULAR",
+          "team": "Colombia",
+          "scorer": "Jáminton Campaz",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -1118,11 +1813,13 @@
       "group": "A",
       "homeTeam": {
         "slug": "czech-republic",
-        "name": "Czechia"
+        "name": "Czechia",
+        "crest": "https://crests.football-data.org/798.svg"
       },
       "awayTeam": {
         "slug": "south-africa",
-        "name": "South Africa"
+        "name": "South Africa",
+        "crest": "https://crests.football-data.org/9396.svg"
       },
       "stadium": {
         "name": "Mercedes-Benz Stadium",
@@ -1138,6 +1835,24 @@
         "homeHt": 1,
         "awayHt": 0
       },
+      "goals": [
+        {
+          "minute": 6,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Czechia",
+          "scorer": "Michal Sadílek",
+          "assist": null
+        },
+        {
+          "minute": 83,
+          "injuryTime": null,
+          "type": "PENALTY",
+          "team": "South Africa",
+          "scorer": "Teboho Mokoena",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -1149,11 +1864,13 @@
       "group": "B",
       "homeTeam": {
         "slug": "switzerland",
-        "name": "Switzerland"
+        "name": "Switzerland",
+        "crest": "https://crests.football-data.org/788.svg"
       },
       "awayTeam": {
         "slug": "bosnia-herzegovina",
-        "name": "Bosnia and Herzegovina"
+        "name": "Bosnia and Herzegovina",
+        "crest": "https://crests.football-data.org/bosnia.svg"
       },
       "stadium": {
         "name": "SoFi Stadium",
@@ -1169,6 +1886,48 @@
         "homeHt": 0,
         "awayHt": 0
       },
+      "goals": [
+        {
+          "minute": 74,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Switzerland",
+          "scorer": "Johan Manzambi",
+          "assist": null
+        },
+        {
+          "minute": 84,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Switzerland",
+          "scorer": "Rubén Vargas",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Switzerland",
+          "scorer": "Johan Manzambi",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 3,
+          "type": "REGULAR",
+          "team": "Bosnia and Herzegovina",
+          "scorer": "Ermin Mahmic",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 7,
+          "type": "PENALTY",
+          "team": "Switzerland",
+          "scorer": "Granit Xhaka",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -1180,11 +1939,13 @@
       "group": "B",
       "homeTeam": {
         "slug": "canada",
-        "name": "Canada"
+        "name": "Canada",
+        "crest": "https://crests.football-data.org/canada.svg"
       },
       "awayTeam": {
         "slug": "qatar",
-        "name": "Qatar"
+        "name": "Qatar",
+        "crest": "https://crests.football-data.org/8030.svg"
       },
       "stadium": {
         "name": "BC Place",
@@ -1200,6 +1961,56 @@
         "homeHt": 3,
         "awayHt": 0
       },
+      "goals": [
+        {
+          "minute": 16,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Canada",
+          "scorer": "Cyle Larin",
+          "assist": null
+        },
+        {
+          "minute": 29,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Canada",
+          "scorer": "Jonathan David",
+          "assist": null
+        },
+        {
+          "minute": 45,
+          "injuryTime": 3,
+          "type": "REGULAR",
+          "team": "Canada",
+          "scorer": "Jonathan David",
+          "assist": null
+        },
+        {
+          "minute": 64,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Canada",
+          "scorer": "Nathan Saliba",
+          "assist": null
+        },
+        {
+          "minute": 75,
+          "injuryTime": null,
+          "type": "OWN_GOAL",
+          "team": "Canada",
+          "scorer": "Mohamed Manai",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 2,
+          "type": "REGULAR",
+          "team": "Canada",
+          "scorer": "Jonathan David",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -1211,11 +2022,13 @@
       "group": "A",
       "homeTeam": {
         "slug": "mexico",
-        "name": "Mexico"
+        "name": "Mexico",
+        "crest": "https://crests.football-data.org/769.svg"
       },
       "awayTeam": {
         "slug": "south-korea",
-        "name": "Korea Republic"
+        "name": "Korea Republic",
+        "crest": "https://crests.football-data.org/772.png"
       },
       "stadium": {
         "name": "Estadio Akron",
@@ -1231,6 +2044,16 @@
         "homeHt": 0,
         "awayHt": 0
       },
+      "goals": [
+        {
+          "minute": 50,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Mexico",
+          "scorer": "Luis Romo",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -1242,11 +2065,13 @@
       "group": "C",
       "homeTeam": {
         "slug": "brazil",
-        "name": "Brazil"
+        "name": "Brazil",
+        "crest": "https://crests.football-data.org/764.svg"
       },
       "awayTeam": {
         "slug": "haiti",
-        "name": "Haiti"
+        "name": "Haiti",
+        "crest": "https://crests.football-data.org/haiti.svg"
       },
       "stadium": {
         "name": "Lincoln Financial Field",
@@ -1262,6 +2087,32 @@
         "homeHt": 3,
         "awayHt": 0
       },
+      "goals": [
+        {
+          "minute": 23,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Brazil",
+          "scorer": "Matheus Cunha",
+          "assist": null
+        },
+        {
+          "minute": 36,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Brazil",
+          "scorer": "Matheus Cunha",
+          "assist": null
+        },
+        {
+          "minute": 45,
+          "injuryTime": 3,
+          "type": "REGULAR",
+          "team": "Brazil",
+          "scorer": "Vinícius Júnior",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -1273,11 +2124,13 @@
       "group": "C",
       "homeTeam": {
         "slug": "scotland",
-        "name": "Scotland"
+        "name": "Scotland",
+        "crest": "https://crests.football-data.org/814.svg"
       },
       "awayTeam": {
         "slug": "morocco",
-        "name": "Morocco"
+        "name": "Morocco",
+        "crest": "https://crests.football-data.org/morocco.svg"
       },
       "stadium": {
         "name": "Gillette Stadium",
@@ -1293,6 +2146,16 @@
         "homeHt": 0,
         "awayHt": 1
       },
+      "goals": [
+        {
+          "minute": 2,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Morocco",
+          "scorer": "Ismael Saibari",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -1304,11 +2167,13 @@
       "group": "D",
       "homeTeam": {
         "slug": "turkiye",
-        "name": "Turkiye"
+        "name": "Turkiye",
+        "crest": "https://crests.football-data.org/803.svg"
       },
       "awayTeam": {
         "slug": "paraguay",
-        "name": "Paraguay"
+        "name": "Paraguay",
+        "crest": "https://crests.football-data.org/761.svg"
       },
       "stadium": {
         "name": "Levi's Stadium",
@@ -1324,6 +2189,16 @@
         "homeHt": 0,
         "awayHt": 1
       },
+      "goals": [
+        {
+          "minute": 2,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Paraguay",
+          "scorer": "Matías Galarza",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -1335,11 +2210,13 @@
       "group": "D",
       "homeTeam": {
         "slug": "united-states",
-        "name": "United States"
+        "name": "United States",
+        "crest": "https://crests.football-data.org/usa.svg"
       },
       "awayTeam": {
         "slug": "australia",
-        "name": "Australia"
+        "name": "Australia",
+        "crest": "https://crests.football-data.org/779.svg"
       },
       "stadium": {
         "name": "Lumen Field",
@@ -1355,6 +2232,24 @@
         "homeHt": 2,
         "awayHt": 0
       },
+      "goals": [
+        {
+          "minute": 11,
+          "injuryTime": null,
+          "type": "OWN_GOAL",
+          "team": "United States",
+          "scorer": "Cameron Burgess",
+          "assist": null
+        },
+        {
+          "minute": 43,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "United States",
+          "scorer": "Alex Freeman",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -1366,11 +2261,13 @@
       "group": "E",
       "homeTeam": {
         "slug": "germany",
-        "name": "Germany"
+        "name": "Germany",
+        "crest": "https://crests.football-data.org/759.svg"
       },
       "awayTeam": {
         "slug": "ivory-coast",
-        "name": "Cote d'Ivoire"
+        "name": "Cote d'Ivoire",
+        "crest": "https://crests.football-data.org/787.svg"
       },
       "stadium": {
         "name": "BMO Field",
@@ -1386,6 +2283,32 @@
         "homeHt": 0,
         "awayHt": 1
       },
+      "goals": [
+        {
+          "minute": 30,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Cote d'Ivoire",
+          "scorer": "Franck Kessié",
+          "assist": null
+        },
+        {
+          "minute": 68,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Germany",
+          "scorer": "Deniz Undav",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 4,
+          "type": "REGULAR",
+          "team": "Germany",
+          "scorer": "Deniz Undav",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -1397,11 +2320,13 @@
       "group": "E",
       "homeTeam": {
         "slug": "ecuador",
-        "name": "Ecuador"
+        "name": "Ecuador",
+        "crest": "https://crests.football-data.org/791.svg"
       },
       "awayTeam": {
         "slug": "curacao",
-        "name": "Curacao"
+        "name": "Curacao",
+        "crest": "https://crests.football-data.org/curacao.svg"
       },
       "stadium": {
         "name": "Arrowhead Stadium",
@@ -1417,6 +2342,7 @@
         "homeHt": 0,
         "awayHt": 0
       },
+      "goals": null,
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -1428,11 +2354,13 @@
       "group": "F",
       "homeTeam": {
         "slug": "netherlands",
-        "name": "Netherlands"
+        "name": "Netherlands",
+        "crest": "https://crests.football-data.org/8601.svg"
       },
       "awayTeam": {
         "slug": "sweden",
-        "name": "Sweden"
+        "name": "Sweden",
+        "crest": "https://crests.football-data.org/792.svg"
       },
       "stadium": {
         "name": "NRG Stadium",
@@ -1448,6 +2376,56 @@
         "homeHt": 2,
         "awayHt": 0
       },
+      "goals": [
+        {
+          "minute": 5,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Netherlands",
+          "scorer": "Brian Brobbey",
+          "assist": null
+        },
+        {
+          "minute": 17,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Netherlands",
+          "scorer": "Brian Brobbey",
+          "assist": null
+        },
+        {
+          "minute": 47,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Netherlands",
+          "scorer": "Cody Gakpo",
+          "assist": null
+        },
+        {
+          "minute": 54,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Netherlands",
+          "scorer": "Cody Gakpo",
+          "assist": null
+        },
+        {
+          "minute": 59,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Sweden",
+          "scorer": "Anthony Elanga",
+          "assist": null
+        },
+        {
+          "minute": 89,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Netherlands",
+          "scorer": "Crysencio Summerville",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -1459,11 +2437,13 @@
       "group": "F",
       "homeTeam": {
         "slug": "tunisia",
-        "name": "Tunisia"
+        "name": "Tunisia",
+        "crest": "https://crests.football-data.org/tunisia.svg"
       },
       "awayTeam": {
         "slug": "japan",
-        "name": "Japan"
+        "name": "Japan",
+        "crest": "https://crests.football-data.org/766.svg"
       },
       "stadium": {
         "name": "Estadio BBVA",
@@ -1479,6 +2459,40 @@
         "homeHt": 0,
         "awayHt": 2
       },
+      "goals": [
+        {
+          "minute": 4,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Japan",
+          "scorer": "Daichi Kamada",
+          "assist": null
+        },
+        {
+          "minute": 31,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Japan",
+          "scorer": "Ayase Ueda",
+          "assist": null
+        },
+        {
+          "minute": 69,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Japan",
+          "scorer": "Junya Ito",
+          "assist": null
+        },
+        {
+          "minute": 83,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Japan",
+          "scorer": "Ayase Ueda",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -1490,11 +2504,13 @@
       "group": "H",
       "homeTeam": {
         "slug": "uruguay",
-        "name": "Uruguay"
+        "name": "Uruguay",
+        "crest": "https://crests.football-data.org/758.svg"
       },
       "awayTeam": {
         "slug": "cabo-verde",
-        "name": "Cabo Verde"
+        "name": "Cabo Verde",
+        "crest": "https://crests.football-data.org/cape_verde.svg"
       },
       "stadium": {
         "name": "Hard Rock Stadium",
@@ -1510,6 +2526,40 @@
         "homeHt": 2,
         "awayHt": 1
       },
+      "goals": [
+        {
+          "minute": 21,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Cabo Verde",
+          "scorer": "Kevin Pina",
+          "assist": null
+        },
+        {
+          "minute": 44,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Uruguay",
+          "scorer": "Maxi Araújo",
+          "assist": null
+        },
+        {
+          "minute": 45,
+          "injuryTime": 6,
+          "type": "REGULAR",
+          "team": "Uruguay",
+          "scorer": "Agustín Cano",
+          "assist": null
+        },
+        {
+          "minute": 61,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Cabo Verde",
+          "scorer": "Hélio Varela",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -1521,11 +2571,13 @@
       "group": "H",
       "homeTeam": {
         "slug": "spain",
-        "name": "Spain"
+        "name": "Spain",
+        "crest": "https://crests.football-data.org/760.svg"
       },
       "awayTeam": {
         "slug": "saudi-arabia",
-        "name": "Saudi Arabia"
+        "name": "Saudi Arabia",
+        "crest": "https://crests.football-data.org/saudi_arabia.svg"
       },
       "stadium": {
         "name": "Mercedes-Benz Stadium",
@@ -1541,6 +2593,40 @@
         "homeHt": 3,
         "awayHt": 0
       },
+      "goals": [
+        {
+          "minute": 10,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Spain",
+          "scorer": "Lamine Yamal",
+          "assist": null
+        },
+        {
+          "minute": 21,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Spain",
+          "scorer": "Mikel Oyarzabal",
+          "assist": null
+        },
+        {
+          "minute": 24,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Spain",
+          "scorer": "Mikel Oyarzabal",
+          "assist": null
+        },
+        {
+          "minute": 49,
+          "injuryTime": null,
+          "type": "OWN_GOAL",
+          "team": "Spain",
+          "scorer": "Hassan Al-Tambakti",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -1552,11 +2638,13 @@
       "group": "G",
       "homeTeam": {
         "slug": "belgium",
-        "name": "Belgium"
+        "name": "Belgium",
+        "crest": "https://crests.football-data.org/805.svg"
       },
       "awayTeam": {
         "slug": "ir-iran",
-        "name": "IR Iran"
+        "name": "IR Iran",
+        "crest": "https://crests.football-data.org/iran.svg"
       },
       "stadium": {
         "name": "SoFi Stadium",
@@ -1572,6 +2660,7 @@
         "homeHt": 0,
         "awayHt": 0
       },
+      "goals": null,
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -1583,11 +2672,13 @@
       "group": "G",
       "homeTeam": {
         "slug": "new-zealand",
-        "name": "New Zealand"
+        "name": "New Zealand",
+        "crest": "https://crests.football-data.org/783.svg"
       },
       "awayTeam": {
         "slug": "egypt",
-        "name": "Egypt"
+        "name": "Egypt",
+        "crest": "https://crests.football-data.org/825.svg"
       },
       "stadium": {
         "name": "BC Place",
@@ -1603,6 +2694,40 @@
         "homeHt": 1,
         "awayHt": 0
       },
+      "goals": [
+        {
+          "minute": 15,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "New Zealand",
+          "scorer": "Finn Surman",
+          "assist": null
+        },
+        {
+          "minute": 58,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Egypt",
+          "scorer": "Mostafa Zico",
+          "assist": null
+        },
+        {
+          "minute": 67,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Egypt",
+          "scorer": "Mohamed Salah",
+          "assist": null
+        },
+        {
+          "minute": 82,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Egypt",
+          "scorer": "Trézéguet",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -1614,11 +2739,13 @@
       "group": "I",
       "homeTeam": {
         "slug": "norway",
-        "name": "Norway"
+        "name": "Norway",
+        "crest": "https://crests.football-data.org/813.svg"
       },
       "awayTeam": {
         "slug": "senegal",
-        "name": "Senegal"
+        "name": "Senegal",
+        "crest": "https://crests.football-data.org/senegal.svg"
       },
       "stadium": {
         "name": "MetLife Stadium",
@@ -1634,6 +2761,48 @@
         "homeHt": 1,
         "awayHt": 0
       },
+      "goals": [
+        {
+          "minute": 43,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Norway",
+          "scorer": "Marcus Holmgren Pedersen",
+          "assist": null
+        },
+        {
+          "minute": 48,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Norway",
+          "scorer": "Erling Haaland",
+          "assist": null
+        },
+        {
+          "minute": 53,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Senegal",
+          "scorer": "Ismaïla Sarr",
+          "assist": null
+        },
+        {
+          "minute": 58,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Norway",
+          "scorer": "Erling Haaland",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 3,
+          "type": "REGULAR",
+          "team": "Senegal",
+          "scorer": "Ismaïla Sarr",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -1645,11 +2814,13 @@
       "group": "I",
       "homeTeam": {
         "slug": "france",
-        "name": "France"
+        "name": "France",
+        "crest": "https://crests.football-data.org/773.svg"
       },
       "awayTeam": {
         "slug": "iraq",
-        "name": "Iraq"
+        "name": "Iraq",
+        "crest": "https://crests.football-data.org/iraq.svg"
       },
       "stadium": {
         "name": "Lincoln Financial Field",
@@ -1665,6 +2836,32 @@
         "homeHt": 1,
         "awayHt": 0
       },
+      "goals": [
+        {
+          "minute": 14,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "France",
+          "scorer": "Kylian Mbappé",
+          "assist": null
+        },
+        {
+          "minute": 54,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "France",
+          "scorer": "Kylian Mbappé",
+          "assist": null
+        },
+        {
+          "minute": 66,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "France",
+          "scorer": "Ousmane Dembélé",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -1676,11 +2873,13 @@
       "group": "J",
       "homeTeam": {
         "slug": "argentina",
-        "name": "Argentina"
+        "name": "Argentina",
+        "crest": "https://crests.football-data.org/762.png"
       },
       "awayTeam": {
         "slug": "austria",
-        "name": "Austria"
+        "name": "Austria",
+        "crest": "https://crests.football-data.org/816.svg"
       },
       "stadium": {
         "name": "AT&T Stadium",
@@ -1696,6 +2895,24 @@
         "homeHt": 1,
         "awayHt": 0
       },
+      "goals": [
+        {
+          "minute": 38,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Argentina",
+          "scorer": "Lionel Messi",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 5,
+          "type": "REGULAR",
+          "team": "Argentina",
+          "scorer": "Lionel Messi",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -1707,11 +2924,13 @@
       "group": "J",
       "homeTeam": {
         "slug": "jordan",
-        "name": "Jordan"
+        "name": "Jordan",
+        "crest": "https://crests.football-data.org/8049.png"
       },
       "awayTeam": {
         "slug": "algeria",
-        "name": "Algeria"
+        "name": "Algeria",
+        "crest": "https://crests.football-data.org/algeria.svg"
       },
       "stadium": {
         "name": "Levi's Stadium",
@@ -1727,6 +2946,32 @@
         "homeHt": 1,
         "awayHt": 0
       },
+      "goals": [
+        {
+          "minute": 36,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Jordan",
+          "scorer": "Nizar Al-Rashdan",
+          "assist": null
+        },
+        {
+          "minute": 69,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Algeria",
+          "scorer": "Nadhir Benbouali",
+          "assist": null
+        },
+        {
+          "minute": 82,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Algeria",
+          "scorer": "Amine Gouiri",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -1738,11 +2983,13 @@
       "group": "L",
       "homeTeam": {
         "slug": "england",
-        "name": "England"
+        "name": "England",
+        "crest": "https://crests.football-data.org/770.svg"
       },
       "awayTeam": {
         "slug": "ghana",
-        "name": "Ghana"
+        "name": "Ghana",
+        "crest": "https://crests.football-data.org/ghana.svg"
       },
       "stadium": {
         "name": "Gillette Stadium",
@@ -1758,6 +3005,7 @@
         "homeHt": 0,
         "awayHt": 0
       },
+      "goals": null,
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -1769,11 +3017,13 @@
       "group": "L",
       "homeTeam": {
         "slug": "panama",
-        "name": "Panama"
+        "name": "Panama",
+        "crest": "https://crests.football-data.org/panama.svg"
       },
       "awayTeam": {
         "slug": "croatia",
-        "name": "Croatia"
+        "name": "Croatia",
+        "crest": "https://crests.football-data.org/799.svg"
       },
       "stadium": {
         "name": "BMO Field",
@@ -1789,6 +3039,16 @@
         "homeHt": 0,
         "awayHt": 0
       },
+      "goals": [
+        {
+          "minute": 54,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Croatia",
+          "scorer": "Ante Budimir",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -1800,11 +3060,13 @@
       "group": "K",
       "homeTeam": {
         "slug": "portugal",
-        "name": "Portugal"
+        "name": "Portugal",
+        "crest": "https://crests.football-data.org/765.svg"
       },
       "awayTeam": {
         "slug": "uzbekistan",
-        "name": "Uzbekistan"
+        "name": "Uzbekistan",
+        "crest": "https://crests.football-data.org/8070.png"
       },
       "stadium": {
         "name": "NRG Stadium",
@@ -1820,6 +3082,48 @@
         "homeHt": 3,
         "awayHt": 0
       },
+      "goals": [
+        {
+          "minute": 6,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Portugal",
+          "scorer": "Cristiano Ronaldo",
+          "assist": null
+        },
+        {
+          "minute": 17,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Portugal",
+          "scorer": "Nuno Mendes",
+          "assist": null
+        },
+        {
+          "minute": 39,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Portugal",
+          "scorer": "Cristiano Ronaldo",
+          "assist": null
+        },
+        {
+          "minute": 60,
+          "injuryTime": null,
+          "type": "OWN_GOAL",
+          "team": "Portugal",
+          "scorer": "Abduvohid Nematov",
+          "assist": null
+        },
+        {
+          "minute": 87,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Portugal",
+          "scorer": "Rafael Leão",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -1831,11 +3135,13 @@
       "group": "K",
       "homeTeam": {
         "slug": "colombia",
-        "name": "Colombia"
+        "name": "Colombia",
+        "crest": "https://crests.football-data.org/818.svg"
       },
       "awayTeam": {
         "slug": "congo-dr",
-        "name": "Congo DR"
+        "name": "Congo DR",
+        "crest": "https://crests.football-data.org/congo_dr.svg"
       },
       "stadium": {
         "name": "Estadio Akron",
@@ -1851,6 +3157,16 @@
         "homeHt": 0,
         "awayHt": 0
       },
+      "goals": [
+        {
+          "minute": 76,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Colombia",
+          "scorer": "Daniel Muñoz",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -1862,11 +3178,13 @@
       "group": "C",
       "homeTeam": {
         "slug": "scotland",
-        "name": "Scotland"
+        "name": "Scotland",
+        "crest": "https://crests.football-data.org/814.svg"
       },
       "awayTeam": {
         "slug": "brazil",
-        "name": "Brazil"
+        "name": "Brazil",
+        "crest": "https://crests.football-data.org/764.svg"
       },
       "stadium": {
         "name": "Hard Rock Stadium",
@@ -1882,6 +3200,32 @@
         "homeHt": 0,
         "awayHt": 2
       },
+      "goals": [
+        {
+          "minute": 7,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Brazil",
+          "scorer": "Vinícius Júnior",
+          "assist": null
+        },
+        {
+          "minute": 45,
+          "injuryTime": 3,
+          "type": "REGULAR",
+          "team": "Brazil",
+          "scorer": "Vinícius Júnior",
+          "assist": null
+        },
+        {
+          "minute": 60,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Brazil",
+          "scorer": "Matheus Cunha",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -1893,11 +3237,13 @@
       "group": "C",
       "homeTeam": {
         "slug": "morocco",
-        "name": "Morocco"
+        "name": "Morocco",
+        "crest": "https://crests.football-data.org/morocco.svg"
       },
       "awayTeam": {
         "slug": "haiti",
-        "name": "Haiti"
+        "name": "Haiti",
+        "crest": "https://crests.football-data.org/haiti.svg"
       },
       "stadium": {
         "name": "Mercedes-Benz Stadium",
@@ -1913,6 +3259,56 @@
         "homeHt": 2,
         "awayHt": 2
       },
+      "goals": [
+        {
+          "minute": 10,
+          "injuryTime": null,
+          "type": "OWN_GOAL",
+          "team": "Haiti",
+          "scorer": "Yassine Bounou",
+          "assist": null
+        },
+        {
+          "minute": 39,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Morocco",
+          "scorer": "Achraf Hakimi",
+          "assist": null
+        },
+        {
+          "minute": 43,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Haiti",
+          "scorer": "Wilson Isidor",
+          "assist": null
+        },
+        {
+          "minute": 45,
+          "injuryTime": 1,
+          "type": "REGULAR",
+          "team": "Morocco",
+          "scorer": "Ismael Saibari",
+          "assist": null
+        },
+        {
+          "minute": 78,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Morocco",
+          "scorer": "Soufiane Rahimi",
+          "assist": null
+        },
+        {
+          "minute": 89,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Morocco",
+          "scorer": "Gessime Yassine",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -1924,11 +3320,13 @@
       "group": "B",
       "homeTeam": {
         "slug": "switzerland",
-        "name": "Switzerland"
+        "name": "Switzerland",
+        "crest": "https://crests.football-data.org/788.svg"
       },
       "awayTeam": {
         "slug": "canada",
-        "name": "Canada"
+        "name": "Canada",
+        "crest": "https://crests.football-data.org/canada.svg"
       },
       "stadium": {
         "name": "BC Place",
@@ -1944,6 +3342,32 @@
         "homeHt": 0,
         "awayHt": 0
       },
+      "goals": [
+        {
+          "minute": 46,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Switzerland",
+          "scorer": "Rubén Vargas",
+          "assist": null
+        },
+        {
+          "minute": 57,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Switzerland",
+          "scorer": "Johan Manzambi",
+          "assist": null
+        },
+        {
+          "minute": 76,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Canada",
+          "scorer": "Promise David",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -1955,11 +3379,13 @@
       "group": "B",
       "homeTeam": {
         "slug": "bosnia-herzegovina",
-        "name": "Bosnia and Herzegovina"
+        "name": "Bosnia and Herzegovina",
+        "crest": "https://crests.football-data.org/bosnia.svg"
       },
       "awayTeam": {
         "slug": "qatar",
-        "name": "Qatar"
+        "name": "Qatar",
+        "crest": "https://crests.football-data.org/8030.svg"
       },
       "stadium": {
         "name": "Lumen Field",
@@ -1975,6 +3401,40 @@
         "homeHt": 2,
         "awayHt": 1
       },
+      "goals": [
+        {
+          "minute": 29,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Bosnia and Herzegovina",
+          "scorer": "Kerim Alajbegovic",
+          "assist": null
+        },
+        {
+          "minute": 34,
+          "injuryTime": null,
+          "type": "OWN_GOAL",
+          "team": "Bosnia and Herzegovina",
+          "scorer": "Mahmoud Abunada",
+          "assist": null
+        },
+        {
+          "minute": 42,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Qatar",
+          "scorer": "Hassan Al-Haydos",
+          "assist": null
+        },
+        {
+          "minute": 80,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Bosnia and Herzegovina",
+          "scorer": "Ermin Mahmic",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -1986,11 +3446,13 @@
       "group": "A",
       "homeTeam": {
         "slug": "czech-republic",
-        "name": "Czechia"
+        "name": "Czechia",
+        "crest": "https://crests.football-data.org/798.svg"
       },
       "awayTeam": {
         "slug": "mexico",
-        "name": "Mexico"
+        "name": "Mexico",
+        "crest": "https://crests.football-data.org/769.svg"
       },
       "stadium": {
         "name": "Estadio Azteca",
@@ -2006,6 +3468,32 @@
         "homeHt": 0,
         "awayHt": 0
       },
+      "goals": [
+        {
+          "minute": 55,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Mexico",
+          "scorer": "Mateo Chávez",
+          "assist": null
+        },
+        {
+          "minute": 61,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Mexico",
+          "scorer": "Julián Quiñones",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 4,
+          "type": "REGULAR",
+          "team": "Mexico",
+          "scorer": "Álvaro Fidalgo",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -2017,11 +3505,13 @@
       "group": "A",
       "homeTeam": {
         "slug": "south-africa",
-        "name": "South Africa"
+        "name": "South Africa",
+        "crest": "https://crests.football-data.org/9396.svg"
       },
       "awayTeam": {
         "slug": "south-korea",
-        "name": "Korea Republic"
+        "name": "Korea Republic",
+        "crest": "https://crests.football-data.org/772.png"
       },
       "stadium": {
         "name": "Estadio BBVA",
@@ -2037,6 +3527,16 @@
         "homeHt": 0,
         "awayHt": 0
       },
+      "goals": [
+        {
+          "minute": 63,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "South Africa",
+          "scorer": "Thapelo Maseko",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -2048,11 +3548,13 @@
       "group": "E",
       "homeTeam": {
         "slug": "curacao",
-        "name": "Curacao"
+        "name": "Curacao",
+        "crest": "https://crests.football-data.org/curacao.svg"
       },
       "awayTeam": {
         "slug": "ivory-coast",
-        "name": "Cote d'Ivoire"
+        "name": "Cote d'Ivoire",
+        "crest": "https://crests.football-data.org/787.svg"
       },
       "stadium": {
         "name": "Lincoln Financial Field",
@@ -2068,6 +3570,24 @@
         "homeHt": 0,
         "awayHt": 1
       },
+      "goals": [
+        {
+          "minute": 7,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Cote d'Ivoire",
+          "scorer": "Nicolas Pépé",
+          "assist": null
+        },
+        {
+          "minute": 64,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Cote d'Ivoire",
+          "scorer": "Nicolas Pépé",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -2079,11 +3599,13 @@
       "group": "E",
       "homeTeam": {
         "slug": "ecuador",
-        "name": "Ecuador"
+        "name": "Ecuador",
+        "crest": "https://crests.football-data.org/791.svg"
       },
       "awayTeam": {
         "slug": "germany",
-        "name": "Germany"
+        "name": "Germany",
+        "crest": "https://crests.football-data.org/759.svg"
       },
       "stadium": {
         "name": "MetLife Stadium",
@@ -2099,6 +3621,32 @@
         "homeHt": 1,
         "awayHt": 1
       },
+      "goals": [
+        {
+          "minute": 2,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Germany",
+          "scorer": "Leroy Sané",
+          "assist": null
+        },
+        {
+          "minute": 9,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Ecuador",
+          "scorer": "Nilson Angulo",
+          "assist": null
+        },
+        {
+          "minute": 77,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Ecuador",
+          "scorer": "Gonzalo Plata",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -2110,11 +3658,13 @@
       "group": "F",
       "homeTeam": {
         "slug": "japan",
-        "name": "Japan"
+        "name": "Japan",
+        "crest": "https://crests.football-data.org/766.svg"
       },
       "awayTeam": {
         "slug": "sweden",
-        "name": "Sweden"
+        "name": "Sweden",
+        "crest": "https://crests.football-data.org/792.svg"
       },
       "stadium": {
         "name": "AT&T Stadium",
@@ -2130,6 +3680,24 @@
         "homeHt": 0,
         "awayHt": 0
       },
+      "goals": [
+        {
+          "minute": 56,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Japan",
+          "scorer": "Daizen Maeda",
+          "assist": null
+        },
+        {
+          "minute": 62,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Sweden",
+          "scorer": "Anthony Elanga",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -2141,11 +3709,13 @@
       "group": "F",
       "homeTeam": {
         "slug": "tunisia",
-        "name": "Tunisia"
+        "name": "Tunisia",
+        "crest": "https://crests.football-data.org/tunisia.svg"
       },
       "awayTeam": {
         "slug": "netherlands",
-        "name": "Netherlands"
+        "name": "Netherlands",
+        "crest": "https://crests.football-data.org/8601.svg"
       },
       "stadium": {
         "name": "Arrowhead Stadium",
@@ -2161,6 +3731,40 @@
         "homeHt": 0,
         "awayHt": 2
       },
+      "goals": [
+        {
+          "minute": 3,
+          "injuryTime": null,
+          "type": "OWN_GOAL",
+          "team": "Netherlands",
+          "scorer": "Ellyes Skhiri",
+          "assist": null
+        },
+        {
+          "minute": 7,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Netherlands",
+          "scorer": "Brian Brobbey",
+          "assist": null
+        },
+        {
+          "minute": 54,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Tunisia",
+          "scorer": "Hazem Mastouri",
+          "assist": null
+        },
+        {
+          "minute": 62,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Netherlands",
+          "scorer": "Jan Paul van Hecke",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -2172,11 +3776,13 @@
       "group": "D",
       "homeTeam": {
         "slug": "turkiye",
-        "name": "Turkiye"
+        "name": "Turkiye",
+        "crest": "https://crests.football-data.org/803.svg"
       },
       "awayTeam": {
         "slug": "united-states",
-        "name": "United States"
+        "name": "United States",
+        "crest": "https://crests.football-data.org/usa.svg"
       },
       "stadium": {
         "name": "SoFi Stadium",
@@ -2192,6 +3798,48 @@
         "homeHt": 2,
         "awayHt": 1
       },
+      "goals": [
+        {
+          "minute": 3,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "United States",
+          "scorer": "Auston Trusty",
+          "assist": null
+        },
+        {
+          "minute": 10,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Turkiye",
+          "scorer": "Arda Güler",
+          "assist": null
+        },
+        {
+          "minute": 31,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Turkiye",
+          "scorer": "Baris Alper Yilmaz",
+          "assist": null
+        },
+        {
+          "minute": 49,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "United States",
+          "scorer": "Sebastian Berhalter",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 8,
+          "type": "REGULAR",
+          "team": "Turkiye",
+          "scorer": "Kaan Ayhan",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -2203,11 +3851,13 @@
       "group": "D",
       "homeTeam": {
         "slug": "paraguay",
-        "name": "Paraguay"
+        "name": "Paraguay",
+        "crest": "https://crests.football-data.org/761.svg"
       },
       "awayTeam": {
         "slug": "australia",
-        "name": "Australia"
+        "name": "Australia",
+        "crest": "https://crests.football-data.org/779.svg"
       },
       "stadium": {
         "name": "Levi's Stadium",
@@ -2223,6 +3873,7 @@
         "homeHt": 0,
         "awayHt": 0
       },
+      "goals": null,
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -2234,11 +3885,13 @@
       "group": "I",
       "homeTeam": {
         "slug": "norway",
-        "name": "Norway"
+        "name": "Norway",
+        "crest": "https://crests.football-data.org/813.svg"
       },
       "awayTeam": {
         "slug": "france",
-        "name": "France"
+        "name": "France",
+        "crest": "https://crests.football-data.org/773.svg"
       },
       "stadium": {
         "name": "Gillette Stadium",
@@ -2254,6 +3907,48 @@
         "homeHt": 1,
         "awayHt": 3
       },
+      "goals": [
+        {
+          "minute": 7,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "France",
+          "scorer": "Ousmane Dembélé",
+          "assist": null
+        },
+        {
+          "minute": 20,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "France",
+          "scorer": "Ousmane Dembélé",
+          "assist": null
+        },
+        {
+          "minute": 21,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Norway",
+          "scorer": "Thelo Aasgaard",
+          "assist": null
+        },
+        {
+          "minute": 32,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "France",
+          "scorer": "Ousmane Dembélé",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 4,
+          "type": "REGULAR",
+          "team": "France",
+          "scorer": "Désiré Doué",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -2265,11 +3960,13 @@
       "group": "I",
       "homeTeam": {
         "slug": "senegal",
-        "name": "Senegal"
+        "name": "Senegal",
+        "crest": "https://crests.football-data.org/senegal.svg"
       },
       "awayTeam": {
         "slug": "iraq",
-        "name": "Iraq"
+        "name": "Iraq",
+        "crest": "https://crests.football-data.org/iraq.svg"
       },
       "stadium": {
         "name": "BMO Field",
@@ -2285,6 +3982,48 @@
         "homeHt": 1,
         "awayHt": 0
       },
+      "goals": [
+        {
+          "minute": 4,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Senegal",
+          "scorer": "Habib Diarra",
+          "assist": null
+        },
+        {
+          "minute": 56,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Senegal",
+          "scorer": "Ismaïla Sarr",
+          "assist": null
+        },
+        {
+          "minute": 59,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Senegal",
+          "scorer": "Pape Gueye",
+          "assist": null
+        },
+        {
+          "minute": 71,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Senegal",
+          "scorer": "Pape Gueye",
+          "assist": null
+        },
+        {
+          "minute": 82,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Senegal",
+          "scorer": "Iliman Ndiaye",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -2296,11 +4035,13 @@
       "group": "G",
       "homeTeam": {
         "slug": "egypt",
-        "name": "Egypt"
+        "name": "Egypt",
+        "crest": "https://crests.football-data.org/825.svg"
       },
       "awayTeam": {
         "slug": "ir-iran",
-        "name": "IR Iran"
+        "name": "IR Iran",
+        "crest": "https://crests.football-data.org/iran.svg"
       },
       "stadium": {
         "name": "Lumen Field",
@@ -2316,6 +4057,24 @@
         "homeHt": 1,
         "awayHt": 1
       },
+      "goals": [
+        {
+          "minute": 5,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Egypt",
+          "scorer": "Mahmoud Saber",
+          "assist": null
+        },
+        {
+          "minute": 14,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "IR Iran",
+          "scorer": "Ramin Rezaeian",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -2327,11 +4086,13 @@
       "group": "G",
       "homeTeam": {
         "slug": "new-zealand",
-        "name": "New Zealand"
+        "name": "New Zealand",
+        "crest": "https://crests.football-data.org/783.svg"
       },
       "awayTeam": {
         "slug": "belgium",
-        "name": "Belgium"
+        "name": "Belgium",
+        "crest": "https://crests.football-data.org/805.svg"
       },
       "stadium": {
         "name": "BC Place",
@@ -2347,6 +4108,56 @@
         "homeHt": 0,
         "awayHt": 1
       },
+      "goals": [
+        {
+          "minute": 28,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Belgium",
+          "scorer": "Leandro Trossard",
+          "assist": null
+        },
+        {
+          "minute": 50,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Belgium",
+          "scorer": "Leandro Trossard",
+          "assist": null
+        },
+        {
+          "minute": 66,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Belgium",
+          "scorer": "Kevin De Bruyne",
+          "assist": null
+        },
+        {
+          "minute": 84,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "New Zealand",
+          "scorer": "Elijah Just",
+          "assist": null
+        },
+        {
+          "minute": 86,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Belgium",
+          "scorer": "Romelu Lukaku",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 4,
+          "type": "REGULAR",
+          "team": "Belgium",
+          "scorer": "Alexis Saelemaekers",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -2358,11 +4169,13 @@
       "group": "H",
       "homeTeam": {
         "slug": "cabo-verde",
-        "name": "Cabo Verde"
+        "name": "Cabo Verde",
+        "crest": "https://crests.football-data.org/cape_verde.svg"
       },
       "awayTeam": {
         "slug": "saudi-arabia",
-        "name": "Saudi Arabia"
+        "name": "Saudi Arabia",
+        "crest": "https://crests.football-data.org/saudi_arabia.svg"
       },
       "stadium": {
         "name": "NRG Stadium",
@@ -2378,6 +4191,7 @@
         "homeHt": 0,
         "awayHt": 0
       },
+      "goals": null,
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -2389,11 +4203,13 @@
       "group": "H",
       "homeTeam": {
         "slug": "uruguay",
-        "name": "Uruguay"
+        "name": "Uruguay",
+        "crest": "https://crests.football-data.org/758.svg"
       },
       "awayTeam": {
         "slug": "spain",
-        "name": "Spain"
+        "name": "Spain",
+        "crest": "https://crests.football-data.org/760.svg"
       },
       "stadium": {
         "name": "Estadio Akron",
@@ -2409,6 +4225,16 @@
         "homeHt": 0,
         "awayHt": 1
       },
+      "goals": [
+        {
+          "minute": 42,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Spain",
+          "scorer": "Álex Baena",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -2420,11 +4246,13 @@
       "group": "L",
       "homeTeam": {
         "slug": "panama",
-        "name": "Panama"
+        "name": "Panama",
+        "crest": "https://crests.football-data.org/panama.svg"
       },
       "awayTeam": {
         "slug": "england",
-        "name": "England"
+        "name": "England",
+        "crest": "https://crests.football-data.org/770.svg"
       },
       "stadium": {
         "name": "MetLife Stadium",
@@ -2440,6 +4268,24 @@
         "homeHt": 0,
         "awayHt": 0
       },
+      "goals": [
+        {
+          "minute": 62,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "England",
+          "scorer": "Jude Bellingham",
+          "assist": null
+        },
+        {
+          "minute": 67,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "England",
+          "scorer": "Harry Kane",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -2451,11 +4297,13 @@
       "group": "L",
       "homeTeam": {
         "slug": "croatia",
-        "name": "Croatia"
+        "name": "Croatia",
+        "crest": "https://crests.football-data.org/799.svg"
       },
       "awayTeam": {
         "slug": "ghana",
-        "name": "Ghana"
+        "name": "Ghana",
+        "crest": "https://crests.football-data.org/ghana.svg"
       },
       "stadium": {
         "name": "Lincoln Financial Field",
@@ -2471,6 +4319,32 @@
         "homeHt": 1,
         "awayHt": 0
       },
+      "goals": [
+        {
+          "minute": 31,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Croatia",
+          "scorer": "Petar Sucic",
+          "assist": null
+        },
+        {
+          "minute": 73,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Ghana",
+          "scorer": "Derrick Luckassen",
+          "assist": null
+        },
+        {
+          "minute": 83,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Croatia",
+          "scorer": "Nikola Vlasic",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -2482,11 +4356,13 @@
       "group": "J",
       "homeTeam": {
         "slug": "algeria",
-        "name": "Algeria"
+        "name": "Algeria",
+        "crest": "https://crests.football-data.org/algeria.svg"
       },
       "awayTeam": {
         "slug": "austria",
-        "name": "Austria"
+        "name": "Austria",
+        "crest": "https://crests.football-data.org/816.svg"
       },
       "stadium": {
         "name": "Arrowhead Stadium",
@@ -2502,6 +4378,56 @@
         "homeHt": 1,
         "awayHt": 1
       },
+      "goals": [
+        {
+          "minute": 28,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Austria",
+          "scorer": "Marko Arnautovic",
+          "assist": null
+        },
+        {
+          "minute": 45,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Algeria",
+          "scorer": "Rafik Belghali",
+          "assist": null
+        },
+        {
+          "minute": 55,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Austria",
+          "scorer": "Marcel Sabitzer",
+          "assist": null
+        },
+        {
+          "minute": 60,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Algeria",
+          "scorer": "Riyad Mahrez",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 3,
+          "type": "REGULAR",
+          "team": "Algeria",
+          "scorer": "Riyad Mahrez",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 6,
+          "type": "REGULAR",
+          "team": "Austria",
+          "scorer": "Sasa Kalajdzic",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -2513,11 +4439,13 @@
       "group": "J",
       "homeTeam": {
         "slug": "jordan",
-        "name": "Jordan"
+        "name": "Jordan",
+        "crest": "https://crests.football-data.org/8049.png"
       },
       "awayTeam": {
         "slug": "argentina",
-        "name": "Argentina"
+        "name": "Argentina",
+        "crest": "https://crests.football-data.org/762.png"
       },
       "stadium": {
         "name": "AT&T Stadium",
@@ -2533,6 +4461,40 @@
         "homeHt": 0,
         "awayHt": 2
       },
+      "goals": [
+        {
+          "minute": 19,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Argentina",
+          "scorer": "Giovani Lo Celso",
+          "assist": null
+        },
+        {
+          "minute": 31,
+          "injuryTime": null,
+          "type": "PENALTY",
+          "team": "Argentina",
+          "scorer": "Lautaro Martínez",
+          "assist": null
+        },
+        {
+          "minute": 55,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Jordan",
+          "scorer": "Mousa Al-Tamari",
+          "assist": null
+        },
+        {
+          "minute": 80,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Argentina",
+          "scorer": "Lionel Messi",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -2544,11 +4506,13 @@
       "group": "K",
       "homeTeam": {
         "slug": "colombia",
-        "name": "Colombia"
+        "name": "Colombia",
+        "crest": "https://crests.football-data.org/818.svg"
       },
       "awayTeam": {
         "slug": "portugal",
-        "name": "Portugal"
+        "name": "Portugal",
+        "crest": "https://crests.football-data.org/765.svg"
       },
       "stadium": {
         "name": "Hard Rock Stadium",
@@ -2564,6 +4528,7 @@
         "homeHt": 0,
         "awayHt": 0
       },
+      "goals": null,
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -2575,11 +4540,13 @@
       "group": "K",
       "homeTeam": {
         "slug": "congo-dr",
-        "name": "Congo DR"
+        "name": "Congo DR",
+        "crest": "https://crests.football-data.org/congo_dr.svg"
       },
       "awayTeam": {
         "slug": "uzbekistan",
-        "name": "Uzbekistan"
+        "name": "Uzbekistan",
+        "crest": "https://crests.football-data.org/8070.png"
       },
       "stadium": {
         "name": "Mercedes-Benz Stadium",
@@ -2595,6 +4562,40 @@
         "homeHt": 0,
         "awayHt": 1
       },
+      "goals": [
+        {
+          "minute": 10,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Uzbekistan",
+          "scorer": "Eldor Shomurodov",
+          "assist": null
+        },
+        {
+          "minute": 68,
+          "injuryTime": null,
+          "type": "PENALTY",
+          "team": "Congo DR",
+          "scorer": "Yoane Wissa",
+          "assist": null
+        },
+        {
+          "minute": 78,
+          "injuryTime": null,
+          "type": "REGULAR",
+          "team": "Congo DR",
+          "scorer": "Fiston Mayele",
+          "assist": null
+        },
+        {
+          "minute": 90,
+          "injuryTime": 1,
+          "type": "REGULAR",
+          "team": "Congo DR",
+          "scorer": "Yoane Wissa",
+          "assist": null
+        }
+      ],
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -2606,11 +4607,13 @@
       "group": null,
       "homeTeam": {
         "slug": "group-a-runners-up",
-        "name": "South Africa"
+        "name": "South Africa",
+        "crest": "https://crests.football-data.org/9396.svg"
       },
       "awayTeam": {
         "slug": "group-b-runners-up",
-        "name": "Canada"
+        "name": "Canada",
+        "crest": "https://crests.football-data.org/canada.svg"
       },
       "stadium": {
         "name": "SoFi Stadium",
@@ -2626,6 +4629,7 @@
         "homeHt": 0,
         "awayHt": 0
       },
+      "goals": null,
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -2637,11 +4641,13 @@
       "group": null,
       "homeTeam": {
         "slug": "group-e-winners",
-        "name": "Germany"
+        "name": "Germany",
+        "crest": "https://crests.football-data.org/759.svg"
       },
       "awayTeam": {
         "slug": "group-a-b-c-d-f-third-place",
-        "name": "Paraguay"
+        "name": "Paraguay",
+        "crest": "https://crests.football-data.org/761.svg"
       },
       "stadium": {
         "name": "Gillette Stadium",
@@ -2657,6 +4663,7 @@
         "homeHt": null,
         "awayHt": null
       },
+      "goals": null,
       "isLive": true,
       "isFinished": false,
       "isScheduled": false
@@ -2668,11 +4675,13 @@
       "group": null,
       "homeTeam": {
         "slug": "group-f-winners",
-        "name": "Netherlands"
+        "name": "Netherlands",
+        "crest": "https://crests.football-data.org/8601.svg"
       },
       "awayTeam": {
         "slug": "group-c-runners-up",
-        "name": "Morocco"
+        "name": "Morocco",
+        "crest": "https://crests.football-data.org/morocco.svg"
       },
       "stadium": {
         "name": "Estadio BBVA",
@@ -2683,6 +4692,7 @@
       "status": "SCHEDULED",
       "minute": null,
       "score": null,
+      "goals": null,
       "isLive": false,
       "isFinished": false,
       "isScheduled": true
@@ -2694,11 +4704,13 @@
       "group": null,
       "homeTeam": {
         "slug": "group-c-winners",
-        "name": "Brazil"
+        "name": "Brazil",
+        "crest": "https://crests.football-data.org/764.svg"
       },
       "awayTeam": {
         "slug": "group-f-runners-up",
-        "name": "Japan"
+        "name": "Japan",
+        "crest": "https://crests.football-data.org/766.svg"
       },
       "stadium": {
         "name": "NRG Stadium",
@@ -2714,6 +4726,7 @@
         "homeHt": 0,
         "awayHt": 1
       },
+      "goals": null,
       "isLive": false,
       "isFinished": true,
       "isScheduled": false
@@ -2725,11 +4738,13 @@
       "group": null,
       "homeTeam": {
         "slug": "group-i-winners",
-        "name": "France"
+        "name": "France",
+        "crest": "https://crests.football-data.org/773.svg"
       },
       "awayTeam": {
         "slug": "group-c-d-f-g-h-third-place",
-        "name": "Sweden"
+        "name": "Sweden",
+        "crest": "https://crests.football-data.org/792.svg"
       },
       "stadium": {
         "name": "MetLife Stadium",
@@ -2740,6 +4755,7 @@
       "status": "SCHEDULED",
       "minute": null,
       "score": null,
+      "goals": null,
       "isLive": false,
       "isFinished": false,
       "isScheduled": true
@@ -2751,11 +4767,13 @@
       "group": null,
       "homeTeam": {
         "slug": "group-e-runners-up",
-        "name": "Ivory Coast"
+        "name": "Ivory Coast",
+        "crest": "https://crests.football-data.org/787.svg"
       },
       "awayTeam": {
         "slug": "group-i-runners-up",
-        "name": "Norway"
+        "name": "Norway",
+        "crest": "https://crests.football-data.org/813.svg"
       },
       "stadium": {
         "name": "AT&T Stadium",
@@ -2766,6 +4784,7 @@
       "status": "SCHEDULED",
       "minute": null,
       "score": null,
+      "goals": null,
       "isLive": false,
       "isFinished": false,
       "isScheduled": true
@@ -2777,11 +4796,13 @@
       "group": null,
       "homeTeam": {
         "slug": "group-a-winners",
-        "name": "Mexico"
+        "name": "Mexico",
+        "crest": "https://crests.football-data.org/769.svg"
       },
       "awayTeam": {
         "slug": "group-c-e-f-h-i-third-place",
-        "name": "Ecuador"
+        "name": "Ecuador",
+        "crest": "https://crests.football-data.org/791.svg"
       },
       "stadium": {
         "name": "Estadio Azteca",
@@ -2792,6 +4813,7 @@
       "status": "SCHEDULED",
       "minute": null,
       "score": null,
+      "goals": null,
       "isLive": false,
       "isFinished": false,
       "isScheduled": true
@@ -2803,11 +4825,13 @@
       "group": null,
       "homeTeam": {
         "slug": "group-l-winners",
-        "name": "England"
+        "name": "England",
+        "crest": "https://crests.football-data.org/770.svg"
       },
       "awayTeam": {
         "slug": "group-e-h-i-j-k-third-place",
-        "name": "Congo DR"
+        "name": "Congo DR",
+        "crest": "https://crests.football-data.org/congo_dr.svg"
       },
       "stadium": {
         "name": "Mercedes-Benz Stadium",
@@ -2818,6 +4842,7 @@
       "status": "SCHEDULED",
       "minute": null,
       "score": null,
+      "goals": null,
       "isLive": false,
       "isFinished": false,
       "isScheduled": true
@@ -2829,11 +4854,13 @@
       "group": null,
       "homeTeam": {
         "slug": "group-d-winners",
-        "name": "United States"
+        "name": "United States",
+        "crest": "https://crests.football-data.org/usa.svg"
       },
       "awayTeam": {
         "slug": "group-b-e-f-i-j-third-place",
-        "name": "Bosnia-Herzegovina"
+        "name": "Bosnia-Herzegovina",
+        "crest": "https://crests.football-data.org/bosnia.svg"
       },
       "stadium": {
         "name": "Levi's Stadium",
@@ -2844,6 +4871,7 @@
       "status": "SCHEDULED",
       "minute": null,
       "score": null,
+      "goals": null,
       "isLive": false,
       "isFinished": false,
       "isScheduled": true
@@ -2855,11 +4883,13 @@
       "group": null,
       "homeTeam": {
         "slug": "group-g-winners",
-        "name": "Belgium"
+        "name": "Belgium",
+        "crest": "https://crests.football-data.org/805.svg"
       },
       "awayTeam": {
         "slug": "group-a-e-h-i-j-third-place",
-        "name": "Senegal"
+        "name": "Senegal",
+        "crest": "https://crests.football-data.org/senegal.svg"
       },
       "stadium": {
         "name": "Lumen Field",
@@ -2870,6 +4900,7 @@
       "status": "SCHEDULED",
       "minute": null,
       "score": null,
+      "goals": null,
       "isLive": false,
       "isFinished": false,
       "isScheduled": true
@@ -2881,11 +4912,13 @@
       "group": null,
       "homeTeam": {
         "slug": "group-k-runners-up",
-        "name": "Portugal"
+        "name": "Portugal",
+        "crest": "https://crests.football-data.org/765.svg"
       },
       "awayTeam": {
         "slug": "group-l-runners-up",
-        "name": "Croatia"
+        "name": "Croatia",
+        "crest": "https://crests.football-data.org/799.svg"
       },
       "stadium": {
         "name": "BMO Field",
@@ -2896,6 +4929,7 @@
       "status": "SCHEDULED",
       "minute": null,
       "score": null,
+      "goals": null,
       "isLive": false,
       "isFinished": false,
       "isScheduled": true
@@ -2907,11 +4941,13 @@
       "group": null,
       "homeTeam": {
         "slug": "group-h-winners",
-        "name": "Spain"
+        "name": "Spain",
+        "crest": "https://crests.football-data.org/760.svg"
       },
       "awayTeam": {
         "slug": "group-j-runners-up",
-        "name": "Austria"
+        "name": "Austria",
+        "crest": "https://crests.football-data.org/816.svg"
       },
       "stadium": {
         "name": "SoFi Stadium",
@@ -2922,6 +4958,7 @@
       "status": "SCHEDULED",
       "minute": null,
       "score": null,
+      "goals": null,
       "isLive": false,
       "isFinished": false,
       "isScheduled": true
@@ -2933,11 +4970,13 @@
       "group": null,
       "homeTeam": {
         "slug": "group-b-winners",
-        "name": "Switzerland"
+        "name": "Switzerland",
+        "crest": "https://crests.football-data.org/788.svg"
       },
       "awayTeam": {
         "slug": "group-e-f-g-i-j-third-place",
-        "name": "Algeria"
+        "name": "Algeria",
+        "crest": "https://crests.football-data.org/algeria.svg"
       },
       "stadium": {
         "name": "BC Place",
@@ -2948,6 +4987,7 @@
       "status": "SCHEDULED",
       "minute": null,
       "score": null,
+      "goals": null,
       "isLive": false,
       "isFinished": false,
       "isScheduled": true
@@ -2959,11 +4999,13 @@
       "group": null,
       "homeTeam": {
         "slug": "group-j-winners",
-        "name": "Argentina"
+        "name": "Argentina",
+        "crest": "https://crests.football-data.org/762.png"
       },
       "awayTeam": {
         "slug": "group-h-runners-up",
-        "name": "Cape Verde Islands"
+        "name": "Cape Verde Islands",
+        "crest": "https://crests.football-data.org/cape_verde.svg"
       },
       "stadium": {
         "name": "Hard Rock Stadium",
@@ -2974,6 +5016,7 @@
       "status": "SCHEDULED",
       "minute": null,
       "score": null,
+      "goals": null,
       "isLive": false,
       "isFinished": false,
       "isScheduled": true
@@ -2985,11 +5028,13 @@
       "group": null,
       "homeTeam": {
         "slug": "group-k-winners",
-        "name": "Colombia"
+        "name": "Colombia",
+        "crest": "https://crests.football-data.org/818.svg"
       },
       "awayTeam": {
         "slug": "group-d-e-i-j-l-third-place",
-        "name": "Ghana"
+        "name": "Ghana",
+        "crest": "https://crests.football-data.org/ghana.svg"
       },
       "stadium": {
         "name": "Arrowhead Stadium",
@@ -3000,6 +5045,7 @@
       "status": "SCHEDULED",
       "minute": null,
       "score": null,
+      "goals": null,
       "isLive": false,
       "isFinished": false,
       "isScheduled": true
@@ -3011,11 +5057,13 @@
       "group": null,
       "homeTeam": {
         "slug": "group-d-runners-up",
-        "name": "Australia"
+        "name": "Australia",
+        "crest": "https://crests.football-data.org/779.svg"
       },
       "awayTeam": {
         "slug": "group-g-runners-up",
-        "name": "Egypt"
+        "name": "Egypt",
+        "crest": "https://crests.football-data.org/825.svg"
       },
       "stadium": {
         "name": "AT&T Stadium",
@@ -3026,6 +5074,7 @@
       "status": "SCHEDULED",
       "minute": null,
       "score": null,
+      "goals": null,
       "isLive": false,
       "isFinished": false,
       "isScheduled": true
@@ -3052,6 +5101,7 @@
       "status": "SCHEDULED",
       "minute": null,
       "score": null,
+      "goals": null,
       "isLive": false,
       "isFinished": false,
       "isScheduled": true
@@ -3063,7 +5113,8 @@
       "group": null,
       "homeTeam": {
         "slug": "winner-match-73",
-        "name": "Canada"
+        "name": "Canada",
+        "crest": "https://crests.football-data.org/canada.svg"
       },
       "awayTeam": {
         "slug": "winner-match-75",
@@ -3078,6 +5129,7 @@
       "status": "SCHEDULED",
       "minute": null,
       "score": null,
+      "goals": null,
       "isLive": false,
       "isFinished": false,
       "isScheduled": true
@@ -3104,6 +5156,7 @@
       "status": "SCHEDULED",
       "minute": null,
       "score": null,
+      "goals": null,
       "isLive": false,
       "isFinished": false,
       "isScheduled": true
@@ -3130,6 +5183,7 @@
       "status": "SCHEDULED",
       "minute": null,
       "score": null,
+      "goals": null,
       "isLive": false,
       "isFinished": false,
       "isScheduled": true
@@ -3156,6 +5210,7 @@
       "status": "SCHEDULED",
       "minute": null,
       "score": null,
+      "goals": null,
       "isLive": false,
       "isFinished": false,
       "isScheduled": true
@@ -3182,6 +5237,7 @@
       "status": "SCHEDULED",
       "minute": null,
       "score": null,
+      "goals": null,
       "isLive": false,
       "isFinished": false,
       "isScheduled": true
@@ -3208,6 +5264,7 @@
       "status": "SCHEDULED",
       "minute": null,
       "score": null,
+      "goals": null,
       "isLive": false,
       "isFinished": false,
       "isScheduled": true
@@ -3234,6 +5291,7 @@
       "status": "SCHEDULED",
       "minute": null,
       "score": null,
+      "goals": null,
       "isLive": false,
       "isFinished": false,
       "isScheduled": true
@@ -3260,6 +5318,7 @@
       "status": "SCHEDULED",
       "minute": null,
       "score": null,
+      "goals": null,
       "isLive": false,
       "isFinished": false,
       "isScheduled": true
@@ -3286,6 +5345,7 @@
       "status": "SCHEDULED",
       "minute": null,
       "score": null,
+      "goals": null,
       "isLive": false,
       "isFinished": false,
       "isScheduled": true
@@ -3312,6 +5372,7 @@
       "status": "SCHEDULED",
       "minute": null,
       "score": null,
+      "goals": null,
       "isLive": false,
       "isFinished": false,
       "isScheduled": true
@@ -3338,6 +5399,7 @@
       "status": "SCHEDULED",
       "minute": null,
       "score": null,
+      "goals": null,
       "isLive": false,
       "isFinished": false,
       "isScheduled": true
@@ -3364,6 +5426,7 @@
       "status": "SCHEDULED",
       "minute": null,
       "score": null,
+      "goals": null,
       "isLive": false,
       "isFinished": false,
       "isScheduled": true
@@ -3390,6 +5453,7 @@
       "status": "SCHEDULED",
       "minute": null,
       "score": null,
+      "goals": null,
       "isLive": false,
       "isFinished": false,
       "isScheduled": true
@@ -3416,6 +5480,7 @@
       "status": "SCHEDULED",
       "minute": null,
       "score": null,
+      "goals": null,
       "isLive": false,
       "isFinished": false,
       "isScheduled": true
@@ -3442,6 +5507,7 @@
       "status": "SCHEDULED",
       "minute": null,
       "score": null,
+      "goals": null,
       "isLive": false,
       "isFinished": false,
       "isScheduled": true

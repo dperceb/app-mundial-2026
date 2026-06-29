@@ -67,16 +67,80 @@ function scoreHtml(match) {
   return `<div class="match-score"><span class="sep">vs</span></div>`;
 }
 
+function teamFlagHtml(team) {
+  if (!team?.crest) return '';
+  return `<img src="${escapeHtml(team.crest)}" alt="" width="32" height="32" loading="lazy">`;
+}
+
+function formatGoalMinute(goal) {
+  if (goal.minute == null) return '';
+  const base = goal.injuryTime ? `${goal.minute}+${goal.injuryTime}` : String(goal.minute);
+  let suffix = '';
+  if (goal.type === 'PENALTY') suffix = ' (p)';
+  else if (goal.type === 'OWN_GOAL') suffix = ' (ag.)';
+  return `${base}'${suffix}`;
+}
+
+function goalBelongsToHome(goal, match) {
+  if (!goal.team) return null;
+  const g = goal.team.trim().toLowerCase();
+  const home = match.homeTeam.name.trim().toLowerCase();
+  const away = match.awayTeam.name.trim().toLowerCase();
+  if (g === home || home.includes(g) || g.includes(home)) return true;
+  if (g === away || away.includes(g) || g.includes(away)) return false;
+  return null;
+}
+
+function renderGoalEntry(goal, align) {
+  const minute = formatGoalMinute(goal);
+  const scorer = goal.scorer || '—';
+  const alignClass = align === 'home' ? 'goal-entry home' : 'goal-entry away';
+  if (align === 'home') {
+    return `<span class="${alignClass}"><span class="goal-scorer">${escapeHtml(scorer)}</span> <span class="goal-minute">${escapeHtml(minute)}</span></span>`;
+  }
+  return `<span class="${alignClass}"><span class="goal-minute">${escapeHtml(minute)}</span> <span class="goal-scorer">${escapeHtml(scorer)}</span></span>`;
+}
+
+function renderGoalsHtml(match) {
+  if (!match.goals?.length) return '';
+  const show = match.isFinished || match.isLive;
+  if (!show) return '';
+
+  const homeGoals = [];
+  const awayGoals = [];
+  for (const goal of match.goals) {
+    const side = goalBelongsToHome(goal, match);
+    if (side === true) homeGoals.push(goal);
+    else if (side === false) awayGoals.push(goal);
+  }
+
+  if (!homeGoals.length && !awayGoals.length) return '';
+
+  return `
+    <div class="match-goals">
+      <div class="match-goals-col home">
+        ${homeGoals.map((g) => renderGoalEntry(g, 'home')).join('')}
+      </div>
+      <div class="match-goals-col away">
+        ${awayGoals.map((g) => renderGoalEntry(g, 'away')).join('')}
+      </div>
+    </div>
+  `;
+}
+
 export function renderMatchCard(match) {
   const liveClass = match.isLive ? ' live' : '';
+  const finishedClass = match.isFinished ? ' finished' : '';
   const stage = STAGE_LABELS[match.stage] || match.stage;
   const group = match.group ? ` · Grupo ${match.group}` : '';
   const minute = match.isLive && match.minute ? ` (${match.minute}')` : '';
+  const goalsHtml = renderGoalsHtml(match);
 
   return `
-    <article class="match-card${liveClass}" data-match="${match.matchNumber}">
+    <article class="match-card${liveClass}${finishedClass}" data-match="${match.matchNumber}">
       <div class="match-team home">
         <span class="name">${escapeHtml(match.homeTeam.name)}</span>
+        ${teamFlagHtml(match.homeTeam)}
       </div>
       <div class="match-center">
         ${scoreHtml(match)}
@@ -84,8 +148,10 @@ export function renderMatchCard(match) {
         <div class="match-time">${formatTime(match.kickoffUtc)}</div>
       </div>
       <div class="match-team away">
+        ${teamFlagHtml(match.awayTeam)}
         <span class="name">${escapeHtml(match.awayTeam.name)}</span>
       </div>
+      ${goalsHtml}
       <div class="match-meta">
         ${escapeHtml(stage)}${escapeHtml(group)} · ${escapeHtml(match.stadium?.name || '')}
       </div>
@@ -178,6 +244,7 @@ export function renderHome(data) {
     <div class="quick-links">
       <a href="#partidos" class="quick-link" data-nav="partidos"><span class="icon">📅</span><span class="text">Partidos</span></a>
       <a href="#grupos" class="quick-link" data-nav="grupos"><span class="icon">📊</span><span class="text">Grupos</span></a>
+      <a href="#eliminatoria" class="quick-link" data-nav="eliminatoria"><span class="icon">🏆</span><span class="text">Eliminatoria</span></a>
     </div>
 
     ${live.length ? `<h2 class="section-title"><span class="badge badge-live">EN VIVO</span> Partidos en directo</h2>${renderMatchList(live)}` : ''}
