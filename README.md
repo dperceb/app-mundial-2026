@@ -127,11 +127,24 @@ En GitHub: **Settings → Secrets and variables → Actions → New repository s
 - Nombre: `FOOTBALL_DATA_TOKEN`
 - Valor: tu token de [Football-Data.org](https://www.football-data.org/)
 
-### 3. Activar GitHub Pages
+### 3. Activar GitHub Pages (obligatorio antes del deploy)
 
 En GitHub: **Settings → Pages → Build and deployment → Source: GitHub Actions**
 
-### 4. Primera carga de datos
+> Si no activas esto primero, el workflow **Deploy to GitHub Pages** fallará con:
+> `Failed to create deployment (status: 404)` / `Ensure GitHub Pages has been enabled`.
+
+También en **Settings → Actions → General → Workflow permissions**:
+
+- Marca **Read and write permissions** → Save
+
+### 4. Publicar el sitio
+
+**Actions → Deploy to GitHub Pages → Run workflow**
+
+O haz push a `main` con cambios en `public/`.
+
+### 5. Primera carga de datos
 
 Opción A — localmente antes del push:
 
@@ -145,9 +158,21 @@ git push
 
 Opción B — tras el push, en la pestaña **Actions**, ejecuta manualmente el workflow **Update WC26 data**.
 
-### 5. URL pública
+### 6. URL pública
 
-Tras el primer deploy: `https://TU_USUARIO.github.io/app-mundial-2026/`
+Tras el primer deploy en verde: `https://TU_USUARIO.github.io/app-mundial-2026/`
+
+En **Settings → Pages** debe aparecer: *Your site is live at…*
+
+### Solución de problemas del deploy
+
+| Error | Solución |
+|-------|----------|
+| `src refspec main does not match any` | Tu rama es `master`: ejecuta `git branch -M main` y luego `git push -u origin main` |
+| `Failed to create deployment (404)` | Activa **Settings → Pages → Source: GitHub Actions** antes de ejecutar el deploy |
+| `remote origin already exists` | Normal; usa `git push -u origin main` sin volver a añadir el remote |
+| Sitio 404 en el navegador | Espera 2–3 min tras deploy verde; confirma la URL en Settings → Pages |
+| Datos sin actualizar | Ejecuta **Actions → Update WC26 data** y verifica el secret `FOOTBALL_DATA_TOKEN` |
 
 Los workflows en [`.github/workflows/`](.github/workflows/) hacen lo siguiente:
 
