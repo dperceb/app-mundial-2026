@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T20:57:46.465Z",
+  "lastUpdated": "2026-06-29T21:43:55.264Z",
   "source": "football-data.org",
   "ok": true,
   "error": null,
@@ -3574,9 +3574,9 @@
       "minute": null,
       "score": {
         "home": 0,
-        "away": 0,
-        "homeHt": null,
-        "awayHt": null
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 1
       },
       "homeTeam": {
         "name": "Germany",
