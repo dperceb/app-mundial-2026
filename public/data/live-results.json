@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T19:21:17.087Z",
+  "lastUpdated": "2026-06-29T20:54:03.588Z",
   "source": "football-data.org",
   "ok": true,
   "error": null,
@@ -1489,9 +1489,14 @@
     {
       "fdMatchId": 537415,
       "matchNumber": 74,
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "minute": null,
-      "score": null,
+      "score": {
+        "home": 0,
+        "away": 0,
+        "homeHt": null,
+        "awayHt": null
+      },
       "homeTeam": {
         "name": "Germany",
         "shortName": "Germany"
