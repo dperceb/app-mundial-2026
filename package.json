@@ -1,0 +1,19 @@
+{
+  "name": "app-mundial-2026",
+  "version": "2.0.0",
+  "description": "Web app híbrida para seguir el Mundial de Fútbol 2026",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "import:static": "node scripts/import-static-data.js",
+    "update:results": "node scripts/update-results.js",
+    "update:standings": "node scripts/update-standings.js",
+    "build:data": "node scripts/build-app-data.js",
+    "update:all": "node scripts/update-results.js && node scripts/update-standings.js && node scripts/build-app-data.js",
+    "setup": "node scripts/import-static-data.js && node scripts/build-app-data.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

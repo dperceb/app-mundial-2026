@@ -1,0 +1,36 @@
+name: Update WC26 data
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Ensure static base data exists
+        run: |
+          if [ ! -f public/data/base-fixtures.json ]; then
+            npm run import:static
+          fi
+
+      - name: Update live results and standings
+        run: npm run update:all
+        env:
+          FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
+
+      - name: Commit updated JSON files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: update live WC26 data'
+          file_pattern: 'public/data/*.json'

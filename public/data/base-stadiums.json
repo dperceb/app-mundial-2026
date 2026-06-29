@@ -1,0 +1,102 @@
+{
+  "lastUpdated": "2026-06-29T19:13:55.072Z",
+  "source": "thestatsapi",
+  "stadiums": [
+    {
+      "slug": "kansas-city-arrowhead-stadium",
+      "name": "Arrowhead Stadium",
+      "hostCity": "kansas-city",
+      "country": "USA"
+    },
+    {
+      "slug": "dallas-at-t-stadium",
+      "name": "AT&T Stadium",
+      "hostCity": "dallas",
+      "country": "USA"
+    },
+    {
+      "slug": "vancouver-bc-place",
+      "name": "BC Place",
+      "hostCity": "vancouver",
+      "country": "Canada"
+    },
+    {
+      "slug": "toronto-bmo-field",
+      "name": "BMO Field",
+      "hostCity": "toronto",
+      "country": "Canada"
+    },
+    {
+      "slug": "guadalajara-estadio-akron",
+      "name": "Estadio Akron",
+      "hostCity": "guadalajara",
+      "country": "Mexico"
+    },
+    {
+      "slug": "mexico-city-estadio-azteca",
+      "name": "Estadio Azteca",
+      "hostCity": "mexico-city",
+      "country": "Mexico"
+    },
+    {
+      "slug": "monterrey-estadio-bbva",
+      "name": "Estadio BBVA",
+      "hostCity": "monterrey",
+      "country": "Mexico"
+    },
+    {
+      "slug": "boston-gillette-stadium",
+      "name": "Gillette Stadium",
+      "hostCity": "boston",
+      "country": "USA"
+    },
+    {
+      "slug": "miami-hard-rock-stadium",
+      "name": "Hard Rock Stadium",
+      "hostCity": "miami",
+      "country": "USA"
+    },
+    {
+      "slug": "san-francisco-levi-s-stadium",
+      "name": "Levi's Stadium",
+      "hostCity": "san-francisco",
+      "country": "USA"
+    },
+    {
+      "slug": "philadelphia-lincoln-financial-field",
+      "name": "Lincoln Financial Field",
+      "hostCity": "philadelphia",
+      "country": "USA"
+    },
+    {
+      "slug": "seattle-lumen-field",
+      "name": "Lumen Field",
+      "hostCity": "seattle",
+      "country": "USA"
+    },
+    {
+      "slug": "atlanta-mercedes-benz-stadium",
+      "name": "Mercedes-Benz Stadium",
+      "hostCity": "atlanta",
+      "country": "USA"
+    },
+    {
+      "slug": "new-york-metlife-stadium",
+      "name": "MetLife Stadium",
+      "hostCity": "new-york",
+      "country": "USA"
+    },
+    {
+      "slug": "houston-nrg-stadium",
+      "name": "NRG Stadium",
+      "hostCity": "houston",
+      "country": "USA"
+    },
+    {
+      "slug": "los-angeles-sofi-stadium",
+      "name": "SoFi Stadium",
+      "hostCity": "los-angeles",
+      "country": "USA"
+    }
+  ]
+}

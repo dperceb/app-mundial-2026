@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="description" content="Sigue el Mundial de Fútbol 2026: calendario, resultados y clasificación. #Somos26">
+  <meta name="theme-color" content="#1A1A1A">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Mundial 2026">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <title>Mundial 2026 — Resultados y Clasificación</title>
+  <link rel="icon" type="image/svg+xml" href="assets/logo-wc26.svg">
+  <link rel="apple-touch-icon" href="assets/logo-wc26.svg">
+  <link rel="manifest" href="manifest.json">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600;700&family=Oswald:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="#inicio" class="logo-link" data-nav="inicio">
+        <img src="assets/logo-wc26.svg" alt="Mundial 2026" width="48" height="48">
+        <div class="logo-text">
+          MUNDIAL 2026
+          <span>#SOMOS26</span>
+        </div>
+      </a>
+      <button class="nav-toggle" aria-label="Abrir menú" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+      <nav class="main-nav" aria-label="Navegación principal">
+        <ul>
+          <li><a href="#inicio" data-nav="inicio">Inicio</a></li>
+          <li><a href="#partidos" data-nav="partidos">Partidos</a></li>
+          <li><a href="#grupos" data-nav="grupos">Grupos</a></li>
+          <li><a href="#selecciones" data-nav="selecciones">Selecciones</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <div id="update-bar" class="main-content" style="padding-bottom:0"></div>
+
+  <main class="main-content">
+    <section id="view-inicio" class="view active" aria-label="Inicio"></section>
+    <section id="view-partidos" class="view" aria-label="Partidos"></section>
+    <section id="view-grupos" class="view" aria-label="Clasificación"></section>
+    <section id="view-selecciones" class="view" aria-label="Selecciones"></section>
+  </main>
+
+  <footer class="site-footer">
+    <p class="hashtag">#SOMOS26</p>
+    <p class="footer-flags">🇨🇦 🇲🇽 🇺🇸</p>
+    <p>Calendario: <a href="https://www.thestatsapi.com/world-cup/data" target="_blank" rel="noopener">TheStatsAPI</a> · Resultados: <a href="https://www.football-data.org/" target="_blank" rel="noopener">Football-Data.org</a></p>
+    <p><a href="https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026" target="_blank" rel="noopener">FIFA World Cup 2026™</a></p>
+  </footer>
+
+  <noscript>
+    <p style="max-width:40rem;margin:2rem auto;padding:1rem;text-align:center">
+      Esta aplicación necesita JavaScript para mostrar el calendario y resultados del Mundial 2026.
+    </p>
+  </noscript>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

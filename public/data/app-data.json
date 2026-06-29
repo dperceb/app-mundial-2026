@@ -1,0 +1,4371 @@
+{
+  "lastUpdated": "2026-06-29T19:21:17.510Z",
+  "meta": {
+    "staticLastUpdated": "2026-06-29T19:13:55.072Z",
+    "resultsLastUpdated": "2026-06-29T19:21:17.087Z",
+    "standingsLastUpdated": "2026-06-29T19:21:17.442Z",
+    "liveOk": true,
+    "resultsOk": true,
+    "standingsOk": true,
+    "warnings": [
+      "Equipo en openfootball no encontrado en TheStatsAPI: turkey",
+      "Equipo en openfootball no encontrado en TheStatsAPI: iran",
+      "Equipo en openfootball no encontrado en TheStatsAPI: cape-verde",
+      "Equipo en openfootball no encontrado en TheStatsAPI: dr-congo"
+    ]
+  },
+  "tournament": {
+    "edition": "2026 FIFA World Cup",
+    "startDate": "2026-06-11",
+    "endDate": "2026-07-19",
+    "hosts": [
+      "United States",
+      "Canada",
+      "Mexico"
+    ],
+    "totalTeams": 48,
+    "totalMatches": 104
+  },
+  "teams": [
+    {
+      "slug": "czech-republic",
+      "name": "Czechia",
+      "group": "A"
+    },
+    {
+      "slug": "south-korea",
+      "name": "Korea Republic",
+      "group": "A"
+    },
+    {
+      "slug": "mexico",
+      "name": "Mexico",
+      "group": "A"
+    },
+    {
+      "slug": "south-africa",
+      "name": "South Africa",
+      "group": "A"
+    },
+    {
+      "slug": "bosnia-herzegovina",
+      "name": "Bosnia and Herzegovina",
+      "group": "B"
+    },
+    {
+      "slug": "canada",
+      "name": "Canada",
+      "group": "B"
+    },
+    {
+      "slug": "qatar",
+      "name": "Qatar",
+      "group": "B"
+    },
+    {
+      "slug": "switzerland",
+      "name": "Switzerland",
+      "group": "B"
+    },
+    {
+      "slug": "brazil",
+      "name": "Brazil",
+      "group": "C"
+    },
+    {
+      "slug": "haiti",
+      "name": "Haiti",
+      "group": "C"
+    },
+    {
+      "slug": "morocco",
+      "name": "Morocco",
+      "group": "C"
+    },
+    {
+      "slug": "scotland",
+      "name": "Scotland",
+      "group": "C"
+    },
+    {
+      "slug": "australia",
+      "name": "Australia",
+      "group": "D"
+    },
+    {
+      "slug": "paraguay",
+      "name": "Paraguay",
+      "group": "D"
+    },
+    {
+      "slug": "turkiye",
+      "name": "Turkiye",
+      "group": "D"
+    },
+    {
+      "slug": "united-states",
+      "name": "United States",
+      "group": "D"
+    },
+    {
+      "slug": "ivory-coast",
+      "name": "Cote d'Ivoire",
+      "group": "E"
+    },
+    {
+      "slug": "curacao",
+      "name": "Curacao",
+      "group": "E"
+    },
+    {
+      "slug": "ecuador",
+      "name": "Ecuador",
+      "group": "E"
+    },
+    {
+      "slug": "germany",
+      "name": "Germany",
+      "group": "E"
+    },
+    {
+      "slug": "japan",
+      "name": "Japan",
+      "group": "F"
+    },
+    {
+      "slug": "netherlands",
+      "name": "Netherlands",
+      "group": "F"
+    },
+    {
+      "slug": "sweden",
+      "name": "Sweden",
+      "group": "F"
+    },
+    {
+      "slug": "tunisia",
+      "name": "Tunisia",
+      "group": "F"
+    },
+    {
+      "slug": "belgium",
+      "name": "Belgium",
+      "group": "G"
+    },
+    {
+      "slug": "egypt",
+      "name": "Egypt",
+      "group": "G"
+    },
+    {
+      "slug": "ir-iran",
+      "name": "IR Iran",
+      "group": "G"
+    },
+    {
+      "slug": "new-zealand",
+      "name": "New Zealand",
+      "group": "G"
+    },
+    {
+      "slug": "cabo-verde",
+      "name": "Cabo Verde",
+      "group": "H"
+    },
+    {
+      "slug": "saudi-arabia",
+      "name": "Saudi Arabia",
+      "group": "H"
+    },
+    {
+      "slug": "spain",
+      "name": "Spain",
+      "group": "H"
+    },
+    {
+      "slug": "uruguay",
+      "name": "Uruguay",
+      "group": "H"
+    },
+    {
+      "slug": "france",
+      "name": "France",
+      "group": "I"
+    },
+    {
+      "slug": "iraq",
+      "name": "Iraq",
+      "group": "I"
+    },
+    {
+      "slug": "norway",
+      "name": "Norway",
+      "group": "I"
+    },
+    {
+      "slug": "senegal",
+      "name": "Senegal",
+      "group": "I"
+    },
+    {
+      "slug": "algeria",
+      "name": "Algeria",
+      "group": "J"
+    },
+    {
+      "slug": "argentina",
+      "name": "Argentina",
+      "group": "J"
+    },
+    {
+      "slug": "austria",
+      "name": "Austria",
+      "group": "J"
+    },
+    {
+      "slug": "jordan",
+      "name": "Jordan",
+      "group": "J"
+    },
+    {
+      "slug": "colombia",
+      "name": "Colombia",
+      "group": "K"
+    },
+    {
+      "slug": "congo-dr",
+      "name": "Congo DR",
+      "group": "K"
+    },
+    {
+      "slug": "portugal",
+      "name": "Portugal",
+      "group": "K"
+    },
+    {
+      "slug": "uzbekistan",
+      "name": "Uzbekistan",
+      "group": "K"
+    },
+    {
+      "slug": "croatia",
+      "name": "Croatia",
+      "group": "L"
+    },
+    {
+      "slug": "england",
+      "name": "England",
+      "group": "L"
+    },
+    {
+      "slug": "ghana",
+      "name": "Ghana",
+      "group": "L"
+    },
+    {
+      "slug": "panama",
+      "name": "Panama",
+      "group": "L"
+    }
+  ],
+  "stadiums": [
+    {
+      "slug": "kansas-city-arrowhead-stadium",
+      "name": "Arrowhead Stadium",
+      "hostCity": "kansas-city",
+      "country": "USA"
+    },
+    {
+      "slug": "dallas-at-t-stadium",
+      "name": "AT&T Stadium",
+      "hostCity": "dallas",
+      "country": "USA"
+    },
+    {
+      "slug": "vancouver-bc-place",
+      "name": "BC Place",
+      "hostCity": "vancouver",
+      "country": "Canada"
+    },
+    {
+      "slug": "toronto-bmo-field",
+      "name": "BMO Field",
+      "hostCity": "toronto",
+      "country": "Canada"
+    },
+    {
+      "slug": "guadalajara-estadio-akron",
+      "name": "Estadio Akron",
+      "hostCity": "guadalajara",
+      "country": "Mexico"
+    },
+    {
+      "slug": "mexico-city-estadio-azteca",
+      "name": "Estadio Azteca",
+      "hostCity": "mexico-city",
+      "country": "Mexico"
+    },
+    {
+      "slug": "monterrey-estadio-bbva",
+      "name": "Estadio BBVA",
+      "hostCity": "monterrey",
+      "country": "Mexico"
+    },
+    {
+      "slug": "boston-gillette-stadium",
+      "name": "Gillette Stadium",
+      "hostCity": "boston",
+      "country": "USA"
+    },
+    {
+      "slug": "miami-hard-rock-stadium",
+      "name": "Hard Rock Stadium",
+      "hostCity": "miami",
+      "country": "USA"
+    },
+    {
+      "slug": "san-francisco-levi-s-stadium",
+      "name": "Levi's Stadium",
+      "hostCity": "san-francisco",
+      "country": "USA"
+    },
+    {
+      "slug": "philadelphia-lincoln-financial-field",
+      "name": "Lincoln Financial Field",
+      "hostCity": "philadelphia",
+      "country": "USA"
+    },
+    {
+      "slug": "seattle-lumen-field",
+      "name": "Lumen Field",
+      "hostCity": "seattle",
+      "country": "USA"
+    },
+    {
+      "slug": "atlanta-mercedes-benz-stadium",
+      "name": "Mercedes-Benz Stadium",
+      "hostCity": "atlanta",
+      "country": "USA"
+    },
+    {
+      "slug": "new-york-metlife-stadium",
+      "name": "MetLife Stadium",
+      "hostCity": "new-york",
+      "country": "USA"
+    },
+    {
+      "slug": "houston-nrg-stadium",
+      "name": "NRG Stadium",
+      "hostCity": "houston",
+      "country": "USA"
+    },
+    {
+      "slug": "los-angeles-sofi-stadium",
+      "name": "SoFi Stadium",
+      "hostCity": "los-angeles",
+      "country": "USA"
+    }
+  ],
+  "matches": [
+    {
+      "matchNumber": 1,
+      "kickoffUtc": "2026-06-11T19:00:00Z",
+      "stage": "group-stage",
+      "group": "A",
+      "homeTeam": {
+        "slug": "mexico",
+        "name": "Mexico"
+      },
+      "awayTeam": {
+        "slug": "south-africa",
+        "name": "South Africa"
+      },
+      "stadium": {
+        "name": "Estadio Azteca",
+        "hostCity": "mexico-city",
+        "slug": "mexico-city-estadio-azteca"
+      },
+      "fdMatchId": 537327,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 0,
+        "homeHt": 1,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 2,
+      "kickoffUtc": "2026-06-12T02:00:00Z",
+      "stage": "group-stage",
+      "group": "A",
+      "homeTeam": {
+        "slug": "south-korea",
+        "name": "Korea Republic"
+      },
+      "awayTeam": {
+        "slug": "czech-republic",
+        "name": "Czechia"
+      },
+      "stadium": {
+        "name": "Estadio Akron",
+        "hostCity": "guadalajara",
+        "slug": "guadalajara-estadio-akron"
+      },
+      "fdMatchId": 537328,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 3,
+      "kickoffUtc": "2026-06-12T19:00:00Z",
+      "stage": "group-stage",
+      "group": "B",
+      "homeTeam": {
+        "slug": "canada",
+        "name": "Canada"
+      },
+      "awayTeam": {
+        "slug": "bosnia-herzegovina",
+        "name": "Bosnia and Herzegovina"
+      },
+      "stadium": {
+        "name": "BMO Field",
+        "hostCity": "toronto",
+        "slug": "toronto-bmo-field"
+      },
+      "fdMatchId": 537333,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 1
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 4,
+      "kickoffUtc": "2026-06-13T01:00:00Z",
+      "stage": "group-stage",
+      "group": "D",
+      "homeTeam": {
+        "slug": "united-states",
+        "name": "United States"
+      },
+      "awayTeam": {
+        "slug": "paraguay",
+        "name": "Paraguay"
+      },
+      "stadium": {
+        "name": "SoFi Stadium",
+        "hostCity": "los-angeles",
+        "slug": "los-angeles-sofi-stadium"
+      },
+      "fdMatchId": 537345,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 4,
+        "away": 1,
+        "homeHt": 3,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 5,
+      "kickoffUtc": "2026-06-14T01:00:00Z",
+      "stage": "group-stage",
+      "group": "C",
+      "homeTeam": {
+        "slug": "haiti",
+        "name": "Haiti"
+      },
+      "awayTeam": {
+        "slug": "scotland",
+        "name": "Scotland"
+      },
+      "stadium": {
+        "name": "Gillette Stadium",
+        "hostCity": "boston",
+        "slug": "boston-gillette-stadium"
+      },
+      "fdMatchId": 537340,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 1
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 6,
+      "kickoffUtc": "2026-06-14T04:00:00Z",
+      "stage": "group-stage",
+      "group": "D",
+      "homeTeam": {
+        "slug": "australia",
+        "name": "Australia"
+      },
+      "awayTeam": {
+        "slug": "turkiye",
+        "name": "Turkiye"
+      },
+      "stadium": {
+        "name": "BC Place",
+        "hostCity": "vancouver",
+        "slug": "vancouver-bc-place"
+      },
+      "fdMatchId": 537346,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 0,
+        "homeHt": 1,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 7,
+      "kickoffUtc": "2026-06-13T22:00:00Z",
+      "stage": "group-stage",
+      "group": "C",
+      "homeTeam": {
+        "slug": "brazil",
+        "name": "Brazil"
+      },
+      "awayTeam": {
+        "slug": "morocco",
+        "name": "Morocco"
+      },
+      "stadium": {
+        "name": "MetLife Stadium",
+        "hostCity": "new-york",
+        "slug": "new-york-metlife-stadium"
+      },
+      "fdMatchId": 537339,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 1,
+        "homeHt": 1,
+        "awayHt": 1
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 8,
+      "kickoffUtc": "2026-06-13T19:00:00Z",
+      "stage": "group-stage",
+      "group": "B",
+      "homeTeam": {
+        "slug": "qatar",
+        "name": "Qatar"
+      },
+      "awayTeam": {
+        "slug": "switzerland",
+        "name": "Switzerland"
+      },
+      "stadium": {
+        "name": "Levi's Stadium",
+        "hostCity": "san-francisco",
+        "slug": "san-francisco-levi-s-stadium"
+      },
+      "fdMatchId": 537334,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 1
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 9,
+      "kickoffUtc": "2026-06-14T23:00:00Z",
+      "stage": "group-stage",
+      "group": "E",
+      "homeTeam": {
+        "slug": "ivory-coast",
+        "name": "Cote d'Ivoire"
+      },
+      "awayTeam": {
+        "slug": "ecuador",
+        "name": "Ecuador"
+      },
+      "stadium": {
+        "name": "Lincoln Financial Field",
+        "hostCity": "philadelphia",
+        "slug": "philadelphia-lincoln-financial-field"
+      },
+      "fdMatchId": 537352,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 0,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 10,
+      "kickoffUtc": "2026-06-14T17:00:00Z",
+      "stage": "group-stage",
+      "group": "E",
+      "homeTeam": {
+        "slug": "germany",
+        "name": "Germany"
+      },
+      "awayTeam": {
+        "slug": "curacao",
+        "name": "Curacao"
+      },
+      "stadium": {
+        "name": "NRG Stadium",
+        "hostCity": "houston",
+        "slug": "houston-nrg-stadium"
+      },
+      "fdMatchId": 537351,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 7,
+        "away": 1,
+        "homeHt": 3,
+        "awayHt": 1
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 11,
+      "kickoffUtc": "2026-06-14T20:00:00Z",
+      "stage": "group-stage",
+      "group": "F",
+      "homeTeam": {
+        "slug": "netherlands",
+        "name": "Netherlands"
+      },
+      "awayTeam": {
+        "slug": "japan",
+        "name": "Japan"
+      },
+      "stadium": {
+        "name": "AT&T Stadium",
+        "hostCity": "dallas",
+        "slug": "dallas-at-t-stadium"
+      },
+      "fdMatchId": 537357,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 2,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 12,
+      "kickoffUtc": "2026-06-15T02:00:00Z",
+      "stage": "group-stage",
+      "group": "F",
+      "homeTeam": {
+        "slug": "sweden",
+        "name": "Sweden"
+      },
+      "awayTeam": {
+        "slug": "tunisia",
+        "name": "Tunisia"
+      },
+      "stadium": {
+        "name": "Estadio BBVA",
+        "hostCity": "monterrey",
+        "slug": "monterrey-estadio-bbva"
+      },
+      "fdMatchId": 537358,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 5,
+        "away": 1,
+        "homeHt": 2,
+        "awayHt": 1
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 13,
+      "kickoffUtc": "2026-06-15T22:00:00Z",
+      "stage": "group-stage",
+      "group": "H",
+      "homeTeam": {
+        "slug": "saudi-arabia",
+        "name": "Saudi Arabia"
+      },
+      "awayTeam": {
+        "slug": "uruguay",
+        "name": "Uruguay"
+      },
+      "stadium": {
+        "name": "Hard Rock Stadium",
+        "hostCity": "miami",
+        "slug": "miami-hard-rock-stadium"
+      },
+      "fdMatchId": 537370,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 1,
+        "homeHt": 1,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 14,
+      "kickoffUtc": "2026-06-15T16:00:00Z",
+      "stage": "group-stage",
+      "group": "H",
+      "homeTeam": {
+        "slug": "spain",
+        "name": "Spain"
+      },
+      "awayTeam": {
+        "slug": "cabo-verde",
+        "name": "Cabo Verde"
+      },
+      "stadium": {
+        "name": "Mercedes-Benz Stadium",
+        "hostCity": "atlanta",
+        "slug": "atlanta-mercedes-benz-stadium"
+      },
+      "fdMatchId": 537369,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 0,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 15,
+      "kickoffUtc": "2026-06-16T01:00:00Z",
+      "stage": "group-stage",
+      "group": "G",
+      "homeTeam": {
+        "slug": "ir-iran",
+        "name": "IR Iran"
+      },
+      "awayTeam": {
+        "slug": "new-zealand",
+        "name": "New Zealand"
+      },
+      "stadium": {
+        "name": "SoFi Stadium",
+        "hostCity": "los-angeles",
+        "slug": "los-angeles-sofi-stadium"
+      },
+      "fdMatchId": 537364,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 2,
+        "homeHt": 1,
+        "awayHt": 1
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 16,
+      "kickoffUtc": "2026-06-15T19:00:00Z",
+      "stage": "group-stage",
+      "group": "G",
+      "homeTeam": {
+        "slug": "belgium",
+        "name": "Belgium"
+      },
+      "awayTeam": {
+        "slug": "egypt",
+        "name": "Egypt"
+      },
+      "stadium": {
+        "name": "Lumen Field",
+        "hostCity": "seattle",
+        "slug": "seattle-lumen-field"
+      },
+      "fdMatchId": 537363,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 1
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 17,
+      "kickoffUtc": "2026-06-16T19:00:00Z",
+      "stage": "group-stage",
+      "group": "I",
+      "homeTeam": {
+        "slug": "france",
+        "name": "France"
+      },
+      "awayTeam": {
+        "slug": "senegal",
+        "name": "Senegal"
+      },
+      "stadium": {
+        "name": "MetLife Stadium",
+        "hostCity": "new-york",
+        "slug": "new-york-metlife-stadium"
+      },
+      "fdMatchId": 537391,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 3,
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 18,
+      "kickoffUtc": "2026-06-16T22:00:00Z",
+      "stage": "group-stage",
+      "group": "I",
+      "homeTeam": {
+        "slug": "iraq",
+        "name": "Iraq"
+      },
+      "awayTeam": {
+        "slug": "norway",
+        "name": "Norway"
+      },
+      "stadium": {
+        "name": "Gillette Stadium",
+        "hostCity": "boston",
+        "slug": "boston-gillette-stadium"
+      },
+      "fdMatchId": 537392,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 4,
+        "homeHt": 1,
+        "awayHt": 2
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 19,
+      "kickoffUtc": "2026-06-17T01:00:00Z",
+      "stage": "group-stage",
+      "group": "J",
+      "homeTeam": {
+        "slug": "argentina",
+        "name": "Argentina"
+      },
+      "awayTeam": {
+        "slug": "algeria",
+        "name": "Algeria"
+      },
+      "stadium": {
+        "name": "Arrowhead Stadium",
+        "hostCity": "kansas-city",
+        "slug": "kansas-city-arrowhead-stadium"
+      },
+      "fdMatchId": 537397,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 3,
+        "away": 0,
+        "homeHt": 1,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 20,
+      "kickoffUtc": "2026-06-17T04:00:00Z",
+      "stage": "group-stage",
+      "group": "J",
+      "homeTeam": {
+        "slug": "austria",
+        "name": "Austria"
+      },
+      "awayTeam": {
+        "slug": "jordan",
+        "name": "Jordan"
+      },
+      "stadium": {
+        "name": "Levi's Stadium",
+        "hostCity": "san-francisco",
+        "slug": "san-francisco-levi-s-stadium"
+      },
+      "fdMatchId": 537398,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 3,
+        "away": 1,
+        "homeHt": 1,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 21,
+      "kickoffUtc": "2026-06-17T23:00:00Z",
+      "stage": "group-stage",
+      "group": "L",
+      "homeTeam": {
+        "slug": "ghana",
+        "name": "Ghana"
+      },
+      "awayTeam": {
+        "slug": "panama",
+        "name": "Panama"
+      },
+      "stadium": {
+        "name": "BMO Field",
+        "hostCity": "toronto",
+        "slug": "toronto-bmo-field"
+      },
+      "fdMatchId": 537410,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 0,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 22,
+      "kickoffUtc": "2026-06-17T20:00:00Z",
+      "stage": "group-stage",
+      "group": "L",
+      "homeTeam": {
+        "slug": "england",
+        "name": "England"
+      },
+      "awayTeam": {
+        "slug": "croatia",
+        "name": "Croatia"
+      },
+      "stadium": {
+        "name": "AT&T Stadium",
+        "hostCity": "dallas",
+        "slug": "dallas-at-t-stadium"
+      },
+      "fdMatchId": 537409,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 4,
+        "away": 2,
+        "homeHt": 2,
+        "awayHt": 2
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 23,
+      "kickoffUtc": "2026-06-17T17:00:00Z",
+      "stage": "group-stage",
+      "group": "K",
+      "homeTeam": {
+        "slug": "portugal",
+        "name": "Portugal"
+      },
+      "awayTeam": {
+        "slug": "congo-dr",
+        "name": "Congo DR"
+      },
+      "stadium": {
+        "name": "NRG Stadium",
+        "hostCity": "houston",
+        "slug": "houston-nrg-stadium"
+      },
+      "fdMatchId": 537403,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 1,
+        "homeHt": 1,
+        "awayHt": 1
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 24,
+      "kickoffUtc": "2026-06-18T02:00:00Z",
+      "stage": "group-stage",
+      "group": "K",
+      "homeTeam": {
+        "slug": "uzbekistan",
+        "name": "Uzbekistan"
+      },
+      "awayTeam": {
+        "slug": "colombia",
+        "name": "Colombia"
+      },
+      "stadium": {
+        "name": "Estadio Azteca",
+        "hostCity": "mexico-city",
+        "slug": "mexico-city-estadio-azteca"
+      },
+      "fdMatchId": 537404,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 3,
+        "homeHt": 0,
+        "awayHt": 1
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 25,
+      "kickoffUtc": "2026-06-18T16:00:00Z",
+      "stage": "group-stage",
+      "group": "A",
+      "homeTeam": {
+        "slug": "czech-republic",
+        "name": "Czechia"
+      },
+      "awayTeam": {
+        "slug": "south-africa",
+        "name": "South Africa"
+      },
+      "stadium": {
+        "name": "Mercedes-Benz Stadium",
+        "hostCity": "atlanta",
+        "slug": "atlanta-mercedes-benz-stadium"
+      },
+      "fdMatchId": 537329,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 1,
+        "homeHt": 1,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 26,
+      "kickoffUtc": "2026-06-18T19:00:00Z",
+      "stage": "group-stage",
+      "group": "B",
+      "homeTeam": {
+        "slug": "switzerland",
+        "name": "Switzerland"
+      },
+      "awayTeam": {
+        "slug": "bosnia-herzegovina",
+        "name": "Bosnia and Herzegovina"
+      },
+      "stadium": {
+        "name": "SoFi Stadium",
+        "hostCity": "los-angeles",
+        "slug": "los-angeles-sofi-stadium"
+      },
+      "fdMatchId": 537335,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 4,
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 27,
+      "kickoffUtc": "2026-06-18T22:00:00Z",
+      "stage": "group-stage",
+      "group": "B",
+      "homeTeam": {
+        "slug": "canada",
+        "name": "Canada"
+      },
+      "awayTeam": {
+        "slug": "qatar",
+        "name": "Qatar"
+      },
+      "stadium": {
+        "name": "BC Place",
+        "hostCity": "vancouver",
+        "slug": "vancouver-bc-place"
+      },
+      "fdMatchId": 537336,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 6,
+        "away": 0,
+        "homeHt": 3,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 28,
+      "kickoffUtc": "2026-06-19T01:00:00Z",
+      "stage": "group-stage",
+      "group": "A",
+      "homeTeam": {
+        "slug": "mexico",
+        "name": "Mexico"
+      },
+      "awayTeam": {
+        "slug": "south-korea",
+        "name": "Korea Republic"
+      },
+      "stadium": {
+        "name": "Estadio Akron",
+        "hostCity": "guadalajara",
+        "slug": "guadalajara-estadio-akron"
+      },
+      "fdMatchId": 537330,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 0,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 29,
+      "kickoffUtc": "2026-06-20T01:00:00Z",
+      "stage": "group-stage",
+      "group": "C",
+      "homeTeam": {
+        "slug": "brazil",
+        "name": "Brazil"
+      },
+      "awayTeam": {
+        "slug": "haiti",
+        "name": "Haiti"
+      },
+      "stadium": {
+        "name": "Lincoln Financial Field",
+        "hostCity": "philadelphia",
+        "slug": "philadelphia-lincoln-financial-field"
+      },
+      "fdMatchId": 537341,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 3,
+        "away": 0,
+        "homeHt": 3,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 30,
+      "kickoffUtc": "2026-06-19T22:00:00Z",
+      "stage": "group-stage",
+      "group": "C",
+      "homeTeam": {
+        "slug": "scotland",
+        "name": "Scotland"
+      },
+      "awayTeam": {
+        "slug": "morocco",
+        "name": "Morocco"
+      },
+      "stadium": {
+        "name": "Gillette Stadium",
+        "hostCity": "boston",
+        "slug": "boston-gillette-stadium"
+      },
+      "fdMatchId": 537342,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 1
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 31,
+      "kickoffUtc": "2026-06-20T03:00:00Z",
+      "stage": "group-stage",
+      "group": "D",
+      "homeTeam": {
+        "slug": "turkiye",
+        "name": "Turkiye"
+      },
+      "awayTeam": {
+        "slug": "paraguay",
+        "name": "Paraguay"
+      },
+      "stadium": {
+        "name": "Levi's Stadium",
+        "hostCity": "san-francisco",
+        "slug": "san-francisco-levi-s-stadium"
+      },
+      "fdMatchId": 537347,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 1
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 32,
+      "kickoffUtc": "2026-06-19T19:00:00Z",
+      "stage": "group-stage",
+      "group": "D",
+      "homeTeam": {
+        "slug": "united-states",
+        "name": "United States"
+      },
+      "awayTeam": {
+        "slug": "australia",
+        "name": "Australia"
+      },
+      "stadium": {
+        "name": "Lumen Field",
+        "hostCity": "seattle",
+        "slug": "seattle-lumen-field"
+      },
+      "fdMatchId": 537348,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 0,
+        "homeHt": 2,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 33,
+      "kickoffUtc": "2026-06-20T20:00:00Z",
+      "stage": "group-stage",
+      "group": "E",
+      "homeTeam": {
+        "slug": "germany",
+        "name": "Germany"
+      },
+      "awayTeam": {
+        "slug": "ivory-coast",
+        "name": "Cote d'Ivoire"
+      },
+      "stadium": {
+        "name": "BMO Field",
+        "hostCity": "toronto",
+        "slug": "toronto-bmo-field"
+      },
+      "fdMatchId": 537353,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 1
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 34,
+      "kickoffUtc": "2026-06-21T00:00:00Z",
+      "stage": "group-stage",
+      "group": "E",
+      "homeTeam": {
+        "slug": "ecuador",
+        "name": "Ecuador"
+      },
+      "awayTeam": {
+        "slug": "curacao",
+        "name": "Curacao"
+      },
+      "stadium": {
+        "name": "Arrowhead Stadium",
+        "hostCity": "kansas-city",
+        "slug": "kansas-city-arrowhead-stadium"
+      },
+      "fdMatchId": 537354,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 0,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 35,
+      "kickoffUtc": "2026-06-20T17:00:00Z",
+      "stage": "group-stage",
+      "group": "F",
+      "homeTeam": {
+        "slug": "netherlands",
+        "name": "Netherlands"
+      },
+      "awayTeam": {
+        "slug": "sweden",
+        "name": "Sweden"
+      },
+      "stadium": {
+        "name": "NRG Stadium",
+        "hostCity": "houston",
+        "slug": "houston-nrg-stadium"
+      },
+      "fdMatchId": 537359,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 5,
+        "away": 1,
+        "homeHt": 2,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 36,
+      "kickoffUtc": "2026-06-21T04:00:00Z",
+      "stage": "group-stage",
+      "group": "F",
+      "homeTeam": {
+        "slug": "tunisia",
+        "name": "Tunisia"
+      },
+      "awayTeam": {
+        "slug": "japan",
+        "name": "Japan"
+      },
+      "stadium": {
+        "name": "Estadio BBVA",
+        "hostCity": "monterrey",
+        "slug": "monterrey-estadio-bbva"
+      },
+      "fdMatchId": 537360,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 4,
+        "homeHt": 0,
+        "awayHt": 2
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 37,
+      "kickoffUtc": "2026-06-21T22:00:00Z",
+      "stage": "group-stage",
+      "group": "H",
+      "homeTeam": {
+        "slug": "uruguay",
+        "name": "Uruguay"
+      },
+      "awayTeam": {
+        "slug": "cabo-verde",
+        "name": "Cabo Verde"
+      },
+      "stadium": {
+        "name": "Hard Rock Stadium",
+        "hostCity": "miami",
+        "slug": "miami-hard-rock-stadium"
+      },
+      "fdMatchId": 537372,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 2,
+        "homeHt": 2,
+        "awayHt": 1
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 38,
+      "kickoffUtc": "2026-06-21T16:00:00Z",
+      "stage": "group-stage",
+      "group": "H",
+      "homeTeam": {
+        "slug": "spain",
+        "name": "Spain"
+      },
+      "awayTeam": {
+        "slug": "saudi-arabia",
+        "name": "Saudi Arabia"
+      },
+      "stadium": {
+        "name": "Mercedes-Benz Stadium",
+        "hostCity": "atlanta",
+        "slug": "atlanta-mercedes-benz-stadium"
+      },
+      "fdMatchId": 537371,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 4,
+        "away": 0,
+        "homeHt": 3,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 39,
+      "kickoffUtc": "2026-06-21T19:00:00Z",
+      "stage": "group-stage",
+      "group": "G",
+      "homeTeam": {
+        "slug": "belgium",
+        "name": "Belgium"
+      },
+      "awayTeam": {
+        "slug": "ir-iran",
+        "name": "IR Iran"
+      },
+      "stadium": {
+        "name": "SoFi Stadium",
+        "hostCity": "los-angeles",
+        "slug": "los-angeles-sofi-stadium"
+      },
+      "fdMatchId": 537365,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 0,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 40,
+      "kickoffUtc": "2026-06-22T01:00:00Z",
+      "stage": "group-stage",
+      "group": "G",
+      "homeTeam": {
+        "slug": "new-zealand",
+        "name": "New Zealand"
+      },
+      "awayTeam": {
+        "slug": "egypt",
+        "name": "Egypt"
+      },
+      "stadium": {
+        "name": "BC Place",
+        "hostCity": "vancouver",
+        "slug": "vancouver-bc-place"
+      },
+      "fdMatchId": 537366,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 3,
+        "homeHt": 1,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 41,
+      "kickoffUtc": "2026-06-23T00:00:00Z",
+      "stage": "group-stage",
+      "group": "I",
+      "homeTeam": {
+        "slug": "norway",
+        "name": "Norway"
+      },
+      "awayTeam": {
+        "slug": "senegal",
+        "name": "Senegal"
+      },
+      "stadium": {
+        "name": "MetLife Stadium",
+        "hostCity": "new-york",
+        "slug": "new-york-metlife-stadium"
+      },
+      "fdMatchId": 537394,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 3,
+        "away": 2,
+        "homeHt": 1,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 42,
+      "kickoffUtc": "2026-06-22T21:00:00Z",
+      "stage": "group-stage",
+      "group": "I",
+      "homeTeam": {
+        "slug": "france",
+        "name": "France"
+      },
+      "awayTeam": {
+        "slug": "iraq",
+        "name": "Iraq"
+      },
+      "stadium": {
+        "name": "Lincoln Financial Field",
+        "hostCity": "philadelphia",
+        "slug": "philadelphia-lincoln-financial-field"
+      },
+      "fdMatchId": 537393,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 3,
+        "away": 0,
+        "homeHt": 1,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 43,
+      "kickoffUtc": "2026-06-22T17:00:00Z",
+      "stage": "group-stage",
+      "group": "J",
+      "homeTeam": {
+        "slug": "argentina",
+        "name": "Argentina"
+      },
+      "awayTeam": {
+        "slug": "austria",
+        "name": "Austria"
+      },
+      "stadium": {
+        "name": "AT&T Stadium",
+        "hostCity": "dallas",
+        "slug": "dallas-at-t-stadium"
+      },
+      "fdMatchId": 537399,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 0,
+        "homeHt": 1,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 44,
+      "kickoffUtc": "2026-06-23T03:00:00Z",
+      "stage": "group-stage",
+      "group": "J",
+      "homeTeam": {
+        "slug": "jordan",
+        "name": "Jordan"
+      },
+      "awayTeam": {
+        "slug": "algeria",
+        "name": "Algeria"
+      },
+      "stadium": {
+        "name": "Levi's Stadium",
+        "hostCity": "san-francisco",
+        "slug": "san-francisco-levi-s-stadium"
+      },
+      "fdMatchId": 537400,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 2,
+        "homeHt": 1,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 45,
+      "kickoffUtc": "2026-06-23T20:00:00Z",
+      "stage": "group-stage",
+      "group": "L",
+      "homeTeam": {
+        "slug": "england",
+        "name": "England"
+      },
+      "awayTeam": {
+        "slug": "ghana",
+        "name": "Ghana"
+      },
+      "stadium": {
+        "name": "Gillette Stadium",
+        "hostCity": "boston",
+        "slug": "boston-gillette-stadium"
+      },
+      "fdMatchId": 537411,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 0,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 46,
+      "kickoffUtc": "2026-06-23T23:00:00Z",
+      "stage": "group-stage",
+      "group": "L",
+      "homeTeam": {
+        "slug": "panama",
+        "name": "Panama"
+      },
+      "awayTeam": {
+        "slug": "croatia",
+        "name": "Croatia"
+      },
+      "stadium": {
+        "name": "BMO Field",
+        "hostCity": "toronto",
+        "slug": "toronto-bmo-field"
+      },
+      "fdMatchId": 537412,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 47,
+      "kickoffUtc": "2026-06-23T17:00:00Z",
+      "stage": "group-stage",
+      "group": "K",
+      "homeTeam": {
+        "slug": "portugal",
+        "name": "Portugal"
+      },
+      "awayTeam": {
+        "slug": "uzbekistan",
+        "name": "Uzbekistan"
+      },
+      "stadium": {
+        "name": "NRG Stadium",
+        "hostCity": "houston",
+        "slug": "houston-nrg-stadium"
+      },
+      "fdMatchId": 537405,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 5,
+        "away": 0,
+        "homeHt": 3,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 48,
+      "kickoffUtc": "2026-06-24T02:00:00Z",
+      "stage": "group-stage",
+      "group": "K",
+      "homeTeam": {
+        "slug": "colombia",
+        "name": "Colombia"
+      },
+      "awayTeam": {
+        "slug": "congo-dr",
+        "name": "Congo DR"
+      },
+      "stadium": {
+        "name": "Estadio Akron",
+        "hostCity": "guadalajara",
+        "slug": "guadalajara-estadio-akron"
+      },
+      "fdMatchId": 537406,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 0,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 49,
+      "kickoffUtc": "2026-06-24T22:00:00Z",
+      "stage": "group-stage",
+      "group": "C",
+      "homeTeam": {
+        "slug": "scotland",
+        "name": "Scotland"
+      },
+      "awayTeam": {
+        "slug": "brazil",
+        "name": "Brazil"
+      },
+      "stadium": {
+        "name": "Hard Rock Stadium",
+        "hostCity": "miami",
+        "slug": "miami-hard-rock-stadium"
+      },
+      "fdMatchId": 537343,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 3,
+        "homeHt": 0,
+        "awayHt": 2
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 50,
+      "kickoffUtc": "2026-06-24T22:00:00Z",
+      "stage": "group-stage",
+      "group": "C",
+      "homeTeam": {
+        "slug": "morocco",
+        "name": "Morocco"
+      },
+      "awayTeam": {
+        "slug": "haiti",
+        "name": "Haiti"
+      },
+      "stadium": {
+        "name": "Mercedes-Benz Stadium",
+        "hostCity": "atlanta",
+        "slug": "atlanta-mercedes-benz-stadium"
+      },
+      "fdMatchId": 537344,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 4,
+        "away": 2,
+        "homeHt": 2,
+        "awayHt": 2
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 51,
+      "kickoffUtc": "2026-06-24T19:00:00Z",
+      "stage": "group-stage",
+      "group": "B",
+      "homeTeam": {
+        "slug": "switzerland",
+        "name": "Switzerland"
+      },
+      "awayTeam": {
+        "slug": "canada",
+        "name": "Canada"
+      },
+      "stadium": {
+        "name": "BC Place",
+        "hostCity": "vancouver",
+        "slug": "vancouver-bc-place"
+      },
+      "fdMatchId": 537337,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 52,
+      "kickoffUtc": "2026-06-24T19:00:00Z",
+      "stage": "group-stage",
+      "group": "B",
+      "homeTeam": {
+        "slug": "bosnia-herzegovina",
+        "name": "Bosnia and Herzegovina"
+      },
+      "awayTeam": {
+        "slug": "qatar",
+        "name": "Qatar"
+      },
+      "stadium": {
+        "name": "Lumen Field",
+        "hostCity": "seattle",
+        "slug": "seattle-lumen-field"
+      },
+      "fdMatchId": 537338,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 3,
+        "away": 1,
+        "homeHt": 2,
+        "awayHt": 1
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 53,
+      "kickoffUtc": "2026-06-25T01:00:00Z",
+      "stage": "group-stage",
+      "group": "A",
+      "homeTeam": {
+        "slug": "czech-republic",
+        "name": "Czechia"
+      },
+      "awayTeam": {
+        "slug": "mexico",
+        "name": "Mexico"
+      },
+      "stadium": {
+        "name": "Estadio Azteca",
+        "hostCity": "mexico-city",
+        "slug": "mexico-city-estadio-azteca"
+      },
+      "fdMatchId": 537331,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 3,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 54,
+      "kickoffUtc": "2026-06-25T01:00:00Z",
+      "stage": "group-stage",
+      "group": "A",
+      "homeTeam": {
+        "slug": "south-africa",
+        "name": "South Africa"
+      },
+      "awayTeam": {
+        "slug": "south-korea",
+        "name": "Korea Republic"
+      },
+      "stadium": {
+        "name": "Estadio BBVA",
+        "hostCity": "monterrey",
+        "slug": "monterrey-estadio-bbva"
+      },
+      "fdMatchId": 537332,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 0,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 55,
+      "kickoffUtc": "2026-06-25T20:00:00Z",
+      "stage": "group-stage",
+      "group": "E",
+      "homeTeam": {
+        "slug": "curacao",
+        "name": "Curacao"
+      },
+      "awayTeam": {
+        "slug": "ivory-coast",
+        "name": "Cote d'Ivoire"
+      },
+      "stadium": {
+        "name": "Lincoln Financial Field",
+        "hostCity": "philadelphia",
+        "slug": "philadelphia-lincoln-financial-field"
+      },
+      "fdMatchId": 537356,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 2,
+        "homeHt": 0,
+        "awayHt": 1
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 56,
+      "kickoffUtc": "2026-06-25T20:00:00Z",
+      "stage": "group-stage",
+      "group": "E",
+      "homeTeam": {
+        "slug": "ecuador",
+        "name": "Ecuador"
+      },
+      "awayTeam": {
+        "slug": "germany",
+        "name": "Germany"
+      },
+      "stadium": {
+        "name": "MetLife Stadium",
+        "hostCity": "new-york",
+        "slug": "new-york-metlife-stadium"
+      },
+      "fdMatchId": 537355,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 1,
+        "homeHt": 1,
+        "awayHt": 1
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 57,
+      "kickoffUtc": "2026-06-25T23:00:00Z",
+      "stage": "group-stage",
+      "group": "F",
+      "homeTeam": {
+        "slug": "japan",
+        "name": "Japan"
+      },
+      "awayTeam": {
+        "slug": "sweden",
+        "name": "Sweden"
+      },
+      "stadium": {
+        "name": "AT&T Stadium",
+        "hostCity": "dallas",
+        "slug": "dallas-at-t-stadium"
+      },
+      "fdMatchId": 537362,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 58,
+      "kickoffUtc": "2026-06-25T23:00:00Z",
+      "stage": "group-stage",
+      "group": "F",
+      "homeTeam": {
+        "slug": "tunisia",
+        "name": "Tunisia"
+      },
+      "awayTeam": {
+        "slug": "netherlands",
+        "name": "Netherlands"
+      },
+      "stadium": {
+        "name": "Arrowhead Stadium",
+        "hostCity": "kansas-city",
+        "slug": "kansas-city-arrowhead-stadium"
+      },
+      "fdMatchId": 537361,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 3,
+        "homeHt": 0,
+        "awayHt": 2
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 59,
+      "kickoffUtc": "2026-06-26T02:00:00Z",
+      "stage": "group-stage",
+      "group": "D",
+      "homeTeam": {
+        "slug": "turkiye",
+        "name": "Turkiye"
+      },
+      "awayTeam": {
+        "slug": "united-states",
+        "name": "United States"
+      },
+      "stadium": {
+        "name": "SoFi Stadium",
+        "hostCity": "los-angeles",
+        "slug": "los-angeles-sofi-stadium"
+      },
+      "fdMatchId": 537349,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 3,
+        "away": 2,
+        "homeHt": 2,
+        "awayHt": 1
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 60,
+      "kickoffUtc": "2026-06-26T02:00:00Z",
+      "stage": "group-stage",
+      "group": "D",
+      "homeTeam": {
+        "slug": "paraguay",
+        "name": "Paraguay"
+      },
+      "awayTeam": {
+        "slug": "australia",
+        "name": "Australia"
+      },
+      "stadium": {
+        "name": "Levi's Stadium",
+        "hostCity": "san-francisco",
+        "slug": "san-francisco-levi-s-stadium"
+      },
+      "fdMatchId": 537350,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 0,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 61,
+      "kickoffUtc": "2026-06-26T19:00:00Z",
+      "stage": "group-stage",
+      "group": "I",
+      "homeTeam": {
+        "slug": "norway",
+        "name": "Norway"
+      },
+      "awayTeam": {
+        "slug": "france",
+        "name": "France"
+      },
+      "stadium": {
+        "name": "Gillette Stadium",
+        "hostCity": "boston",
+        "slug": "boston-gillette-stadium"
+      },
+      "fdMatchId": 537395,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 4,
+        "homeHt": 1,
+        "awayHt": 3
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 62,
+      "kickoffUtc": "2026-06-26T19:00:00Z",
+      "stage": "group-stage",
+      "group": "I",
+      "homeTeam": {
+        "slug": "senegal",
+        "name": "Senegal"
+      },
+      "awayTeam": {
+        "slug": "iraq",
+        "name": "Iraq"
+      },
+      "stadium": {
+        "name": "BMO Field",
+        "hostCity": "toronto",
+        "slug": "toronto-bmo-field"
+      },
+      "fdMatchId": 537396,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 5,
+        "away": 0,
+        "homeHt": 1,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 63,
+      "kickoffUtc": "2026-06-27T03:00:00Z",
+      "stage": "group-stage",
+      "group": "G",
+      "homeTeam": {
+        "slug": "egypt",
+        "name": "Egypt"
+      },
+      "awayTeam": {
+        "slug": "ir-iran",
+        "name": "IR Iran"
+      },
+      "stadium": {
+        "name": "Lumen Field",
+        "hostCity": "seattle",
+        "slug": "seattle-lumen-field"
+      },
+      "fdMatchId": 537368,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 1,
+        "homeHt": 1,
+        "awayHt": 1
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 64,
+      "kickoffUtc": "2026-06-27T03:00:00Z",
+      "stage": "group-stage",
+      "group": "G",
+      "homeTeam": {
+        "slug": "new-zealand",
+        "name": "New Zealand"
+      },
+      "awayTeam": {
+        "slug": "belgium",
+        "name": "Belgium"
+      },
+      "stadium": {
+        "name": "BC Place",
+        "hostCity": "vancouver",
+        "slug": "vancouver-bc-place"
+      },
+      "fdMatchId": 537367,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 5,
+        "homeHt": 0,
+        "awayHt": 1
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 65,
+      "kickoffUtc": "2026-06-27T00:00:00Z",
+      "stage": "group-stage",
+      "group": "H",
+      "homeTeam": {
+        "slug": "cabo-verde",
+        "name": "Cabo Verde"
+      },
+      "awayTeam": {
+        "slug": "saudi-arabia",
+        "name": "Saudi Arabia"
+      },
+      "stadium": {
+        "name": "NRG Stadium",
+        "hostCity": "houston",
+        "slug": "houston-nrg-stadium"
+      },
+      "fdMatchId": 537374,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 0,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 66,
+      "kickoffUtc": "2026-06-27T00:00:00Z",
+      "stage": "group-stage",
+      "group": "H",
+      "homeTeam": {
+        "slug": "uruguay",
+        "name": "Uruguay"
+      },
+      "awayTeam": {
+        "slug": "spain",
+        "name": "Spain"
+      },
+      "stadium": {
+        "name": "Estadio Akron",
+        "hostCity": "guadalajara",
+        "slug": "guadalajara-estadio-akron"
+      },
+      "fdMatchId": 537373,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 1
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 67,
+      "kickoffUtc": "2026-06-27T21:00:00Z",
+      "stage": "group-stage",
+      "group": "L",
+      "homeTeam": {
+        "slug": "panama",
+        "name": "Panama"
+      },
+      "awayTeam": {
+        "slug": "england",
+        "name": "England"
+      },
+      "stadium": {
+        "name": "MetLife Stadium",
+        "hostCity": "new-york",
+        "slug": "new-york-metlife-stadium"
+      },
+      "fdMatchId": 537413,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 2,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 68,
+      "kickoffUtc": "2026-06-27T21:00:00Z",
+      "stage": "group-stage",
+      "group": "L",
+      "homeTeam": {
+        "slug": "croatia",
+        "name": "Croatia"
+      },
+      "awayTeam": {
+        "slug": "ghana",
+        "name": "Ghana"
+      },
+      "stadium": {
+        "name": "Lincoln Financial Field",
+        "hostCity": "philadelphia",
+        "slug": "philadelphia-lincoln-financial-field"
+      },
+      "fdMatchId": 537414,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 1,
+        "homeHt": 1,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 69,
+      "kickoffUtc": "2026-06-28T02:00:00Z",
+      "stage": "group-stage",
+      "group": "J",
+      "homeTeam": {
+        "slug": "algeria",
+        "name": "Algeria"
+      },
+      "awayTeam": {
+        "slug": "austria",
+        "name": "Austria"
+      },
+      "stadium": {
+        "name": "Arrowhead Stadium",
+        "hostCity": "kansas-city",
+        "slug": "kansas-city-arrowhead-stadium"
+      },
+      "fdMatchId": 537402,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 3,
+        "away": 3,
+        "homeHt": 1,
+        "awayHt": 1
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 70,
+      "kickoffUtc": "2026-06-28T02:00:00Z",
+      "stage": "group-stage",
+      "group": "J",
+      "homeTeam": {
+        "slug": "jordan",
+        "name": "Jordan"
+      },
+      "awayTeam": {
+        "slug": "argentina",
+        "name": "Argentina"
+      },
+      "stadium": {
+        "name": "AT&T Stadium",
+        "hostCity": "dallas",
+        "slug": "dallas-at-t-stadium"
+      },
+      "fdMatchId": 537401,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 3,
+        "homeHt": 0,
+        "awayHt": 2
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 71,
+      "kickoffUtc": "2026-06-27T23:30:00Z",
+      "stage": "group-stage",
+      "group": "K",
+      "homeTeam": {
+        "slug": "colombia",
+        "name": "Colombia"
+      },
+      "awayTeam": {
+        "slug": "portugal",
+        "name": "Portugal"
+      },
+      "stadium": {
+        "name": "Hard Rock Stadium",
+        "hostCity": "miami",
+        "slug": "miami-hard-rock-stadium"
+      },
+      "fdMatchId": 537407,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 0,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 72,
+      "kickoffUtc": "2026-06-27T23:30:00Z",
+      "stage": "group-stage",
+      "group": "K",
+      "homeTeam": {
+        "slug": "congo-dr",
+        "name": "Congo DR"
+      },
+      "awayTeam": {
+        "slug": "uzbekistan",
+        "name": "Uzbekistan"
+      },
+      "stadium": {
+        "name": "Mercedes-Benz Stadium",
+        "hostCity": "atlanta",
+        "slug": "atlanta-mercedes-benz-stadium"
+      },
+      "fdMatchId": 537408,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 3,
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 1
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 73,
+      "kickoffUtc": "2026-06-28T19:00:00Z",
+      "stage": "round-of-32",
+      "group": null,
+      "homeTeam": {
+        "slug": "group-a-runners-up",
+        "name": "South Africa"
+      },
+      "awayTeam": {
+        "slug": "group-b-runners-up",
+        "name": "Canada"
+      },
+      "stadium": {
+        "name": "SoFi Stadium",
+        "hostCity": "los-angeles",
+        "slug": "los-angeles-sofi-stadium"
+      },
+      "fdMatchId": 537417,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 74,
+      "kickoffUtc": "2026-06-29T20:30:00Z",
+      "stage": "round-of-32",
+      "group": null,
+      "homeTeam": {
+        "slug": "group-e-winners",
+        "name": "Germany"
+      },
+      "awayTeam": {
+        "slug": "group-a-b-c-d-f-third-place",
+        "name": "Paraguay"
+      },
+      "stadium": {
+        "name": "Gillette Stadium",
+        "hostCity": "boston",
+        "slug": "boston-gillette-stadium"
+      },
+      "fdMatchId": 537415,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "isLive": false,
+      "isFinished": false,
+      "isScheduled": true
+    },
+    {
+      "matchNumber": 75,
+      "kickoffUtc": "2026-06-30T01:00:00Z",
+      "stage": "round-of-32",
+      "group": null,
+      "homeTeam": {
+        "slug": "group-f-winners",
+        "name": "Netherlands"
+      },
+      "awayTeam": {
+        "slug": "group-c-runners-up",
+        "name": "Morocco"
+      },
+      "stadium": {
+        "name": "Estadio BBVA",
+        "hostCity": "monterrey",
+        "slug": "monterrey-estadio-bbva"
+      },
+      "fdMatchId": 537418,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "isLive": false,
+      "isFinished": false,
+      "isScheduled": true
+    },
+    {
+      "matchNumber": 76,
+      "kickoffUtc": "2026-06-29T17:00:00Z",
+      "stage": "round-of-32",
+      "group": null,
+      "homeTeam": {
+        "slug": "group-c-winners",
+        "name": "Brazil"
+      },
+      "awayTeam": {
+        "slug": "group-f-runners-up",
+        "name": "Japan"
+      },
+      "stadium": {
+        "name": "NRG Stadium",
+        "hostCity": "houston",
+        "slug": "houston-nrg-stadium"
+      },
+      "fdMatchId": 537423,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 1
+      },
+      "isLive": false,
+      "isFinished": true,
+      "isScheduled": false
+    },
+    {
+      "matchNumber": 77,
+      "kickoffUtc": "2026-06-30T21:00:00Z",
+      "stage": "round-of-32",
+      "group": null,
+      "homeTeam": {
+        "slug": "group-i-winners",
+        "name": "France"
+      },
+      "awayTeam": {
+        "slug": "group-c-d-f-g-h-third-place",
+        "name": "Sweden"
+      },
+      "stadium": {
+        "name": "MetLife Stadium",
+        "hostCity": "new-york",
+        "slug": "new-york-metlife-stadium"
+      },
+      "fdMatchId": 537416,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "isLive": false,
+      "isFinished": false,
+      "isScheduled": true
+    },
+    {
+      "matchNumber": 78,
+      "kickoffUtc": "2026-06-30T17:00:00Z",
+      "stage": "round-of-32",
+      "group": null,
+      "homeTeam": {
+        "slug": "group-e-runners-up",
+        "name": "Ivory Coast"
+      },
+      "awayTeam": {
+        "slug": "group-i-runners-up",
+        "name": "Norway"
+      },
+      "stadium": {
+        "name": "AT&T Stadium",
+        "hostCity": "dallas",
+        "slug": "dallas-at-t-stadium"
+      },
+      "fdMatchId": 537424,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "isLive": false,
+      "isFinished": false,
+      "isScheduled": true
+    },
+    {
+      "matchNumber": 79,
+      "kickoffUtc": "2026-07-01T01:00:00Z",
+      "stage": "round-of-32",
+      "group": null,
+      "homeTeam": {
+        "slug": "group-a-winners",
+        "name": "Mexico"
+      },
+      "awayTeam": {
+        "slug": "group-c-e-f-h-i-third-place",
+        "name": "Ecuador"
+      },
+      "stadium": {
+        "name": "Estadio Azteca",
+        "hostCity": "mexico-city",
+        "slug": "mexico-city-estadio-azteca"
+      },
+      "fdMatchId": 537425,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "isLive": false,
+      "isFinished": false,
+      "isScheduled": true
+    },
+    {
+      "matchNumber": 80,
+      "kickoffUtc": "2026-07-01T16:00:00Z",
+      "stage": "round-of-32",
+      "group": null,
+      "homeTeam": {
+        "slug": "group-l-winners",
+        "name": "England"
+      },
+      "awayTeam": {
+        "slug": "group-e-h-i-j-k-third-place",
+        "name": "Congo DR"
+      },
+      "stadium": {
+        "name": "Mercedes-Benz Stadium",
+        "hostCity": "atlanta",
+        "slug": "atlanta-mercedes-benz-stadium"
+      },
+      "fdMatchId": 537426,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "isLive": false,
+      "isFinished": false,
+      "isScheduled": true
+    },
+    {
+      "matchNumber": 81,
+      "kickoffUtc": "2026-07-02T00:00:00Z",
+      "stage": "round-of-32",
+      "group": null,
+      "homeTeam": {
+        "slug": "group-d-winners",
+        "name": "United States"
+      },
+      "awayTeam": {
+        "slug": "group-b-e-f-i-j-third-place",
+        "name": "Bosnia-Herzegovina"
+      },
+      "stadium": {
+        "name": "Levi's Stadium",
+        "hostCity": "san-francisco",
+        "slug": "san-francisco-levi-s-stadium"
+      },
+      "fdMatchId": 537421,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "isLive": false,
+      "isFinished": false,
+      "isScheduled": true
+    },
+    {
+      "matchNumber": 82,
+      "kickoffUtc": "2026-07-01T20:00:00Z",
+      "stage": "round-of-32",
+      "group": null,
+      "homeTeam": {
+        "slug": "group-g-winners",
+        "name": "Belgium"
+      },
+      "awayTeam": {
+        "slug": "group-a-e-h-i-j-third-place",
+        "name": "Senegal"
+      },
+      "stadium": {
+        "name": "Lumen Field",
+        "hostCity": "seattle",
+        "slug": "seattle-lumen-field"
+      },
+      "fdMatchId": 537422,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "isLive": false,
+      "isFinished": false,
+      "isScheduled": true
+    },
+    {
+      "matchNumber": 83,
+      "kickoffUtc": "2026-07-02T23:00:00Z",
+      "stage": "round-of-32",
+      "group": null,
+      "homeTeam": {
+        "slug": "group-k-runners-up",
+        "name": "Portugal"
+      },
+      "awayTeam": {
+        "slug": "group-l-runners-up",
+        "name": "Croatia"
+      },
+      "stadium": {
+        "name": "BMO Field",
+        "hostCity": "toronto",
+        "slug": "toronto-bmo-field"
+      },
+      "fdMatchId": 537419,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "isLive": false,
+      "isFinished": false,
+      "isScheduled": true
+    },
+    {
+      "matchNumber": 84,
+      "kickoffUtc": "2026-07-02T19:00:00Z",
+      "stage": "round-of-32",
+      "group": null,
+      "homeTeam": {
+        "slug": "group-h-winners",
+        "name": "Spain"
+      },
+      "awayTeam": {
+        "slug": "group-j-runners-up",
+        "name": "Austria"
+      },
+      "stadium": {
+        "name": "SoFi Stadium",
+        "hostCity": "los-angeles",
+        "slug": "los-angeles-sofi-stadium"
+      },
+      "fdMatchId": 537420,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "isLive": false,
+      "isFinished": false,
+      "isScheduled": true
+    },
+    {
+      "matchNumber": 85,
+      "kickoffUtc": "2026-07-03T03:00:00Z",
+      "stage": "round-of-32",
+      "group": null,
+      "homeTeam": {
+        "slug": "group-b-winners",
+        "name": "Switzerland"
+      },
+      "awayTeam": {
+        "slug": "group-e-f-g-i-j-third-place",
+        "name": "Algeria"
+      },
+      "stadium": {
+        "name": "BC Place",
+        "hostCity": "vancouver",
+        "slug": "vancouver-bc-place"
+      },
+      "fdMatchId": 537429,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "isLive": false,
+      "isFinished": false,
+      "isScheduled": true
+    },
+    {
+      "matchNumber": 86,
+      "kickoffUtc": "2026-07-03T22:00:00Z",
+      "stage": "round-of-32",
+      "group": null,
+      "homeTeam": {
+        "slug": "group-j-winners",
+        "name": "Argentina"
+      },
+      "awayTeam": {
+        "slug": "group-h-runners-up",
+        "name": "Cape Verde Islands"
+      },
+      "stadium": {
+        "name": "Hard Rock Stadium",
+        "hostCity": "miami",
+        "slug": "miami-hard-rock-stadium"
+      },
+      "fdMatchId": 537427,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "isLive": false,
+      "isFinished": false,
+      "isScheduled": true
+    },
+    {
+      "matchNumber": 87,
+      "kickoffUtc": "2026-07-04T01:30:00Z",
+      "stage": "round-of-32",
+      "group": null,
+      "homeTeam": {
+        "slug": "group-k-winners",
+        "name": "Colombia"
+      },
+      "awayTeam": {
+        "slug": "group-d-e-i-j-l-third-place",
+        "name": "Ghana"
+      },
+      "stadium": {
+        "name": "Arrowhead Stadium",
+        "hostCity": "kansas-city",
+        "slug": "kansas-city-arrowhead-stadium"
+      },
+      "fdMatchId": 537430,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "isLive": false,
+      "isFinished": false,
+      "isScheduled": true
+    },
+    {
+      "matchNumber": 88,
+      "kickoffUtc": "2026-07-03T18:00:00Z",
+      "stage": "round-of-32",
+      "group": null,
+      "homeTeam": {
+        "slug": "group-d-runners-up",
+        "name": "Australia"
+      },
+      "awayTeam": {
+        "slug": "group-g-runners-up",
+        "name": "Egypt"
+      },
+      "stadium": {
+        "name": "AT&T Stadium",
+        "hostCity": "dallas",
+        "slug": "dallas-at-t-stadium"
+      },
+      "fdMatchId": 537428,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "isLive": false,
+      "isFinished": false,
+      "isScheduled": true
+    },
+    {
+      "matchNumber": 89,
+      "kickoffUtc": "2026-07-04T21:00:00Z",
+      "stage": "round-of-16",
+      "group": null,
+      "homeTeam": {
+        "slug": "winner-match-74",
+        "name": "Winner Match 74"
+      },
+      "awayTeam": {
+        "slug": "winner-match-77",
+        "name": "Winner Match 77"
+      },
+      "stadium": {
+        "name": "Lincoln Financial Field",
+        "hostCity": "philadelphia",
+        "slug": "philadelphia-lincoln-financial-field"
+      },
+      "fdMatchId": 537375,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "isLive": false,
+      "isFinished": false,
+      "isScheduled": true
+    },
+    {
+      "matchNumber": 90,
+      "kickoffUtc": "2026-07-04T17:00:00Z",
+      "stage": "round-of-16",
+      "group": null,
+      "homeTeam": {
+        "slug": "winner-match-73",
+        "name": "Canada"
+      },
+      "awayTeam": {
+        "slug": "winner-match-75",
+        "name": "Winner Match 75"
+      },
+      "stadium": {
+        "name": "NRG Stadium",
+        "hostCity": "houston",
+        "slug": "houston-nrg-stadium"
+      },
+      "fdMatchId": 537376,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "isLive": false,
+      "isFinished": false,
+      "isScheduled": true
+    },
+    {
+      "matchNumber": 91,
+      "kickoffUtc": "2026-07-05T20:00:00Z",
+      "stage": "round-of-16",
+      "group": null,
+      "homeTeam": {
+        "slug": "winner-match-76",
+        "name": "Winner Match 76"
+      },
+      "awayTeam": {
+        "slug": "winner-match-78",
+        "name": "Winner Match 78"
+      },
+      "stadium": {
+        "name": "MetLife Stadium",
+        "hostCity": "new-york",
+        "slug": "new-york-metlife-stadium"
+      },
+      "fdMatchId": 537377,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "isLive": false,
+      "isFinished": false,
+      "isScheduled": true
+    },
+    {
+      "matchNumber": 92,
+      "kickoffUtc": "2026-07-06T00:00:00Z",
+      "stage": "round-of-16",
+      "group": null,
+      "homeTeam": {
+        "slug": "winner-match-79",
+        "name": "Winner Match 79"
+      },
+      "awayTeam": {
+        "slug": "winner-match-80",
+        "name": "Winner Match 80"
+      },
+      "stadium": {
+        "name": "Estadio Azteca",
+        "hostCity": "mexico-city",
+        "slug": "mexico-city-estadio-azteca"
+      },
+      "fdMatchId": 537378,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "isLive": false,
+      "isFinished": false,
+      "isScheduled": true
+    },
+    {
+      "matchNumber": 93,
+      "kickoffUtc": "2026-07-06T19:00:00Z",
+      "stage": "round-of-16",
+      "group": null,
+      "homeTeam": {
+        "slug": "winner-match-83",
+        "name": "Winner Match 83"
+      },
+      "awayTeam": {
+        "slug": "winner-match-84",
+        "name": "Winner Match 84"
+      },
+      "stadium": {
+        "name": "AT&T Stadium",
+        "hostCity": "dallas",
+        "slug": "dallas-at-t-stadium"
+      },
+      "fdMatchId": 537379,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "isLive": false,
+      "isFinished": false,
+      "isScheduled": true
+    },
+    {
+      "matchNumber": 94,
+      "kickoffUtc": "2026-07-07T00:00:00Z",
+      "stage": "round-of-16",
+      "group": null,
+      "homeTeam": {
+        "slug": "winner-match-81",
+        "name": "Winner Match 81"
+      },
+      "awayTeam": {
+        "slug": "winner-match-82",
+        "name": "Winner Match 82"
+      },
+      "stadium": {
+        "name": "Lumen Field",
+        "hostCity": "seattle",
+        "slug": "seattle-lumen-field"
+      },
+      "fdMatchId": 537380,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "isLive": false,
+      "isFinished": false,
+      "isScheduled": true
+    },
+    {
+      "matchNumber": 95,
+      "kickoffUtc": "2026-07-07T16:00:00Z",
+      "stage": "round-of-16",
+      "group": null,
+      "homeTeam": {
+        "slug": "winner-match-86",
+        "name": "Winner Match 86"
+      },
+      "awayTeam": {
+        "slug": "winner-match-88",
+        "name": "Winner Match 88"
+      },
+      "stadium": {
+        "name": "Mercedes-Benz Stadium",
+        "hostCity": "atlanta",
+        "slug": "atlanta-mercedes-benz-stadium"
+      },
+      "fdMatchId": 537381,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "isLive": false,
+      "isFinished": false,
+      "isScheduled": true
+    },
+    {
+      "matchNumber": 96,
+      "kickoffUtc": "2026-07-07T20:00:00Z",
+      "stage": "round-of-16",
+      "group": null,
+      "homeTeam": {
+        "slug": "winner-match-85",
+        "name": "Winner Match 85"
+      },
+      "awayTeam": {
+        "slug": "winner-match-87",
+        "name": "Winner Match 87"
+      },
+      "stadium": {
+        "name": "BC Place",
+        "hostCity": "vancouver",
+        "slug": "vancouver-bc-place"
+      },
+      "fdMatchId": 537382,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "isLive": false,
+      "isFinished": false,
+      "isScheduled": true
+    },
+    {
+      "matchNumber": 97,
+      "kickoffUtc": "2026-07-09T20:00:00Z",
+      "stage": "quarter-finals",
+      "group": null,
+      "homeTeam": {
+        "slug": "winner-match-89",
+        "name": "Winner Match 89"
+      },
+      "awayTeam": {
+        "slug": "winner-match-90",
+        "name": "Winner Match 90"
+      },
+      "stadium": {
+        "name": "Gillette Stadium",
+        "hostCity": "boston",
+        "slug": "boston-gillette-stadium"
+      },
+      "fdMatchId": 537383,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "isLive": false,
+      "isFinished": false,
+      "isScheduled": true
+    },
+    {
+      "matchNumber": 98,
+      "kickoffUtc": "2026-07-10T19:00:00Z",
+      "stage": "quarter-finals",
+      "group": null,
+      "homeTeam": {
+        "slug": "winner-match-93",
+        "name": "Winner Match 93"
+      },
+      "awayTeam": {
+        "slug": "winner-match-94",
+        "name": "Winner Match 94"
+      },
+      "stadium": {
+        "name": "SoFi Stadium",
+        "hostCity": "los-angeles",
+        "slug": "los-angeles-sofi-stadium"
+      },
+      "fdMatchId": 537384,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "isLive": false,
+      "isFinished": false,
+      "isScheduled": true
+    },
+    {
+      "matchNumber": 99,
+      "kickoffUtc": "2026-07-11T21:00:00Z",
+      "stage": "quarter-finals",
+      "group": null,
+      "homeTeam": {
+        "slug": "winner-match-91",
+        "name": "Winner Match 91"
+      },
+      "awayTeam": {
+        "slug": "winner-match-92",
+        "name": "Winner Match 92"
+      },
+      "stadium": {
+        "name": "Hard Rock Stadium",
+        "hostCity": "miami",
+        "slug": "miami-hard-rock-stadium"
+      },
+      "fdMatchId": 537385,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "isLive": false,
+      "isFinished": false,
+      "isScheduled": true
+    },
+    {
+      "matchNumber": 100,
+      "kickoffUtc": "2026-07-12T01:00:00Z",
+      "stage": "quarter-finals",
+      "group": null,
+      "homeTeam": {
+        "slug": "winner-match-95",
+        "name": "Winner Match 95"
+      },
+      "awayTeam": {
+        "slug": "winner-match-96",
+        "name": "Winner Match 96"
+      },
+      "stadium": {
+        "name": "Arrowhead Stadium",
+        "hostCity": "kansas-city",
+        "slug": "kansas-city-arrowhead-stadium"
+      },
+      "fdMatchId": 537386,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "isLive": false,
+      "isFinished": false,
+      "isScheduled": true
+    },
+    {
+      "matchNumber": 101,
+      "kickoffUtc": "2026-07-14T19:00:00Z",
+      "stage": "semi-finals",
+      "group": null,
+      "homeTeam": {
+        "slug": "winner-match-97",
+        "name": "Winner Match 97"
+      },
+      "awayTeam": {
+        "slug": "winner-match-98",
+        "name": "Winner Match 98"
+      },
+      "stadium": {
+        "name": "AT&T Stadium",
+        "hostCity": "dallas",
+        "slug": "dallas-at-t-stadium"
+      },
+      "fdMatchId": 537387,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "isLive": false,
+      "isFinished": false,
+      "isScheduled": true
+    },
+    {
+      "matchNumber": 102,
+      "kickoffUtc": "2026-07-15T19:00:00Z",
+      "stage": "semi-finals",
+      "group": null,
+      "homeTeam": {
+        "slug": "winner-match-99",
+        "name": "Winner Match 99"
+      },
+      "awayTeam": {
+        "slug": "winner-match-100",
+        "name": "Winner Match 100"
+      },
+      "stadium": {
+        "name": "Mercedes-Benz Stadium",
+        "hostCity": "atlanta",
+        "slug": "atlanta-mercedes-benz-stadium"
+      },
+      "fdMatchId": 537388,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "isLive": false,
+      "isFinished": false,
+      "isScheduled": true
+    },
+    {
+      "matchNumber": 103,
+      "kickoffUtc": "2026-07-18T21:00:00Z",
+      "stage": "third-place",
+      "group": null,
+      "homeTeam": {
+        "slug": "loser-match-101",
+        "name": "Loser Match 101"
+      },
+      "awayTeam": {
+        "slug": "loser-match-102",
+        "name": "Loser Match 102"
+      },
+      "stadium": {
+        "name": "Hard Rock Stadium",
+        "hostCity": "miami",
+        "slug": "miami-hard-rock-stadium"
+      },
+      "fdMatchId": 537389,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "isLive": false,
+      "isFinished": false,
+      "isScheduled": true
+    },
+    {
+      "matchNumber": 104,
+      "kickoffUtc": "2026-07-19T19:00:00Z",
+      "stage": "final",
+      "group": null,
+      "homeTeam": {
+        "slug": "winner-match-101",
+        "name": "Winner Match 101"
+      },
+      "awayTeam": {
+        "slug": "winner-match-102",
+        "name": "Winner Match 102"
+      },
+      "stadium": {
+        "name": "MetLife Stadium",
+        "hostCity": "new-york",
+        "slug": "new-york-metlife-stadium"
+      },
+      "fdMatchId": 537390,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "isLive": false,
+      "isFinished": false,
+      "isScheduled": true
+    }
+  ],
+  "standings": [
+    {
+      "group": "A",
+      "table": [
+        {
+          "position": 1,
+          "team": {
+            "slug": "mexico",
+            "name": "Mexico",
+            "fdId": 769,
+            "crest": "https://crests.football-data.org/769.svg"
+          },
+          "played": 3,
+          "won": 3,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 6,
+          "ga": 0,
+          "gd": 6,
+          "points": 9,
+          "form": "W,W,W"
+        },
+        {
+          "position": 2,
+          "team": {
+            "slug": "south-africa",
+            "name": "South Africa",
+            "fdId": 774,
+            "crest": "https://crests.football-data.org/9396.svg"
+          },
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "gf": 2,
+          "ga": 3,
+          "gd": -1,
+          "points": 4,
+          "form": "W,D,L"
+        },
+        {
+          "position": 3,
+          "team": {
+            "slug": "south-korea",
+            "name": "South Korea",
+            "fdId": 772,
+            "crest": "https://crests.football-data.org/772.png"
+          },
+          "played": 3,
+          "won": 1,
+          "drawn": 0,
+          "lost": 2,
+          "gf": 2,
+          "ga": 3,
+          "gd": -1,
+          "points": 3,
+          "form": "L,L,W"
+        },
+        {
+          "position": 4,
+          "team": {
+            "slug": "czech-republic",
+            "name": "Czechia",
+            "fdId": 798,
+            "crest": "https://crests.football-data.org/798.svg"
+          },
+          "played": 3,
+          "won": 0,
+          "drawn": 1,
+          "lost": 2,
+          "gf": 2,
+          "ga": 6,
+          "gd": -4,
+          "points": 1,
+          "form": "L,D,L"
+        }
+      ]
+    },
+    {
+      "group": "B",
+      "table": [
+        {
+          "position": 1,
+          "team": {
+            "slug": "switzerland",
+            "name": "Switzerland",
+            "fdId": 788,
+            "crest": "https://crests.football-data.org/788.svg"
+          },
+          "played": 3,
+          "won": 2,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 7,
+          "ga": 3,
+          "gd": 4,
+          "points": 7,
+          "form": "W,W,D"
+        },
+        {
+          "position": 2,
+          "team": {
+            "slug": "canada",
+            "name": "Canada",
+            "fdId": 828,
+            "crest": "https://crests.football-data.org/canada.svg"
+          },
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "gf": 8,
+          "ga": 3,
+          "gd": 5,
+          "points": 4,
+          "form": "L,W,D"
+        },
+        {
+          "position": 3,
+          "team": {
+            "slug": "bosnia-herzegovina",
+            "name": "Bosnia-Herzegovina",
+            "fdId": 1060,
+            "crest": "https://crests.football-data.org/bosnia.svg"
+          },
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "gf": 5,
+          "ga": 6,
+          "gd": -1,
+          "points": 4,
+          "form": "W,L,D"
+        },
+        {
+          "position": 4,
+          "team": {
+            "slug": "qatar",
+            "name": "Qatar",
+            "fdId": 8030,
+            "crest": "https://crests.football-data.org/8030.svg"
+          },
+          "played": 3,
+          "won": 0,
+          "drawn": 1,
+          "lost": 2,
+          "gf": 2,
+          "ga": 10,
+          "gd": -8,
+          "points": 1,
+          "form": "L,L,D"
+        }
+      ]
+    },
+    {
+      "group": "C",
+      "table": [
+        {
+          "position": 1,
+          "team": {
+            "slug": "brazil",
+            "name": "Brazil",
+            "fdId": 764,
+            "crest": "https://crests.football-data.org/764.svg"
+          },
+          "played": 3,
+          "won": 2,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 7,
+          "ga": 1,
+          "gd": 6,
+          "points": 7,
+          "form": "W,W,D"
+        },
+        {
+          "position": 2,
+          "team": {
+            "slug": "morocco",
+            "name": "Morocco",
+            "fdId": 815,
+            "crest": "https://crests.football-data.org/morocco.svg"
+          },
+          "played": 3,
+          "won": 2,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 6,
+          "ga": 3,
+          "gd": 3,
+          "points": 7,
+          "form": "W,W,D"
+        },
+        {
+          "position": 3,
+          "team": {
+            "slug": "scotland",
+            "name": "Scotland",
+            "fdId": 8873,
+            "crest": "https://crests.football-data.org/814.svg"
+          },
+          "played": 3,
+          "won": 1,
+          "drawn": 0,
+          "lost": 2,
+          "gf": 1,
+          "ga": 4,
+          "gd": -3,
+          "points": 3,
+          "form": "L,L,W"
+        },
+        {
+          "position": 4,
+          "team": {
+            "slug": "haiti",
+            "name": "Haiti",
+            "fdId": 836,
+            "crest": "https://crests.football-data.org/haiti.svg"
+          },
+          "played": 3,
+          "won": 0,
+          "drawn": 0,
+          "lost": 3,
+          "gf": 2,
+          "ga": 8,
+          "gd": -6,
+          "points": 0,
+          "form": "L,L,L"
+        }
+      ]
+    },
+    {
+      "group": "D",
+      "table": [
+        {
+          "position": 1,
+          "team": {
+            "slug": "united-states",
+            "name": "United States",
+            "fdId": 771,
+            "crest": "https://crests.football-data.org/usa.svg"
+          },
+          "played": 3,
+          "won": 2,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 8,
+          "ga": 4,
+          "gd": 4,
+          "points": 6,
+          "form": "L,W,W"
+        },
+        {
+          "position": 2,
+          "team": {
+            "slug": "australia",
+            "name": "Australia",
+            "fdId": 779,
+            "crest": "https://crests.football-data.org/779.svg"
+          },
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "gf": 2,
+          "ga": 2,
+          "gd": 0,
+          "points": 4,
+          "form": "D,L,W"
+        },
+        {
+          "position": 3,
+          "team": {
+            "slug": "paraguay",
+            "name": "Paraguay",
+            "fdId": 761,
+            "crest": "https://crests.football-data.org/761.svg"
+          },
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "gf": 2,
+          "ga": 4,
+          "gd": -2,
+          "points": 4,
+          "form": "D,W,L"
+        },
+        {
+          "position": 4,
+          "team": {
+            "slug": "turkey",
+            "name": "Turkey",
+            "fdId": 803,
+            "crest": "https://crests.football-data.org/803.svg"
+          },
+          "played": 3,
+          "won": 1,
+          "drawn": 0,
+          "lost": 2,
+          "gf": 3,
+          "ga": 5,
+          "gd": -2,
+          "points": 3,
+          "form": "W,L,L"
+        }
+      ]
+    },
+    {
+      "group": "E",
+      "table": [
+        {
+          "position": 1,
+          "team": {
+            "slug": "germany",
+            "name": "Germany",
+            "fdId": 759,
+            "crest": "https://crests.football-data.org/759.svg"
+          },
+          "played": 3,
+          "won": 2,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 10,
+          "ga": 4,
+          "gd": 6,
+          "points": 6,
+          "form": "L,W,W"
+        },
+        {
+          "position": 2,
+          "team": {
+            "slug": "ivory-coast",
+            "name": "Ivory Coast",
+            "fdId": 1935,
+            "crest": "https://crests.football-data.org/787.svg"
+          },
+          "played": 3,
+          "won": 2,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 4,
+          "ga": 2,
+          "gd": 2,
+          "points": 6,
+          "form": "W,L,W"
+        },
+        {
+          "position": 3,
+          "team": {
+            "slug": "ecuador",
+            "name": "Ecuador",
+            "fdId": 791,
+            "crest": "https://crests.football-data.org/791.svg"
+          },
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "gf": 2,
+          "ga": 2,
+          "gd": 0,
+          "points": 4,
+          "form": "W,D,L"
+        },
+        {
+          "position": 4,
+          "team": {
+            "slug": "curacao",
+            "name": "Curaçao",
+            "fdId": 9460,
+            "crest": "https://crests.football-data.org/curacao.svg"
+          },
+          "played": 3,
+          "won": 0,
+          "drawn": 1,
+          "lost": 2,
+          "gf": 1,
+          "ga": 9,
+          "gd": -8,
+          "points": 1,
+          "form": "L,D,L"
+        }
+      ]
+    },
+    {
+      "group": "F",
+      "table": [
+        {
+          "position": 1,
+          "team": {
+            "slug": "netherlands",
+            "name": "Netherlands",
+            "fdId": 8601,
+            "crest": "https://crests.football-data.org/8601.svg"
+          },
+          "played": 3,
+          "won": 2,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 10,
+          "ga": 4,
+          "gd": 6,
+          "points": 7,
+          "form": "W,W,D"
+        },
+        {
+          "position": 2,
+          "team": {
+            "slug": "japan",
+            "name": "Japan",
+            "fdId": 766,
+            "crest": "https://crests.football-data.org/766.svg"
+          },
+          "played": 3,
+          "won": 1,
+          "drawn": 2,
+          "lost": 0,
+          "gf": 7,
+          "ga": 3,
+          "gd": 4,
+          "points": 5,
+          "form": "D,W,D"
+        },
+        {
+          "position": 3,
+          "team": {
+            "slug": "sweden",
+            "name": "Sweden",
+            "fdId": 792,
+            "crest": "https://crests.football-data.org/792.svg"
+          },
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "gf": 7,
+          "ga": 7,
+          "gd": 0,
+          "points": 4,
+          "form": "D,L,W"
+        },
+        {
+          "position": 4,
+          "team": {
+            "slug": "tunisia",
+            "name": "Tunisia",
+            "fdId": 802,
+            "crest": "https://crests.football-data.org/tunisia.svg"
+          },
+          "played": 3,
+          "won": 0,
+          "drawn": 0,
+          "lost": 3,
+          "gf": 2,
+          "ga": 12,
+          "gd": -10,
+          "points": 0,
+          "form": "L,L,L"
+        }
+      ]
+    },
+    {
+      "group": "G",
+      "table": [
+        {
+          "position": 1,
+          "team": {
+            "slug": "belgium",
+            "name": "Belgium",
+            "fdId": 805,
+            "crest": "https://crests.football-data.org/805.svg"
+          },
+          "played": 3,
+          "won": 1,
+          "drawn": 2,
+          "lost": 0,
+          "gf": 6,
+          "ga": 2,
+          "gd": 4,
+          "points": 5,
+          "form": "W,D,D"
+        },
+        {
+          "position": 2,
+          "team": {
+            "slug": "egypt",
+            "name": "Egypt",
+            "fdId": 825,
+            "crest": "https://crests.football-data.org/825.svg"
+          },
+          "played": 3,
+          "won": 1,
+          "drawn": 2,
+          "lost": 0,
+          "gf": 5,
+          "ga": 3,
+          "gd": 2,
+          "points": 5,
+          "form": "D,W,D"
+        },
+        {
+          "position": 3,
+          "team": {
+            "slug": "iran",
+            "name": "Iran",
+            "fdId": 840,
+            "crest": "https://crests.football-data.org/iran.svg"
+          },
+          "played": 3,
+          "won": 0,
+          "drawn": 3,
+          "lost": 0,
+          "gf": 3,
+          "ga": 3,
+          "gd": 0,
+          "points": 3,
+          "form": "D,D,D"
+        },
+        {
+          "position": 4,
+          "team": {
+            "slug": "new-zealand",
+            "name": "New Zealand",
+            "fdId": 783,
+            "crest": "https://crests.football-data.org/783.svg"
+          },
+          "played": 3,
+          "won": 0,
+          "drawn": 1,
+          "lost": 2,
+          "gf": 4,
+          "ga": 10,
+          "gd": -6,
+          "points": 1,
+          "form": "L,L,D"
+        }
+      ]
+    },
+    {
+      "group": "H",
+      "table": [
+        {
+          "position": 1,
+          "team": {
+            "slug": "spain",
+            "name": "Spain",
+            "fdId": 760,
+            "crest": "https://crests.football-data.org/760.svg"
+          },
+          "played": 3,
+          "won": 2,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 5,
+          "ga": 0,
+          "gd": 5,
+          "points": 7,
+          "form": "W,W,D"
+        },
+        {
+          "position": 2,
+          "team": {
+            "slug": "cabo-verde",
+            "name": "Cape Verde Islands",
+            "fdId": 1930,
+            "crest": "https://crests.football-data.org/cape_verde.svg"
+          },
+          "played": 3,
+          "won": 0,
+          "drawn": 3,
+          "lost": 0,
+          "gf": 2,
+          "ga": 2,
+          "gd": 0,
+          "points": 3,
+          "form": "D,D,D"
+        },
+        {
+          "position": 3,
+          "team": {
+            "slug": "uruguay",
+            "name": "Uruguay",
+            "fdId": 758,
+            "crest": "https://crests.football-data.org/758.svg"
+          },
+          "played": 3,
+          "won": 0,
+          "drawn": 2,
+          "lost": 1,
+          "gf": 3,
+          "ga": 4,
+          "gd": -1,
+          "points": 2,
+          "form": "L,D,D"
+        },
+        {
+          "position": 4,
+          "team": {
+            "slug": "saudi-arabia",
+            "name": "Saudi Arabia",
+            "fdId": 801,
+            "crest": "https://crests.football-data.org/saudi_arabia.svg"
+          },
+          "played": 3,
+          "won": 0,
+          "drawn": 2,
+          "lost": 1,
+          "gf": 1,
+          "ga": 5,
+          "gd": -4,
+          "points": 2,
+          "form": "D,L,D"
+        }
+      ]
+    },
+    {
+      "group": "I",
+      "table": [
+        {
+          "position": 1,
+          "team": {
+            "slug": "france",
+            "name": "France",
+            "fdId": 773,
+            "crest": "https://crests.football-data.org/773.svg"
+          },
+          "played": 3,
+          "won": 3,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 10,
+          "ga": 2,
+          "gd": 8,
+          "points": 9,
+          "form": "W,W,W"
+        },
+        {
+          "position": 2,
+          "team": {
+            "slug": "norway",
+            "name": "Norway",
+            "fdId": 8872,
+            "crest": "https://crests.football-data.org/813.svg"
+          },
+          "played": 3,
+          "won": 2,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 8,
+          "ga": 7,
+          "gd": 1,
+          "points": 6,
+          "form": "L,W,W"
+        },
+        {
+          "position": 3,
+          "team": {
+            "slug": "senegal",
+            "name": "Senegal",
+            "fdId": 804,
+            "crest": "https://crests.football-data.org/senegal.svg"
+          },
+          "played": 3,
+          "won": 1,
+          "drawn": 0,
+          "lost": 2,
+          "gf": 8,
+          "ga": 6,
+          "gd": 2,
+          "points": 3,
+          "form": "W,L,L"
+        },
+        {
+          "position": 4,
+          "team": {
+            "slug": "iraq",
+            "name": "Iraq",
+            "fdId": 8062,
+            "crest": "https://crests.football-data.org/iraq.svg"
+          },
+          "played": 3,
+          "won": 0,
+          "drawn": 0,
+          "lost": 3,
+          "gf": 1,
+          "ga": 12,
+          "gd": -11,
+          "points": 0,
+          "form": "L,L,L"
+        }
+      ]
+    },
+    {
+      "group": "J",
+      "table": [
+        {
+          "position": 1,
+          "team": {
+            "slug": "argentina",
+            "name": "Argentina",
+            "fdId": 762,
+            "crest": "https://crests.football-data.org/762.png"
+          },
+          "played": 3,
+          "won": 3,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 8,
+          "ga": 1,
+          "gd": 7,
+          "points": 9,
+          "form": "W,W,W"
+        },
+        {
+          "position": 2,
+          "team": {
+            "slug": "austria",
+            "name": "Austria",
+            "fdId": 816,
+            "crest": "https://crests.football-data.org/816.svg"
+          },
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "gf": 6,
+          "ga": 6,
+          "gd": 0,
+          "points": 4,
+          "form": "D,L,W"
+        },
+        {
+          "position": 3,
+          "team": {
+            "slug": "algeria",
+            "name": "Algeria",
+            "fdId": 778,
+            "crest": "https://crests.football-data.org/algeria.svg"
+          },
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "gf": 5,
+          "ga": 7,
+          "gd": -2,
+          "points": 4,
+          "form": "D,W,L"
+        },
+        {
+          "position": 4,
+          "team": {
+            "slug": "jordan",
+            "name": "Jordan",
+            "fdId": 8049,
+            "crest": "https://crests.football-data.org/8049.png"
+          },
+          "played": 3,
+          "won": 0,
+          "drawn": 0,
+          "lost": 3,
+          "gf": 3,
+          "ga": 8,
+          "gd": -5,
+          "points": 0,
+          "form": "L,L,L"
+        }
+      ]
+    },
+    {
+      "group": "K",
+      "table": [
+        {
+          "position": 1,
+          "team": {
+            "slug": "colombia",
+            "name": "Colombia",
+            "fdId": 818,
+            "crest": "https://crests.football-data.org/818.svg"
+          },
+          "played": 3,
+          "won": 2,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 4,
+          "ga": 1,
+          "gd": 3,
+          "points": 7,
+          "form": "D,W,W"
+        },
+        {
+          "position": 2,
+          "team": {
+            "slug": "portugal",
+            "name": "Portugal",
+            "fdId": 765,
+            "crest": "https://crests.football-data.org/765.svg"
+          },
+          "played": 3,
+          "won": 1,
+          "drawn": 2,
+          "lost": 0,
+          "gf": 6,
+          "ga": 1,
+          "gd": 5,
+          "points": 5,
+          "form": "D,W,D"
+        },
+        {
+          "position": 3,
+          "team": {
+            "slug": "dr-congo",
+            "name": "Congo DR",
+            "fdId": 1934,
+            "crest": "https://crests.football-data.org/congo_dr.svg"
+          },
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "gf": 4,
+          "ga": 3,
+          "gd": 1,
+          "points": 4,
+          "form": "W,L,D"
+        },
+        {
+          "position": 4,
+          "team": {
+            "slug": "uzbekistan",
+            "name": "Uzbekistan",
+            "fdId": 8070,
+            "crest": "https://crests.football-data.org/8070.png"
+          },
+          "played": 3,
+          "won": 0,
+          "drawn": 0,
+          "lost": 3,
+          "gf": 2,
+          "ga": 11,
+          "gd": -9,
+          "points": 0,
+          "form": "L,L,L"
+        }
+      ]
+    },
+    {
+      "group": "L",
+      "table": [
+        {
+          "position": 1,
+          "team": {
+            "slug": "england",
+            "name": "England",
+            "fdId": 770,
+            "crest": "https://crests.football-data.org/770.svg"
+          },
+          "played": 3,
+          "won": 2,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 6,
+          "ga": 2,
+          "gd": 4,
+          "points": 7,
+          "form": "W,D,W"
+        },
+        {
+          "position": 2,
+          "team": {
+            "slug": "croatia",
+            "name": "Croatia",
+            "fdId": 799,
+            "crest": "https://crests.football-data.org/799.svg"
+          },
+          "played": 3,
+          "won": 2,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 5,
+          "ga": 5,
+          "gd": 0,
+          "points": 6,
+          "form": "W,W,L"
+        },
+        {
+          "position": 3,
+          "team": {
+            "slug": "ghana",
+            "name": "Ghana",
+            "fdId": 763,
+            "crest": "https://crests.football-data.org/ghana.svg"
+          },
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "gf": 2,
+          "ga": 2,
+          "gd": 0,
+          "points": 4,
+          "form": "L,D,W"
+        },
+        {
+          "position": 4,
+          "team": {
+            "slug": "panama",
+            "name": "Panama",
+            "fdId": 1836,
+            "crest": "https://crests.football-data.org/panama.svg"
+          },
+          "played": 3,
+          "won": 0,
+          "drawn": 0,
+          "lost": 3,
+          "gf": 0,
+          "ga": 4,
+          "gd": -4,
+          "points": 0,
+          "form": "L,L,L"
+        }
+      ]
+    }
+  ]
+}

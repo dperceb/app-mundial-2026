@@ -1,0 +1,1940 @@
+{
+  "lastUpdated": "2026-06-29T19:21:17.087Z",
+  "source": "football-data.org",
+  "ok": true,
+  "error": null,
+  "matched": 104,
+  "unmatched": 0,
+  "results": [
+    {
+      "fdMatchId": 537327,
+      "matchNumber": 1,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 0,
+        "homeHt": 1,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "Mexico",
+        "shortName": "Mexico"
+      },
+      "awayTeam": {
+        "name": "South Africa",
+        "shortName": "South Africa"
+      }
+    },
+    {
+      "fdMatchId": 537328,
+      "matchNumber": 2,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "South Korea",
+        "shortName": "Korea Republic"
+      },
+      "awayTeam": {
+        "name": "Czechia",
+        "shortName": "Czechia"
+      }
+    },
+    {
+      "fdMatchId": 537333,
+      "matchNumber": 3,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 1
+      },
+      "homeTeam": {
+        "name": "Canada",
+        "shortName": "Canada"
+      },
+      "awayTeam": {
+        "name": "Bosnia-Herzegovina",
+        "shortName": "Bosnia-H."
+      }
+    },
+    {
+      "fdMatchId": 537345,
+      "matchNumber": 4,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 4,
+        "away": 1,
+        "homeHt": 3,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "United States",
+        "shortName": "USA"
+      },
+      "awayTeam": {
+        "name": "Paraguay",
+        "shortName": "Paraguay"
+      }
+    },
+    {
+      "fdMatchId": 537334,
+      "matchNumber": 8,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 1
+      },
+      "homeTeam": {
+        "name": "Qatar",
+        "shortName": "Qatar"
+      },
+      "awayTeam": {
+        "name": "Switzerland",
+        "shortName": "Switzerland"
+      }
+    },
+    {
+      "fdMatchId": 537339,
+      "matchNumber": 7,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 1,
+        "homeHt": 1,
+        "awayHt": 1
+      },
+      "homeTeam": {
+        "name": "Brazil",
+        "shortName": "Brazil"
+      },
+      "awayTeam": {
+        "name": "Morocco",
+        "shortName": "Morocco"
+      }
+    },
+    {
+      "fdMatchId": 537340,
+      "matchNumber": 5,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 1
+      },
+      "homeTeam": {
+        "name": "Haiti",
+        "shortName": "Haiti"
+      },
+      "awayTeam": {
+        "name": "Scotland",
+        "shortName": "Scotland"
+      }
+    },
+    {
+      "fdMatchId": 537346,
+      "matchNumber": 6,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 0,
+        "homeHt": 1,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "Australia",
+        "shortName": "Australia"
+      },
+      "awayTeam": {
+        "name": "Turkey",
+        "shortName": "Turkey"
+      }
+    },
+    {
+      "fdMatchId": 537351,
+      "matchNumber": 10,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 7,
+        "away": 1,
+        "homeHt": 3,
+        "awayHt": 1
+      },
+      "homeTeam": {
+        "name": "Germany",
+        "shortName": "Germany"
+      },
+      "awayTeam": {
+        "name": "Curaçao",
+        "shortName": "Curaçao"
+      }
+    },
+    {
+      "fdMatchId": 537357,
+      "matchNumber": 11,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 2,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "Netherlands",
+        "shortName": "Netherlands"
+      },
+      "awayTeam": {
+        "name": "Japan",
+        "shortName": "Japan"
+      }
+    },
+    {
+      "fdMatchId": 537352,
+      "matchNumber": 9,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 0,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "Ivory Coast",
+        "shortName": "Ivory Coast"
+      },
+      "awayTeam": {
+        "name": "Ecuador",
+        "shortName": "Ecuador"
+      }
+    },
+    {
+      "fdMatchId": 537358,
+      "matchNumber": 12,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 5,
+        "away": 1,
+        "homeHt": 2,
+        "awayHt": 1
+      },
+      "homeTeam": {
+        "name": "Sweden",
+        "shortName": "Sweden"
+      },
+      "awayTeam": {
+        "name": "Tunisia",
+        "shortName": "Tunisia"
+      }
+    },
+    {
+      "fdMatchId": 537369,
+      "matchNumber": 14,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 0,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "Spain",
+        "shortName": "Spain"
+      },
+      "awayTeam": {
+        "name": "Cape Verde Islands",
+        "shortName": "Cape Verde"
+      }
+    },
+    {
+      "fdMatchId": 537363,
+      "matchNumber": 16,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 1
+      },
+      "homeTeam": {
+        "name": "Belgium",
+        "shortName": "Belgium"
+      },
+      "awayTeam": {
+        "name": "Egypt",
+        "shortName": "Egypt"
+      }
+    },
+    {
+      "fdMatchId": 537370,
+      "matchNumber": 13,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 1,
+        "homeHt": 1,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "Saudi Arabia",
+        "shortName": "Saudi Arabia"
+      },
+      "awayTeam": {
+        "name": "Uruguay",
+        "shortName": "Uruguay"
+      }
+    },
+    {
+      "fdMatchId": 537364,
+      "matchNumber": 15,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 2,
+        "homeHt": 1,
+        "awayHt": 1
+      },
+      "homeTeam": {
+        "name": "Iran",
+        "shortName": "Iran"
+      },
+      "awayTeam": {
+        "name": "New Zealand",
+        "shortName": "New Zealand"
+      }
+    },
+    {
+      "fdMatchId": 537391,
+      "matchNumber": 17,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 3,
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "France",
+        "shortName": "France"
+      },
+      "awayTeam": {
+        "name": "Senegal",
+        "shortName": "Senegal"
+      }
+    },
+    {
+      "fdMatchId": 537392,
+      "matchNumber": 18,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 4,
+        "homeHt": 1,
+        "awayHt": 2
+      },
+      "homeTeam": {
+        "name": "Iraq",
+        "shortName": "Iraq"
+      },
+      "awayTeam": {
+        "name": "Norway",
+        "shortName": "Norway"
+      }
+    },
+    {
+      "fdMatchId": 537397,
+      "matchNumber": 19,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 3,
+        "away": 0,
+        "homeHt": 1,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "Argentina",
+        "shortName": "Argentina"
+      },
+      "awayTeam": {
+        "name": "Algeria",
+        "shortName": "Algeria"
+      }
+    },
+    {
+      "fdMatchId": 537398,
+      "matchNumber": 20,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 3,
+        "away": 1,
+        "homeHt": 1,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "Austria",
+        "shortName": "Austria"
+      },
+      "awayTeam": {
+        "name": "Jordan",
+        "shortName": "Jordan"
+      }
+    },
+    {
+      "fdMatchId": 537403,
+      "matchNumber": 23,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 1,
+        "homeHt": 1,
+        "awayHt": 1
+      },
+      "homeTeam": {
+        "name": "Portugal",
+        "shortName": "Portugal"
+      },
+      "awayTeam": {
+        "name": "Congo DR",
+        "shortName": "Congo DR"
+      }
+    },
+    {
+      "fdMatchId": 537409,
+      "matchNumber": 22,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 4,
+        "away": 2,
+        "homeHt": 2,
+        "awayHt": 2
+      },
+      "homeTeam": {
+        "name": "England",
+        "shortName": "England"
+      },
+      "awayTeam": {
+        "name": "Croatia",
+        "shortName": "Croatia"
+      }
+    },
+    {
+      "fdMatchId": 537410,
+      "matchNumber": 21,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 0,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "Ghana",
+        "shortName": "Ghana"
+      },
+      "awayTeam": {
+        "name": "Panama",
+        "shortName": "Panama"
+      }
+    },
+    {
+      "fdMatchId": 537404,
+      "matchNumber": 24,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 3,
+        "homeHt": 0,
+        "awayHt": 1
+      },
+      "homeTeam": {
+        "name": "Uzbekistan",
+        "shortName": "Uzbekistan"
+      },
+      "awayTeam": {
+        "name": "Colombia",
+        "shortName": "Colombia"
+      }
+    },
+    {
+      "fdMatchId": 537329,
+      "matchNumber": 25,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 1,
+        "homeHt": 1,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "Czechia",
+        "shortName": "Czechia"
+      },
+      "awayTeam": {
+        "name": "South Africa",
+        "shortName": "South Africa"
+      }
+    },
+    {
+      "fdMatchId": 537335,
+      "matchNumber": 26,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 4,
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "Switzerland",
+        "shortName": "Switzerland"
+      },
+      "awayTeam": {
+        "name": "Bosnia-Herzegovina",
+        "shortName": "Bosnia-H."
+      }
+    },
+    {
+      "fdMatchId": 537336,
+      "matchNumber": 27,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 6,
+        "away": 0,
+        "homeHt": 3,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "Canada",
+        "shortName": "Canada"
+      },
+      "awayTeam": {
+        "name": "Qatar",
+        "shortName": "Qatar"
+      }
+    },
+    {
+      "fdMatchId": 537330,
+      "matchNumber": 28,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 0,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "Mexico",
+        "shortName": "Mexico"
+      },
+      "awayTeam": {
+        "name": "South Korea",
+        "shortName": "Korea Republic"
+      }
+    },
+    {
+      "fdMatchId": 537348,
+      "matchNumber": 32,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 0,
+        "homeHt": 2,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "United States",
+        "shortName": "USA"
+      },
+      "awayTeam": {
+        "name": "Australia",
+        "shortName": "Australia"
+      }
+    },
+    {
+      "fdMatchId": 537342,
+      "matchNumber": 30,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 1
+      },
+      "homeTeam": {
+        "name": "Scotland",
+        "shortName": "Scotland"
+      },
+      "awayTeam": {
+        "name": "Morocco",
+        "shortName": "Morocco"
+      }
+    },
+    {
+      "fdMatchId": 537341,
+      "matchNumber": 29,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 3,
+        "away": 0,
+        "homeHt": 3,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "Brazil",
+        "shortName": "Brazil"
+      },
+      "awayTeam": {
+        "name": "Haiti",
+        "shortName": "Haiti"
+      }
+    },
+    {
+      "fdMatchId": 537347,
+      "matchNumber": 31,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 1
+      },
+      "homeTeam": {
+        "name": "Turkey",
+        "shortName": "Turkey"
+      },
+      "awayTeam": {
+        "name": "Paraguay",
+        "shortName": "Paraguay"
+      }
+    },
+    {
+      "fdMatchId": 537359,
+      "matchNumber": 35,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 5,
+        "away": 1,
+        "homeHt": 2,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "Netherlands",
+        "shortName": "Netherlands"
+      },
+      "awayTeam": {
+        "name": "Sweden",
+        "shortName": "Sweden"
+      }
+    },
+    {
+      "fdMatchId": 537353,
+      "matchNumber": 33,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 1
+      },
+      "homeTeam": {
+        "name": "Germany",
+        "shortName": "Germany"
+      },
+      "awayTeam": {
+        "name": "Ivory Coast",
+        "shortName": "Ivory Coast"
+      }
+    },
+    {
+      "fdMatchId": 537354,
+      "matchNumber": 34,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 0,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "Ecuador",
+        "shortName": "Ecuador"
+      },
+      "awayTeam": {
+        "name": "Curaçao",
+        "shortName": "Curaçao"
+      }
+    },
+    {
+      "fdMatchId": 537360,
+      "matchNumber": 36,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 4,
+        "homeHt": 0,
+        "awayHt": 2
+      },
+      "homeTeam": {
+        "name": "Tunisia",
+        "shortName": "Tunisia"
+      },
+      "awayTeam": {
+        "name": "Japan",
+        "shortName": "Japan"
+      }
+    },
+    {
+      "fdMatchId": 537371,
+      "matchNumber": 38,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 4,
+        "away": 0,
+        "homeHt": 3,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "Spain",
+        "shortName": "Spain"
+      },
+      "awayTeam": {
+        "name": "Saudi Arabia",
+        "shortName": "Saudi Arabia"
+      }
+    },
+    {
+      "fdMatchId": 537365,
+      "matchNumber": 39,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 0,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "Belgium",
+        "shortName": "Belgium"
+      },
+      "awayTeam": {
+        "name": "Iran",
+        "shortName": "Iran"
+      }
+    },
+    {
+      "fdMatchId": 537372,
+      "matchNumber": 37,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 2,
+        "homeHt": 2,
+        "awayHt": 1
+      },
+      "homeTeam": {
+        "name": "Uruguay",
+        "shortName": "Uruguay"
+      },
+      "awayTeam": {
+        "name": "Cape Verde Islands",
+        "shortName": "Cape Verde"
+      }
+    },
+    {
+      "fdMatchId": 537366,
+      "matchNumber": 40,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 3,
+        "homeHt": 1,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "New Zealand",
+        "shortName": "New Zealand"
+      },
+      "awayTeam": {
+        "name": "Egypt",
+        "shortName": "Egypt"
+      }
+    },
+    {
+      "fdMatchId": 537399,
+      "matchNumber": 43,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 0,
+        "homeHt": 1,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "Argentina",
+        "shortName": "Argentina"
+      },
+      "awayTeam": {
+        "name": "Austria",
+        "shortName": "Austria"
+      }
+    },
+    {
+      "fdMatchId": 537393,
+      "matchNumber": 42,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 3,
+        "away": 0,
+        "homeHt": 1,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "France",
+        "shortName": "France"
+      },
+      "awayTeam": {
+        "name": "Iraq",
+        "shortName": "Iraq"
+      }
+    },
+    {
+      "fdMatchId": 537394,
+      "matchNumber": 41,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 3,
+        "away": 2,
+        "homeHt": 1,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "Norway",
+        "shortName": "Norway"
+      },
+      "awayTeam": {
+        "name": "Senegal",
+        "shortName": "Senegal"
+      }
+    },
+    {
+      "fdMatchId": 537400,
+      "matchNumber": 44,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 2,
+        "homeHt": 1,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "Jordan",
+        "shortName": "Jordan"
+      },
+      "awayTeam": {
+        "name": "Algeria",
+        "shortName": "Algeria"
+      }
+    },
+    {
+      "fdMatchId": 537405,
+      "matchNumber": 47,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 5,
+        "away": 0,
+        "homeHt": 3,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "Portugal",
+        "shortName": "Portugal"
+      },
+      "awayTeam": {
+        "name": "Uzbekistan",
+        "shortName": "Uzbekistan"
+      }
+    },
+    {
+      "fdMatchId": 537411,
+      "matchNumber": 45,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 0,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "England",
+        "shortName": "England"
+      },
+      "awayTeam": {
+        "name": "Ghana",
+        "shortName": "Ghana"
+      }
+    },
+    {
+      "fdMatchId": 537412,
+      "matchNumber": 46,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "Panama",
+        "shortName": "Panama"
+      },
+      "awayTeam": {
+        "name": "Croatia",
+        "shortName": "Croatia"
+      }
+    },
+    {
+      "fdMatchId": 537406,
+      "matchNumber": 48,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 0,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "Colombia",
+        "shortName": "Colombia"
+      },
+      "awayTeam": {
+        "name": "Congo DR",
+        "shortName": "Congo DR"
+      }
+    },
+    {
+      "fdMatchId": 537337,
+      "matchNumber": 51,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "Switzerland",
+        "shortName": "Switzerland"
+      },
+      "awayTeam": {
+        "name": "Canada",
+        "shortName": "Canada"
+      }
+    },
+    {
+      "fdMatchId": 537338,
+      "matchNumber": 52,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 3,
+        "away": 1,
+        "homeHt": 2,
+        "awayHt": 1
+      },
+      "homeTeam": {
+        "name": "Bosnia-Herzegovina",
+        "shortName": "Bosnia-H."
+      },
+      "awayTeam": {
+        "name": "Qatar",
+        "shortName": "Qatar"
+      }
+    },
+    {
+      "fdMatchId": 537344,
+      "matchNumber": 50,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 4,
+        "away": 2,
+        "homeHt": 2,
+        "awayHt": 2
+      },
+      "homeTeam": {
+        "name": "Morocco",
+        "shortName": "Morocco"
+      },
+      "awayTeam": {
+        "name": "Haiti",
+        "shortName": "Haiti"
+      }
+    },
+    {
+      "fdMatchId": 537343,
+      "matchNumber": 49,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 3,
+        "homeHt": 0,
+        "awayHt": 2
+      },
+      "homeTeam": {
+        "name": "Scotland",
+        "shortName": "Scotland"
+      },
+      "awayTeam": {
+        "name": "Brazil",
+        "shortName": "Brazil"
+      }
+    },
+    {
+      "fdMatchId": 537331,
+      "matchNumber": 53,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 3,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "Czechia",
+        "shortName": "Czechia"
+      },
+      "awayTeam": {
+        "name": "Mexico",
+        "shortName": "Mexico"
+      }
+    },
+    {
+      "fdMatchId": 537332,
+      "matchNumber": 54,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 0,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "South Africa",
+        "shortName": "South Africa"
+      },
+      "awayTeam": {
+        "name": "South Korea",
+        "shortName": "Korea Republic"
+      }
+    },
+    {
+      "fdMatchId": 537355,
+      "matchNumber": 56,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 1,
+        "homeHt": 1,
+        "awayHt": 1
+      },
+      "homeTeam": {
+        "name": "Ecuador",
+        "shortName": "Ecuador"
+      },
+      "awayTeam": {
+        "name": "Germany",
+        "shortName": "Germany"
+      }
+    },
+    {
+      "fdMatchId": 537356,
+      "matchNumber": 55,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 2,
+        "homeHt": 0,
+        "awayHt": 1
+      },
+      "homeTeam": {
+        "name": "Curaçao",
+        "shortName": "Curaçao"
+      },
+      "awayTeam": {
+        "name": "Ivory Coast",
+        "shortName": "Ivory Coast"
+      }
+    },
+    {
+      "fdMatchId": 537361,
+      "matchNumber": 58,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 3,
+        "homeHt": 0,
+        "awayHt": 2
+      },
+      "homeTeam": {
+        "name": "Tunisia",
+        "shortName": "Tunisia"
+      },
+      "awayTeam": {
+        "name": "Netherlands",
+        "shortName": "Netherlands"
+      }
+    },
+    {
+      "fdMatchId": 537362,
+      "matchNumber": 57,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "Japan",
+        "shortName": "Japan"
+      },
+      "awayTeam": {
+        "name": "Sweden",
+        "shortName": "Sweden"
+      }
+    },
+    {
+      "fdMatchId": 537349,
+      "matchNumber": 59,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 3,
+        "away": 2,
+        "homeHt": 2,
+        "awayHt": 1
+      },
+      "homeTeam": {
+        "name": "Turkey",
+        "shortName": "Turkey"
+      },
+      "awayTeam": {
+        "name": "United States",
+        "shortName": "USA"
+      }
+    },
+    {
+      "fdMatchId": 537350,
+      "matchNumber": 60,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 0,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "Paraguay",
+        "shortName": "Paraguay"
+      },
+      "awayTeam": {
+        "name": "Australia",
+        "shortName": "Australia"
+      }
+    },
+    {
+      "fdMatchId": 537395,
+      "matchNumber": 61,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 4,
+        "homeHt": 1,
+        "awayHt": 3
+      },
+      "homeTeam": {
+        "name": "Norway",
+        "shortName": "Norway"
+      },
+      "awayTeam": {
+        "name": "France",
+        "shortName": "France"
+      }
+    },
+    {
+      "fdMatchId": 537396,
+      "matchNumber": 62,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 5,
+        "away": 0,
+        "homeHt": 1,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "Senegal",
+        "shortName": "Senegal"
+      },
+      "awayTeam": {
+        "name": "Iraq",
+        "shortName": "Iraq"
+      }
+    },
+    {
+      "fdMatchId": 537373,
+      "matchNumber": 66,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 1
+      },
+      "homeTeam": {
+        "name": "Uruguay",
+        "shortName": "Uruguay"
+      },
+      "awayTeam": {
+        "name": "Spain",
+        "shortName": "Spain"
+      }
+    },
+    {
+      "fdMatchId": 537374,
+      "matchNumber": 65,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 0,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "Cape Verde Islands",
+        "shortName": "Cape Verde"
+      },
+      "awayTeam": {
+        "name": "Saudi Arabia",
+        "shortName": "Saudi Arabia"
+      }
+    },
+    {
+      "fdMatchId": 537367,
+      "matchNumber": 64,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 5,
+        "homeHt": 0,
+        "awayHt": 1
+      },
+      "homeTeam": {
+        "name": "New Zealand",
+        "shortName": "New Zealand"
+      },
+      "awayTeam": {
+        "name": "Belgium",
+        "shortName": "Belgium"
+      }
+    },
+    {
+      "fdMatchId": 537368,
+      "matchNumber": 63,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 1,
+        "homeHt": 1,
+        "awayHt": 1
+      },
+      "homeTeam": {
+        "name": "Egypt",
+        "shortName": "Egypt"
+      },
+      "awayTeam": {
+        "name": "Iran",
+        "shortName": "Iran"
+      }
+    },
+    {
+      "fdMatchId": 537413,
+      "matchNumber": 67,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 2,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "Panama",
+        "shortName": "Panama"
+      },
+      "awayTeam": {
+        "name": "England",
+        "shortName": "England"
+      }
+    },
+    {
+      "fdMatchId": 537414,
+      "matchNumber": 68,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 1,
+        "homeHt": 1,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "Croatia",
+        "shortName": "Croatia"
+      },
+      "awayTeam": {
+        "name": "Ghana",
+        "shortName": "Ghana"
+      }
+    },
+    {
+      "fdMatchId": 537407,
+      "matchNumber": 71,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 0,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "Colombia",
+        "shortName": "Colombia"
+      },
+      "awayTeam": {
+        "name": "Portugal",
+        "shortName": "Portugal"
+      }
+    },
+    {
+      "fdMatchId": 537408,
+      "matchNumber": 72,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 3,
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 1
+      },
+      "homeTeam": {
+        "name": "Congo DR",
+        "shortName": "Congo DR"
+      },
+      "awayTeam": {
+        "name": "Uzbekistan",
+        "shortName": "Uzbekistan"
+      }
+    },
+    {
+      "fdMatchId": 537401,
+      "matchNumber": 70,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 1,
+        "away": 3,
+        "homeHt": 0,
+        "awayHt": 2
+      },
+      "homeTeam": {
+        "name": "Jordan",
+        "shortName": "Jordan"
+      },
+      "awayTeam": {
+        "name": "Argentina",
+        "shortName": "Argentina"
+      }
+    },
+    {
+      "fdMatchId": 537402,
+      "matchNumber": 69,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 3,
+        "away": 3,
+        "homeHt": 1,
+        "awayHt": 1
+      },
+      "homeTeam": {
+        "name": "Algeria",
+        "shortName": "Algeria"
+      },
+      "awayTeam": {
+        "name": "Austria",
+        "shortName": "Austria"
+      }
+    },
+    {
+      "fdMatchId": 537417,
+      "matchNumber": 73,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 0,
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 0
+      },
+      "homeTeam": {
+        "name": "South Africa",
+        "shortName": "South Africa"
+      },
+      "awayTeam": {
+        "name": "Canada",
+        "shortName": "Canada"
+      }
+    },
+    {
+      "fdMatchId": 537423,
+      "matchNumber": 76,
+      "status": "FINISHED",
+      "minute": null,
+      "score": {
+        "home": 2,
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 1
+      },
+      "homeTeam": {
+        "name": "Brazil",
+        "shortName": "Brazil"
+      },
+      "awayTeam": {
+        "name": "Japan",
+        "shortName": "Japan"
+      }
+    },
+    {
+      "fdMatchId": 537415,
+      "matchNumber": 74,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "homeTeam": {
+        "name": "Germany",
+        "shortName": "Germany"
+      },
+      "awayTeam": {
+        "name": "Paraguay",
+        "shortName": "Paraguay"
+      }
+    },
+    {
+      "fdMatchId": 537418,
+      "matchNumber": 75,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "homeTeam": {
+        "name": "Netherlands",
+        "shortName": "Netherlands"
+      },
+      "awayTeam": {
+        "name": "Morocco",
+        "shortName": "Morocco"
+      }
+    },
+    {
+      "fdMatchId": 537424,
+      "matchNumber": 78,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "homeTeam": {
+        "name": "Ivory Coast",
+        "shortName": "Ivory Coast"
+      },
+      "awayTeam": {
+        "name": "Norway",
+        "shortName": "Norway"
+      }
+    },
+    {
+      "fdMatchId": 537416,
+      "matchNumber": 77,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "homeTeam": {
+        "name": "France",
+        "shortName": "France"
+      },
+      "awayTeam": {
+        "name": "Sweden",
+        "shortName": "Sweden"
+      }
+    },
+    {
+      "fdMatchId": 537425,
+      "matchNumber": 79,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "homeTeam": {
+        "name": "Mexico",
+        "shortName": "Mexico"
+      },
+      "awayTeam": {
+        "name": "Ecuador",
+        "shortName": "Ecuador"
+      }
+    },
+    {
+      "fdMatchId": 537426,
+      "matchNumber": 80,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "homeTeam": {
+        "name": "England",
+        "shortName": "England"
+      },
+      "awayTeam": {
+        "name": "Congo DR",
+        "shortName": "Congo DR"
+      }
+    },
+    {
+      "fdMatchId": 537422,
+      "matchNumber": 82,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "homeTeam": {
+        "name": "Belgium",
+        "shortName": "Belgium"
+      },
+      "awayTeam": {
+        "name": "Senegal",
+        "shortName": "Senegal"
+      }
+    },
+    {
+      "fdMatchId": 537421,
+      "matchNumber": 81,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "homeTeam": {
+        "name": "United States",
+        "shortName": "USA"
+      },
+      "awayTeam": {
+        "name": "Bosnia-Herzegovina",
+        "shortName": "Bosnia-H."
+      }
+    },
+    {
+      "fdMatchId": 537420,
+      "matchNumber": 84,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "homeTeam": {
+        "name": "Spain",
+        "shortName": "Spain"
+      },
+      "awayTeam": {
+        "name": "Austria",
+        "shortName": "Austria"
+      }
+    },
+    {
+      "fdMatchId": 537419,
+      "matchNumber": 83,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "homeTeam": {
+        "name": "Portugal",
+        "shortName": "Portugal"
+      },
+      "awayTeam": {
+        "name": "Croatia",
+        "shortName": "Croatia"
+      }
+    },
+    {
+      "fdMatchId": 537429,
+      "matchNumber": 85,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "homeTeam": {
+        "name": "Switzerland",
+        "shortName": "Switzerland"
+      },
+      "awayTeam": {
+        "name": "Algeria",
+        "shortName": "Algeria"
+      }
+    },
+    {
+      "fdMatchId": 537428,
+      "matchNumber": 88,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "homeTeam": {
+        "name": "Australia",
+        "shortName": "Australia"
+      },
+      "awayTeam": {
+        "name": "Egypt",
+        "shortName": "Egypt"
+      }
+    },
+    {
+      "fdMatchId": 537427,
+      "matchNumber": 86,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "homeTeam": {
+        "name": "Argentina",
+        "shortName": "Argentina"
+      },
+      "awayTeam": {
+        "name": "Cape Verde Islands",
+        "shortName": "Cape Verde"
+      }
+    },
+    {
+      "fdMatchId": 537430,
+      "matchNumber": 87,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "homeTeam": {
+        "name": "Colombia",
+        "shortName": "Colombia"
+      },
+      "awayTeam": {
+        "name": "Ghana",
+        "shortName": "Ghana"
+      }
+    },
+    {
+      "fdMatchId": 537376,
+      "matchNumber": 90,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "homeTeam": {
+        "name": "Canada",
+        "shortName": "Canada"
+      },
+      "awayTeam": {
+        "name": null,
+        "shortName": null
+      }
+    },
+    {
+      "fdMatchId": 537375,
+      "matchNumber": 89,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "homeTeam": {
+        "name": null,
+        "shortName": null
+      },
+      "awayTeam": {
+        "name": null,
+        "shortName": null
+      }
+    },
+    {
+      "fdMatchId": 537377,
+      "matchNumber": 91,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "homeTeam": {
+        "name": null,
+        "shortName": null
+      },
+      "awayTeam": {
+        "name": null,
+        "shortName": null
+      }
+    },
+    {
+      "fdMatchId": 537378,
+      "matchNumber": 92,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "homeTeam": {
+        "name": null,
+        "shortName": null
+      },
+      "awayTeam": {
+        "name": null,
+        "shortName": null
+      }
+    },
+    {
+      "fdMatchId": 537379,
+      "matchNumber": 93,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "homeTeam": {
+        "name": null,
+        "shortName": null
+      },
+      "awayTeam": {
+        "name": null,
+        "shortName": null
+      }
+    },
+    {
+      "fdMatchId": 537380,
+      "matchNumber": 94,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "homeTeam": {
+        "name": null,
+        "shortName": null
+      },
+      "awayTeam": {
+        "name": null,
+        "shortName": null
+      }
+    },
+    {
+      "fdMatchId": 537381,
+      "matchNumber": 95,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "homeTeam": {
+        "name": null,
+        "shortName": null
+      },
+      "awayTeam": {
+        "name": null,
+        "shortName": null
+      }
+    },
+    {
+      "fdMatchId": 537382,
+      "matchNumber": 96,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "homeTeam": {
+        "name": null,
+        "shortName": null
+      },
+      "awayTeam": {
+        "name": null,
+        "shortName": null
+      }
+    },
+    {
+      "fdMatchId": 537383,
+      "matchNumber": 97,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "homeTeam": {
+        "name": null,
+        "shortName": null
+      },
+      "awayTeam": {
+        "name": null,
+        "shortName": null
+      }
+    },
+    {
+      "fdMatchId": 537384,
+      "matchNumber": 98,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "homeTeam": {
+        "name": null,
+        "shortName": null
+      },
+      "awayTeam": {
+        "name": null,
+        "shortName": null
+      }
+    },
+    {
+      "fdMatchId": 537385,
+      "matchNumber": 99,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "homeTeam": {
+        "name": null,
+        "shortName": null
+      },
+      "awayTeam": {
+        "name": null,
+        "shortName": null
+      }
+    },
+    {
+      "fdMatchId": 537386,
+      "matchNumber": 100,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "homeTeam": {
+        "name": null,
+        "shortName": null
+      },
+      "awayTeam": {
+        "name": null,
+        "shortName": null
+      }
+    },
+    {
+      "fdMatchId": 537387,
+      "matchNumber": 101,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "homeTeam": {
+        "name": null,
+        "shortName": null
+      },
+      "awayTeam": {
+        "name": null,
+        "shortName": null
+      }
+    },
+    {
+      "fdMatchId": 537388,
+      "matchNumber": 102,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "homeTeam": {
+        "name": null,
+        "shortName": null
+      },
+      "awayTeam": {
+        "name": null,
+        "shortName": null
+      }
+    },
+    {
+      "fdMatchId": 537389,
+      "matchNumber": 103,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "homeTeam": {
+        "name": null,
+        "shortName": null
+      },
+      "awayTeam": {
+        "name": null,
+        "shortName": null
+      }
+    },
+    {
+      "fdMatchId": 537390,
+      "matchNumber": 104,
+      "status": "SCHEDULED",
+      "minute": null,
+      "score": null,
+      "homeTeam": {
+        "name": null,
+        "shortName": null
+      },
+      "awayTeam": {
+        "name": null,
+        "shortName": null
+      }
+    }
+  ]
+}

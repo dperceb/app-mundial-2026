@@ -1,0 +1,246 @@
+{
+  "lastUpdated": "2026-06-29T19:13:55.072Z",
+  "source": "thestatsapi",
+  "teams": [
+    {
+      "slug": "czech-republic",
+      "name": "Czechia",
+      "group": "A"
+    },
+    {
+      "slug": "south-korea",
+      "name": "Korea Republic",
+      "group": "A"
+    },
+    {
+      "slug": "mexico",
+      "name": "Mexico",
+      "group": "A"
+    },
+    {
+      "slug": "south-africa",
+      "name": "South Africa",
+      "group": "A"
+    },
+    {
+      "slug": "bosnia-herzegovina",
+      "name": "Bosnia and Herzegovina",
+      "group": "B"
+    },
+    {
+      "slug": "canada",
+      "name": "Canada",
+      "group": "B"
+    },
+    {
+      "slug": "qatar",
+      "name": "Qatar",
+      "group": "B"
+    },
+    {
+      "slug": "switzerland",
+      "name": "Switzerland",
+      "group": "B"
+    },
+    {
+      "slug": "brazil",
+      "name": "Brazil",
+      "group": "C"
+    },
+    {
+      "slug": "haiti",
+      "name": "Haiti",
+      "group": "C"
+    },
+    {
+      "slug": "morocco",
+      "name": "Morocco",
+      "group": "C"
+    },
+    {
+      "slug": "scotland",
+      "name": "Scotland",
+      "group": "C"
+    },
+    {
+      "slug": "australia",
+      "name": "Australia",
+      "group": "D"
+    },
+    {
+      "slug": "paraguay",
+      "name": "Paraguay",
+      "group": "D"
+    },
+    {
+      "slug": "turkiye",
+      "name": "Turkiye",
+      "group": "D"
+    },
+    {
+      "slug": "united-states",
+      "name": "United States",
+      "group": "D"
+    },
+    {
+      "slug": "ivory-coast",
+      "name": "Cote d'Ivoire",
+      "group": "E"
+    },
+    {
+      "slug": "curacao",
+      "name": "Curacao",
+      "group": "E"
+    },
+    {
+      "slug": "ecuador",
+      "name": "Ecuador",
+      "group": "E"
+    },
+    {
+      "slug": "germany",
+      "name": "Germany",
+      "group": "E"
+    },
+    {
+      "slug": "japan",
+      "name": "Japan",
+      "group": "F"
+    },
+    {
+      "slug": "netherlands",
+      "name": "Netherlands",
+      "group": "F"
+    },
+    {
+      "slug": "sweden",
+      "name": "Sweden",
+      "group": "F"
+    },
+    {
+      "slug": "tunisia",
+      "name": "Tunisia",
+      "group": "F"
+    },
+    {
+      "slug": "belgium",
+      "name": "Belgium",
+      "group": "G"
+    },
+    {
+      "slug": "egypt",
+      "name": "Egypt",
+      "group": "G"
+    },
+    {
+      "slug": "ir-iran",
+      "name": "IR Iran",
+      "group": "G"
+    },
+    {
+      "slug": "new-zealand",
+      "name": "New Zealand",
+      "group": "G"
+    },
+    {
+      "slug": "cabo-verde",
+      "name": "Cabo Verde",
+      "group": "H"
+    },
+    {
+      "slug": "saudi-arabia",
+      "name": "Saudi Arabia",
+      "group": "H"
+    },
+    {
+      "slug": "spain",
+      "name": "Spain",
+      "group": "H"
+    },
+    {
+      "slug": "uruguay",
+      "name": "Uruguay",
+      "group": "H"
+    },
+    {
+      "slug": "france",
+      "name": "France",
+      "group": "I"
+    },
+    {
+      "slug": "iraq",
+      "name": "Iraq",
+      "group": "I"
+    },
+    {
+      "slug": "norway",
+      "name": "Norway",
+      "group": "I"
+    },
+    {
+      "slug": "senegal",
+      "name": "Senegal",
+      "group": "I"
+    },
+    {
+      "slug": "algeria",
+      "name": "Algeria",
+      "group": "J"
+    },
+    {
+      "slug": "argentina",
+      "name": "Argentina",
+      "group": "J"
+    },
+    {
+      "slug": "austria",
+      "name": "Austria",
+      "group": "J"
+    },
+    {
+      "slug": "jordan",
+      "name": "Jordan",
+      "group": "J"
+    },
+    {
+      "slug": "colombia",
+      "name": "Colombia",
+      "group": "K"
+    },
+    {
+      "slug": "congo-dr",
+      "name": "Congo DR",
+      "group": "K"
+    },
+    {
+      "slug": "portugal",
+      "name": "Portugal",
+      "group": "K"
+    },
+    {
+      "slug": "uzbekistan",
+      "name": "Uzbekistan",
+      "group": "K"
+    },
+    {
+      "slug": "croatia",
+      "name": "Croatia",
+      "group": "L"
+    },
+    {
+      "slug": "england",
+      "name": "England",
+      "group": "L"
+    },
+    {
+      "slug": "ghana",
+      "name": "Ghana",
+      "group": "L"
+    },
+    {
+      "slug": "panama",
+      "name": "Panama",
+      "group": "L"
+    }
+  ]
+}
