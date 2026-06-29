@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-06-29T22:41:36.241Z",
+  "lastUpdated": "2026-06-29T23:41:47.402Z",
   "meta": {
     "staticLastUpdated": "2026-06-29T19:13:55.072Z",
-    "resultsLastUpdated": "2026-06-29T22:41:35.687Z",
-    "standingsLastUpdated": "2026-06-29T22:41:36.208Z",
+    "resultsLastUpdated": "2026-06-29T23:41:46.773Z",
+    "standingsLastUpdated": "2026-06-29T23:41:47.376Z",
     "liveOk": true,
     "resultsOk": true,
     "standingsOk": true,
@@ -4655,17 +4655,17 @@
         "slug": "boston-gillette-stadium"
       },
       "fdMatchId": 537415,
-      "status": "LIVE",
+      "status": "FINISHED",
       "minute": null,
       "score": {
-        "home": 1,
-        "away": 1,
+        "home": 5,
+        "away": 6,
         "homeHt": 0,
         "awayHt": 1
       },
       "goals": null,
-      "isLive": true,
-      "isFinished": false,
+      "isLive": false,
+      "isFinished": true,
       "isScheduled": false
     },
     {
