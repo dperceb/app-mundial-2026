@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T21:13:49.791Z",
+  "lastUpdated": "2026-06-30T22:42:04.777Z",
   "source": "football-data.org",
   "ok": true,
   "error": null,
@@ -3645,10 +3645,10 @@
       "status": "LIVE",
       "minute": null,
       "score": {
-        "home": 0,
+        "home": 3,
         "away": 0,
-        "homeHt": null,
-        "awayHt": null
+        "homeHt": 1,
+        "awayHt": 0
       },
       "homeTeam": {
         "name": "France",
