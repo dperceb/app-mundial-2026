@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-06-29T23:41:47.402Z",
+  "lastUpdated": "2026-06-30T01:50:17.133Z",
   "meta": {
     "staticLastUpdated": "2026-06-29T19:13:55.072Z",
-    "resultsLastUpdated": "2026-06-29T23:41:46.773Z",
-    "standingsLastUpdated": "2026-06-29T23:41:47.376Z",
+    "resultsLastUpdated": "2026-06-30T01:50:16.469Z",
+    "standingsLastUpdated": "2026-06-30T01:50:17.101Z",
     "liveOk": true,
     "resultsOk": true,
     "standingsOk": true,
@@ -4658,8 +4658,8 @@
       "status": "FINISHED",
       "minute": null,
       "score": {
-        "home": 5,
-        "away": 6,
+        "home": 4,
+        "away": 5,
         "homeHt": 0,
         "awayHt": 1
       },
@@ -4689,13 +4689,18 @@
         "slug": "monterrey-estadio-bbva"
       },
       "fdMatchId": 537418,
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "minute": null,
-      "score": null,
+      "score": {
+        "home": 0,
+        "away": 0,
+        "homeHt": null,
+        "awayHt": null
+      },
       "goals": null,
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "isScheduled": true
+      "isScheduled": false
     },
     {
       "matchNumber": 76,

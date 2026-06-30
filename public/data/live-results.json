@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T23:41:46.773Z",
+  "lastUpdated": "2026-06-30T01:50:16.469Z",
   "source": "football-data.org",
   "ok": true,
   "error": null,
@@ -3573,8 +3573,8 @@
       "status": "FINISHED",
       "minute": null,
       "score": {
-        "home": 5,
-        "away": 6,
+        "home": 4,
+        "away": 5,
         "homeHt": 0,
         "awayHt": 1
       },
@@ -3594,9 +3594,14 @@
     {
       "fdMatchId": 537418,
       "matchNumber": 75,
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "minute": null,
-      "score": null,
+      "score": {
+        "home": 0,
+        "away": 0,
+        "homeHt": null,
+        "awayHt": null
+      },
       "homeTeam": {
         "name": "Netherlands",
         "shortName": "Netherlands",
