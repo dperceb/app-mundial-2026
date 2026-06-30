@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-06-30T06:09:52.684Z",
+  "lastUpdated": "2026-06-30T10:00:37.384Z",
   "meta": {
     "staticLastUpdated": "2026-06-29T19:13:55.072Z",
-    "resultsLastUpdated": "2026-06-30T06:09:52.116Z",
-    "standingsLastUpdated": "2026-06-30T06:09:52.648Z",
+    "resultsLastUpdated": "2026-06-30T10:00:36.865Z",
+    "standingsLastUpdated": "2026-06-30T10:00:37.349Z",
     "liveOk": true,
     "resultsOk": true,
     "standingsOk": true,
@@ -4692,7 +4692,7 @@
       "status": "FINISHED",
       "minute": null,
       "score": {
-        "home": 4,
+        "home": 3,
         "away": 4,
         "homeHt": 0,
         "awayHt": 0
@@ -5091,7 +5091,8 @@
       "group": null,
       "homeTeam": {
         "slug": "winner-match-74",
-        "name": "Winner Match 74"
+        "name": "Paraguay",
+        "crest": "https://crests.football-data.org/761.svg"
       },
       "awayTeam": {
         "slug": "winner-match-77",
@@ -5123,7 +5124,8 @@
       },
       "awayTeam": {
         "slug": "winner-match-75",
-        "name": "Winner Match 75"
+        "name": "Morocco",
+        "crest": "https://crests.football-data.org/morocco.svg"
       },
       "stadium": {
         "name": "NRG Stadium",
@@ -5146,7 +5148,8 @@
       "group": null,
       "homeTeam": {
         "slug": "winner-match-76",
-        "name": "Winner Match 76"
+        "name": "Brazil",
+        "crest": "https://crests.football-data.org/764.svg"
       },
       "awayTeam": {
         "slug": "winner-match-78",

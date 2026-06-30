@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T06:09:52.116Z",
+  "lastUpdated": "2026-06-30T10:00:36.865Z",
   "source": "football-data.org",
   "ok": true,
   "error": null,
@@ -3597,7 +3597,7 @@
       "status": "FINISHED",
       "minute": null,
       "score": {
-        "home": 4,
+        "home": 3,
         "away": 4,
         "homeHt": 0,
         "awayHt": 0
@@ -3855,9 +3855,9 @@
         "crest": "https://crests.football-data.org/canada.svg"
       },
       "awayTeam": {
-        "name": null,
-        "shortName": null,
-        "crest": null
+        "name": "Morocco",
+        "shortName": "Morocco",
+        "crest": "https://crests.football-data.org/morocco.svg"
       },
       "goals": null,
       "goalsSource": null
@@ -3869,9 +3869,9 @@
       "minute": null,
       "score": null,
       "homeTeam": {
-        "name": null,
-        "shortName": null,
-        "crest": null
+        "name": "Paraguay",
+        "shortName": "Paraguay",
+        "crest": "https://crests.football-data.org/761.svg"
       },
       "awayTeam": {
         "name": null,
@@ -3888,9 +3888,9 @@
       "minute": null,
       "score": null,
       "homeTeam": {
-        "name": null,
-        "shortName": null,
-        "crest": null
+        "name": "Brazil",
+        "shortName": "Brazil",
+        "crest": "https://crests.football-data.org/764.svg"
       },
       "awayTeam": {
         "name": null,
