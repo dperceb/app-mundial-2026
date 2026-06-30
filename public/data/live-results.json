@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T15:09:19.651Z",
+  "lastUpdated": "2026-06-30T17:15:36.170Z",
   "source": "football-data.org",
   "ok": true,
   "error": null,
@@ -3618,9 +3618,14 @@
     {
       "fdMatchId": 537424,
       "matchNumber": 78,
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "minute": null,
-      "score": null,
+      "score": {
+        "home": 0,
+        "away": 0,
+        "homeHt": null,
+        "awayHt": null
+      },
       "homeTeam": {
         "name": "Ivory Coast",
         "shortName": "Ivory Coast",
