@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T19:17:36.609Z",
+  "lastUpdated": "2026-06-30T21:13:49.791Z",
   "source": "football-data.org",
   "ok": true,
   "error": null,
@@ -3642,9 +3642,14 @@
     {
       "fdMatchId": 537416,
       "matchNumber": 77,
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "minute": null,
-      "score": null,
+      "score": {
+        "home": 0,
+        "away": 0,
+        "homeHt": null,
+        "awayHt": null
+      },
       "homeTeam": {
         "name": "France",
         "shortName": "France",
