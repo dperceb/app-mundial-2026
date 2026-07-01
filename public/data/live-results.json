@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T23:50:40.166Z",
+  "lastUpdated": "2026-07-01T03:36:25.311Z",
   "source": "football-data.org",
   "ok": true,
   "error": null,
@@ -3666,9 +3666,14 @@
     {
       "fdMatchId": 537425,
       "matchNumber": 79,
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "minute": null,
-      "score": null,
+      "score": {
+        "home": 2,
+        "away": 0,
+        "homeHt": 2,
+        "awayHt": 0
+      },
       "homeTeam": {
         "name": "Mexico",
         "shortName": "Mexico",

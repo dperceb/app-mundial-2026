@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-06-30T23:50:40.805Z",
+  "lastUpdated": "2026-07-01T03:36:26.020Z",
   "meta": {
     "staticLastUpdated": "2026-06-29T19:13:55.072Z",
-    "resultsLastUpdated": "2026-06-30T23:50:40.166Z",
-    "standingsLastUpdated": "2026-06-30T23:50:40.768Z",
+    "resultsLastUpdated": "2026-07-01T03:36:25.311Z",
+    "standingsLastUpdated": "2026-07-01T03:36:25.982Z",
     "liveOk": true,
     "resultsOk": true,
     "standingsOk": true,
@@ -4825,13 +4825,18 @@
         "slug": "mexico-city-estadio-azteca"
       },
       "fdMatchId": 537425,
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "minute": null,
-      "score": null,
+      "score": {
+        "home": 2,
+        "away": 0,
+        "homeHt": 2,
+        "awayHt": 0
+      },
       "goals": null,
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "isScheduled": true
+      "isScheduled": false
     },
     {
       "matchNumber": 80,
