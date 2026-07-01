@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T03:36:25.311Z",
+  "lastUpdated": "2026-07-01T07:58:44.052Z",
   "source": "football-data.org",
   "ok": true,
   "error": null,
@@ -3666,7 +3666,7 @@
     {
       "fdMatchId": 537425,
       "matchNumber": 79,
-      "status": "LIVE",
+      "status": "FINISHED",
       "minute": null,
       "score": {
         "home": 2,
@@ -3889,9 +3889,9 @@
         "crest": "https://crests.football-data.org/761.svg"
       },
       "awayTeam": {
-        "name": null,
-        "shortName": null,
-        "crest": null
+        "name": "France",
+        "shortName": "France",
+        "crest": "https://crests.football-data.org/773.svg"
       },
       "goals": null,
       "goalsSource": null
@@ -3908,9 +3908,9 @@
         "crest": "https://crests.football-data.org/764.svg"
       },
       "awayTeam": {
-        "name": null,
-        "shortName": null,
-        "crest": null
+        "name": "Norway",
+        "shortName": "Norway",
+        "crest": "https://crests.football-data.org/813.svg"
       },
       "goals": null,
       "goalsSource": null

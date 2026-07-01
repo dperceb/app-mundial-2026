@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-01T03:36:26.020Z",
+  "lastUpdated": "2026-07-01T07:58:44.550Z",
   "meta": {
     "staticLastUpdated": "2026-06-29T19:13:55.072Z",
-    "resultsLastUpdated": "2026-07-01T03:36:25.311Z",
-    "standingsLastUpdated": "2026-07-01T03:36:25.982Z",
+    "resultsLastUpdated": "2026-07-01T07:58:44.052Z",
+    "standingsLastUpdated": "2026-07-01T07:58:44.513Z",
     "liveOk": true,
     "resultsOk": true,
     "standingsOk": true,
@@ -4825,7 +4825,7 @@
         "slug": "mexico-city-estadio-azteca"
       },
       "fdMatchId": 537425,
-      "status": "LIVE",
+      "status": "FINISHED",
       "minute": null,
       "score": {
         "home": 2,
@@ -4834,8 +4834,8 @@
         "awayHt": 0
       },
       "goals": null,
-      "isLive": true,
-      "isFinished": false,
+      "isLive": false,
+      "isFinished": true,
       "isScheduled": false
     },
     {
@@ -5111,7 +5111,8 @@
       },
       "awayTeam": {
         "slug": "winner-match-77",
-        "name": "Winner Match 77"
+        "name": "France",
+        "crest": "https://crests.football-data.org/773.svg"
       },
       "stadium": {
         "name": "Lincoln Financial Field",
@@ -5168,7 +5169,8 @@
       },
       "awayTeam": {
         "slug": "winner-match-78",
-        "name": "Winner Match 78"
+        "name": "Norway",
+        "crest": "https://crests.football-data.org/813.svg"
       },
       "stadium": {
         "name": "MetLife Stadium",
