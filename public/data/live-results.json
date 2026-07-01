@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T13:54:26.725Z",
+  "lastUpdated": "2026-07-01T16:25:11.345Z",
   "source": "football-data.org",
   "ok": true,
   "error": null,
@@ -3690,9 +3690,14 @@
     {
       "fdMatchId": 537426,
       "matchNumber": 80,
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "minute": null,
-      "score": null,
+      "score": {
+        "home": 0,
+        "away": 1,
+        "homeHt": null,
+        "awayHt": null
+      },
       "homeTeam": {
         "name": "England",
         "shortName": "England",
