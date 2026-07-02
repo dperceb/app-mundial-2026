@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-01T23:23:44.796Z",
+  "lastUpdated": "2026-07-02T01:31:42.593Z",
   "meta": {
     "staticLastUpdated": "2026-06-29T19:13:55.072Z",
-    "resultsLastUpdated": "2026-07-01T23:23:43.679Z",
-    "standingsLastUpdated": "2026-07-01T23:23:44.759Z",
+    "resultsLastUpdated": "2026-07-02T01:31:42.066Z",
+    "standingsLastUpdated": "2026-07-02T01:31:42.554Z",
     "liveOk": true,
     "resultsOk": true,
     "standingsOk": true,
@@ -4893,13 +4893,18 @@
         "slug": "san-francisco-levi-s-stadium"
       },
       "fdMatchId": 537421,
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "minute": null,
-      "score": null,
+      "score": {
+        "home": 1,
+        "away": 0,
+        "homeHt": 1,
+        "awayHt": 0
+      },
       "goals": null,
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "isScheduled": true
+      "isScheduled": false
     },
     {
       "matchNumber": 82,

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T23:23:43.679Z",
+  "lastUpdated": "2026-07-02T01:31:42.066Z",
   "source": "football-data.org",
   "ok": true,
   "error": null,
@@ -3738,9 +3738,14 @@
     {
       "fdMatchId": 537421,
       "matchNumber": 81,
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "minute": null,
-      "score": null,
+      "score": {
+        "home": 1,
+        "away": 0,
+        "homeHt": 1,
+        "awayHt": 0
+      },
       "homeTeam": {
         "name": "United States",
         "shortName": "USA",
