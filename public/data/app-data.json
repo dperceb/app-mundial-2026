@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-02T20:20:14.690Z",
+  "lastUpdated": "2026-07-02T21:43:16.577Z",
   "meta": {
     "staticLastUpdated": "2026-06-29T19:13:55.072Z",
-    "resultsLastUpdated": "2026-07-02T20:20:13.966Z",
-    "standingsLastUpdated": "2026-07-02T20:20:14.650Z",
+    "resultsLastUpdated": "2026-07-02T21:43:16.028Z",
+    "standingsLastUpdated": "2026-07-02T21:43:16.539Z",
     "liveOk": true,
     "resultsOk": true,
     "standingsOk": true,
@@ -4990,17 +4990,17 @@
         "slug": "los-angeles-sofi-stadium"
       },
       "fdMatchId": 537420,
-      "status": "LIVE",
+      "status": "FINISHED",
       "minute": null,
       "score": {
-        "home": 1,
+        "home": 3,
         "away": 0,
         "homeHt": 1,
         "awayHt": 0
       },
       "goals": null,
-      "isLive": true,
-      "isFinished": false,
+      "isLive": false,
+      "isFinished": true,
       "isScheduled": false
     },
     {
