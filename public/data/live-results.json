@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T19:17:54.636Z",
+  "lastUpdated": "2026-07-03T20:37:17.989Z",
   "source": "football-data.org",
   "ok": true,
   "error": null,
@@ -3837,7 +3837,7 @@
       "status": "LIVE",
       "minute": null,
       "score": {
-        "home": 0,
+        "home": 1,
         "away": 1,
         "homeHt": 0,
         "awayHt": 1
