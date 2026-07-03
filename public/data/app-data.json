@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-03T00:03:40.994Z",
+  "lastUpdated": "2026-07-03T04:07:35.124Z",
   "meta": {
     "staticLastUpdated": "2026-06-29T19:13:55.072Z",
-    "resultsLastUpdated": "2026-07-03T00:03:40.472Z",
-    "standingsLastUpdated": "2026-07-03T00:03:40.955Z",
+    "resultsLastUpdated": "2026-07-03T04:07:34.476Z",
+    "standingsLastUpdated": "2026-07-03T04:07:35.086Z",
     "liveOk": true,
     "resultsOk": true,
     "standingsOk": true,
@@ -4961,17 +4961,17 @@
         "slug": "toronto-bmo-field"
       },
       "fdMatchId": 537419,
-      "status": "LIVE",
+      "status": "FINISHED",
       "minute": null,
       "score": {
-        "home": 0,
-        "away": 0,
+        "home": 2,
+        "away": 1,
         "homeHt": 0,
         "awayHt": 0
       },
       "goals": null,
-      "isLive": true,
-      "isFinished": false,
+      "isLive": false,
+      "isFinished": true,
       "isScheduled": false
     },
     {
@@ -5029,13 +5029,18 @@
         "slug": "vancouver-bc-place"
       },
       "fdMatchId": 537429,
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "minute": null,
-      "score": null,
+      "score": {
+        "home": 1,
+        "away": 0,
+        "homeHt": 1,
+        "awayHt": 0
+      },
       "goals": null,
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "isScheduled": true
+      "isScheduled": false
     },
     {
       "matchNumber": 86,
