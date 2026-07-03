@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T22:48:01.478Z",
+  "lastUpdated": "2026-07-03T00:03:40.472Z",
   "source": "football-data.org",
   "ok": true,
   "error": null,
@@ -3786,9 +3786,14 @@
     {
       "fdMatchId": 537419,
       "matchNumber": 83,
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "minute": null,
-      "score": null,
+      "score": {
+        "home": 0,
+        "away": 0,
+        "homeHt": 0,
+        "awayHt": 0
+      },
       "homeTeam": {
         "name": "Portugal",
         "shortName": "Portugal",

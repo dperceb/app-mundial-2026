@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-02T22:48:02.269Z",
+  "lastUpdated": "2026-07-03T00:03:40.994Z",
   "meta": {
     "staticLastUpdated": "2026-06-29T19:13:55.072Z",
-    "resultsLastUpdated": "2026-07-02T22:48:01.478Z",
-    "standingsLastUpdated": "2026-07-02T22:48:02.227Z",
+    "resultsLastUpdated": "2026-07-03T00:03:40.472Z",
+    "standingsLastUpdated": "2026-07-03T00:03:40.955Z",
     "liveOk": true,
     "resultsOk": true,
     "standingsOk": true,
@@ -4961,13 +4961,18 @@
         "slug": "toronto-bmo-field"
       },
       "fdMatchId": 537419,
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "minute": null,
-      "score": null,
+      "score": {
+        "home": 0,
+        "away": 0,
+        "homeHt": 0,
+        "awayHt": 0
+      },
       "goals": null,
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "isScheduled": true
+      "isScheduled": false
     },
     {
       "matchNumber": 84,
