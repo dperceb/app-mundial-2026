@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T17:50:26.854Z",
+  "lastUpdated": "2026-07-03T19:17:54.636Z",
   "source": "football-data.org",
   "ok": true,
   "error": null,
@@ -3834,9 +3834,14 @@
     {
       "fdMatchId": 537428,
       "matchNumber": 88,
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "minute": null,
-      "score": null,
+      "score": {
+        "home": 0,
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 1
+      },
       "homeTeam": {
         "name": "Australia",
         "shortName": "Australia",
