@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T22:44:44.889Z",
+  "lastUpdated": "2026-07-03T23:46:32.907Z",
   "source": "football-data.org",
   "ok": true,
   "error": null,
@@ -3862,9 +3862,9 @@
       "minute": null,
       "score": {
         "home": 1,
-        "away": 0,
-        "homeHt": null,
-        "awayHt": null
+        "away": 1,
+        "homeHt": 1,
+        "awayHt": 0
       },
       "homeTeam": {
         "name": "Argentina",
