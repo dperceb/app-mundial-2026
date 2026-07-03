@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T21:44:44.591Z",
+  "lastUpdated": "2026-07-03T22:44:44.889Z",
   "source": "football-data.org",
   "ok": true,
   "error": null,
@@ -3858,9 +3858,14 @@
     {
       "fdMatchId": 537427,
       "matchNumber": 86,
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "minute": null,
-      "score": null,
+      "score": {
+        "home": 1,
+        "away": 0,
+        "homeHt": null,
+        "awayHt": null
+      },
       "homeTeam": {
         "name": "Argentina",
         "shortName": "Argentina",
