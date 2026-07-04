@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T18:40:41.968Z",
+  "lastUpdated": "2026-07-04T19:54:16.352Z",
   "source": "football-data.org",
   "ok": true,
   "error": null,
@@ -3906,11 +3906,11 @@
     {
       "fdMatchId": 537376,
       "matchNumber": 90,
-      "status": "LIVE",
+      "status": "FINISHED",
       "minute": null,
       "score": {
         "home": 0,
-        "away": 1,
+        "away": 3,
         "homeHt": 0,
         "awayHt": 0
       },

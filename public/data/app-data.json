@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-04T18:40:42.640Z",
+  "lastUpdated": "2026-07-04T19:54:16.949Z",
   "meta": {
     "staticLastUpdated": "2026-06-29T19:13:55.072Z",
-    "resultsLastUpdated": "2026-07-04T18:40:41.968Z",
-    "standingsLastUpdated": "2026-07-04T18:40:42.602Z",
+    "resultsLastUpdated": "2026-07-04T19:54:16.352Z",
+    "standingsLastUpdated": "2026-07-04T19:54:16.911Z",
     "liveOk": true,
     "resultsOk": true,
     "standingsOk": true,
@@ -5194,17 +5194,17 @@
         "slug": "houston-nrg-stadium"
       },
       "fdMatchId": 537376,
-      "status": "LIVE",
+      "status": "FINISHED",
       "minute": null,
       "score": {
         "home": 0,
-        "away": 1,
+        "away": 3,
         "homeHt": 0,
         "awayHt": 0
       },
       "goals": null,
-      "isLive": true,
-      "isFinished": false,
+      "isLive": false,
+      "isFinished": true,
       "isScheduled": false
     },
     {
