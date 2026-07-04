@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T17:33:08.148Z",
+  "lastUpdated": "2026-07-04T18:40:41.968Z",
   "source": "football-data.org",
   "ok": true,
   "error": null,
@@ -3910,9 +3910,9 @@
       "minute": null,
       "score": {
         "home": 0,
-        "away": 0,
-        "homeHt": null,
-        "awayHt": null
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 0
       },
       "homeTeam": {
         "name": "Canada",

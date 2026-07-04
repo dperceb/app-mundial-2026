@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-04T17:33:08.873Z",
+  "lastUpdated": "2026-07-04T18:40:42.640Z",
   "meta": {
     "staticLastUpdated": "2026-06-29T19:13:55.072Z",
-    "resultsLastUpdated": "2026-07-04T17:33:08.148Z",
-    "standingsLastUpdated": "2026-07-04T17:33:08.835Z",
+    "resultsLastUpdated": "2026-07-04T18:40:41.968Z",
+    "standingsLastUpdated": "2026-07-04T18:40:42.602Z",
     "liveOk": true,
     "resultsOk": true,
     "standingsOk": true,
@@ -5198,9 +5198,9 @@
       "minute": null,
       "score": {
         "home": 0,
-        "away": 0,
-        "homeHt": null,
-        "awayHt": null
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 0
       },
       "goals": null,
       "isLive": true,
