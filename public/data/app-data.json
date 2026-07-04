@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-04T06:01:25.662Z",
+  "lastUpdated": "2026-07-04T08:50:07.402Z",
   "meta": {
     "staticLastUpdated": "2026-06-29T19:13:55.072Z",
-    "resultsLastUpdated": "2026-07-04T06:01:24.927Z",
-    "standingsLastUpdated": "2026-07-04T06:01:25.623Z",
+    "resultsLastUpdated": "2026-07-04T08:50:06.900Z",
+    "standingsLastUpdated": "2026-07-04T08:50:07.363Z",
     "liveOk": true,
     "resultsOk": true,
     "standingsOk": true,
@@ -5267,11 +5267,13 @@
       "group": null,
       "homeTeam": {
         "slug": "winner-match-83",
-        "name": "Winner Match 83"
+        "name": "Portugal",
+        "crest": "https://crests.football-data.org/765.svg"
       },
       "awayTeam": {
         "slug": "winner-match-84",
-        "name": "Winner Match 84"
+        "name": "Spain",
+        "crest": "https://crests.football-data.org/760.svg"
       },
       "stadium": {
         "name": "AT&T Stadium",
@@ -5323,11 +5325,13 @@
       "group": null,
       "homeTeam": {
         "slug": "winner-match-86",
-        "name": "Winner Match 86"
+        "name": "Argentina",
+        "crest": "https://crests.football-data.org/762.png"
       },
       "awayTeam": {
         "slug": "winner-match-88",
-        "name": "Winner Match 88"
+        "name": "Egypt",
+        "crest": "https://crests.football-data.org/825.svg"
       },
       "stadium": {
         "name": "Mercedes-Benz Stadium",
@@ -5350,11 +5354,13 @@
       "group": null,
       "homeTeam": {
         "slug": "winner-match-85",
-        "name": "Winner Match 85"
+        "name": "Switzerland",
+        "crest": "https://crests.football-data.org/788.svg"
       },
       "awayTeam": {
         "slug": "winner-match-87",
-        "name": "Winner Match 87"
+        "name": "Colombia",
+        "crest": "https://crests.football-data.org/818.svg"
       },
       "stadium": {
         "name": "BC Place",

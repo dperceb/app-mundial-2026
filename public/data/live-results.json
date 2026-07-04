@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T06:01:24.927Z",
+  "lastUpdated": "2026-07-04T08:50:06.900Z",
   "source": "football-data.org",
   "ok": true,
   "error": null,
@@ -3986,14 +3986,14 @@
       "minute": null,
       "score": null,
       "homeTeam": {
-        "name": null,
-        "shortName": null,
-        "crest": null
+        "name": "Portugal",
+        "shortName": "Portugal",
+        "crest": "https://crests.football-data.org/765.svg"
       },
       "awayTeam": {
-        "name": null,
-        "shortName": null,
-        "crest": null
+        "name": "Spain",
+        "shortName": "Spain",
+        "crest": "https://crests.football-data.org/760.svg"
       },
       "goals": null,
       "goalsSource": null
@@ -4024,14 +4024,14 @@
       "minute": null,
       "score": null,
       "homeTeam": {
-        "name": null,
-        "shortName": null,
-        "crest": null
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "crest": "https://crests.football-data.org/762.png"
       },
       "awayTeam": {
-        "name": null,
-        "shortName": null,
-        "crest": null
+        "name": "Egypt",
+        "shortName": "Egypt",
+        "crest": "https://crests.football-data.org/825.svg"
       },
       "goals": null,
       "goalsSource": null
@@ -4043,14 +4043,14 @@
       "minute": null,
       "score": null,
       "homeTeam": {
-        "name": null,
-        "shortName": null,
-        "crest": null
+        "name": "Switzerland",
+        "shortName": "Switzerland",
+        "crest": "https://crests.football-data.org/788.svg"
       },
       "awayTeam": {
-        "name": null,
-        "shortName": null,
-        "crest": null
+        "name": "Colombia",
+        "shortName": "Colombia",
+        "crest": "https://crests.football-data.org/818.svg"
       },
       "goals": null,
       "goalsSource": null
