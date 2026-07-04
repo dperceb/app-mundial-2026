@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T21:56:57.952Z",
+  "lastUpdated": "2026-07-04T22:59:37.035Z",
   "source": "football-data.org",
   "ok": true,
   "error": null,
@@ -3934,9 +3934,9 @@
       "minute": null,
       "score": {
         "home": 0,
-        "away": 0,
-        "homeHt": null,
-        "awayHt": null
+        "away": 1,
+        "homeHt": 0,
+        "awayHt": 0
       },
       "homeTeam": {
         "name": "Paraguay",
