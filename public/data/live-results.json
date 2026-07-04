@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T23:46:32.907Z",
+  "lastUpdated": "2026-07-04T02:40:35.303Z",
   "source": "football-data.org",
   "ok": true,
   "error": null,
@@ -3858,11 +3858,11 @@
     {
       "fdMatchId": 537427,
       "matchNumber": 86,
-      "status": "LIVE",
+      "status": "FINISHED",
       "minute": null,
       "score": {
-        "home": 1,
-        "away": 1,
+        "home": 3,
+        "away": 2,
         "homeHt": 1,
         "awayHt": 0
       },
@@ -3882,9 +3882,14 @@
     {
       "fdMatchId": 537430,
       "matchNumber": 87,
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "minute": null,
-      "score": null,
+      "score": {
+        "home": 1,
+        "away": 0,
+        "homeHt": 1,
+        "awayHt": 0
+      },
       "homeTeam": {
         "name": "Colombia",
         "shortName": "Colombia",

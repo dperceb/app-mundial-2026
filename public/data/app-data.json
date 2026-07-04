@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-03T23:46:33.435Z",
+  "lastUpdated": "2026-07-04T02:40:35.991Z",
   "meta": {
     "staticLastUpdated": "2026-06-29T19:13:55.072Z",
-    "resultsLastUpdated": "2026-07-03T23:46:32.907Z",
-    "standingsLastUpdated": "2026-07-03T23:46:33.389Z",
+    "resultsLastUpdated": "2026-07-04T02:40:35.303Z",
+    "standingsLastUpdated": "2026-07-04T02:40:35.953Z",
     "liveOk": true,
     "resultsOk": true,
     "standingsOk": true,
@@ -5063,17 +5063,17 @@
         "slug": "miami-hard-rock-stadium"
       },
       "fdMatchId": 537427,
-      "status": "LIVE",
+      "status": "FINISHED",
       "minute": null,
       "score": {
-        "home": 1,
-        "away": 1,
+        "home": 3,
+        "away": 2,
         "homeHt": 1,
         "awayHt": 0
       },
       "goals": null,
-      "isLive": true,
-      "isFinished": false,
+      "isLive": false,
+      "isFinished": true,
       "isScheduled": false
     },
     {
@@ -5097,13 +5097,18 @@
         "slug": "kansas-city-arrowhead-stadium"
       },
       "fdMatchId": 537430,
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "minute": null,
-      "score": null,
+      "score": {
+        "home": 1,
+        "away": 0,
+        "homeHt": 1,
+        "awayHt": 0
+      },
       "goals": null,
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "isScheduled": true
+      "isScheduled": false
     },
     {
       "matchNumber": 88,
