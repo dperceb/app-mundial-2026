@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-04T22:59:37.625Z",
+  "lastUpdated": "2026-07-05T00:09:12.055Z",
   "meta": {
     "staticLastUpdated": "2026-06-29T19:13:55.072Z",
-    "resultsLastUpdated": "2026-07-04T22:59:37.035Z",
-    "standingsLastUpdated": "2026-07-04T22:59:37.586Z",
+    "resultsLastUpdated": "2026-07-05T00:09:11.562Z",
+    "standingsLastUpdated": "2026-07-05T00:09:12.015Z",
     "liveOk": true,
     "resultsOk": true,
     "standingsOk": true,
@@ -5165,7 +5165,7 @@
         "slug": "philadelphia-lincoln-financial-field"
       },
       "fdMatchId": 537375,
-      "status": "LIVE",
+      "status": "FINISHED",
       "minute": null,
       "score": {
         "home": 0,
@@ -5174,8 +5174,8 @@
         "awayHt": 0
       },
       "goals": null,
-      "isLive": true,
-      "isFinished": false,
+      "isLive": false,
+      "isFinished": true,
       "isScheduled": false
     },
     {
