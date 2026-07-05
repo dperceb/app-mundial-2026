@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-05T04:19:38.257Z",
+  "lastUpdated": "2026-07-05T07:43:18.434Z",
   "meta": {
     "staticLastUpdated": "2026-06-29T19:13:55.072Z",
-    "resultsLastUpdated": "2026-07-05T04:19:37.538Z",
-    "standingsLastUpdated": "2026-07-05T04:19:38.218Z",
+    "resultsLastUpdated": "2026-07-05T07:43:17.943Z",
+    "standingsLastUpdated": "2026-07-05T07:43:18.397Z",
     "liveOk": true,
     "resultsOk": true,
     "standingsOk": true,
@@ -5393,11 +5393,13 @@
       "group": null,
       "homeTeam": {
         "slug": "winner-match-89",
-        "name": "Winner Match 89"
+        "name": "France",
+        "crest": "https://crests.football-data.org/773.svg"
       },
       "awayTeam": {
         "slug": "winner-match-90",
-        "name": "Winner Match 90"
+        "name": "Morocco",
+        "crest": "https://crests.football-data.org/morocco.svg"
       },
       "stadium": {
         "name": "Gillette Stadium",

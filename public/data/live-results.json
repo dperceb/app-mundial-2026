@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T04:19:37.538Z",
+  "lastUpdated": "2026-07-05T07:43:17.943Z",
   "source": "football-data.org",
   "ok": true,
   "error": null,
@@ -4072,14 +4072,14 @@
       "minute": null,
       "score": null,
       "homeTeam": {
-        "name": null,
-        "shortName": null,
-        "crest": null
+        "name": "France",
+        "shortName": "France",
+        "crest": "https://crests.football-data.org/773.svg"
       },
       "awayTeam": {
-        "name": null,
-        "shortName": null,
-        "crest": null
+        "name": "Morocco",
+        "shortName": "Morocco",
+        "crest": "https://crests.football-data.org/morocco.svg"
       },
       "goals": null,
       "goalsSource": null
