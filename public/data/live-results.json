@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T20:57:08.019Z",
+  "lastUpdated": "2026-07-05T22:04:31.858Z",
   "source": "football-data.org",
   "ok": true,
   "error": null,
@@ -3958,9 +3958,9 @@
       "minute": null,
       "score": {
         "home": 0,
-        "away": 0,
-        "homeHt": null,
-        "awayHt": null
+        "away": 2,
+        "homeHt": 0,
+        "awayHt": 0
       },
       "homeTeam": {
         "name": "Brazil",
