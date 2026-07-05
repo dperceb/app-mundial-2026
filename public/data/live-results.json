@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T19:49:43.079Z",
+  "lastUpdated": "2026-07-05T20:57:08.019Z",
   "source": "football-data.org",
   "ok": true,
   "error": null,
@@ -3954,9 +3954,14 @@
     {
       "fdMatchId": 537377,
       "matchNumber": 91,
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "minute": null,
-      "score": null,
+      "score": {
+        "home": 0,
+        "away": 0,
+        "homeHt": null,
+        "awayHt": null
+      },
       "homeTeam": {
         "name": "Brazil",
         "shortName": "Brazil",
