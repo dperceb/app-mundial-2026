@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-06T18:33:22.393Z",
+  "lastUpdated": "2026-07-06T20:33:37.102Z",
   "meta": {
     "staticLastUpdated": "2026-06-29T19:13:55.072Z",
-    "resultsLastUpdated": "2026-07-06T18:33:21.912Z",
-    "standingsLastUpdated": "2026-07-06T18:33:22.346Z",
+    "resultsLastUpdated": "2026-07-06T20:33:36.425Z",
+    "standingsLastUpdated": "2026-07-06T20:33:37.059Z",
     "liveOk": true,
     "resultsOk": true,
     "standingsOk": true,
@@ -5301,13 +5301,18 @@
         "slug": "dallas-at-t-stadium"
       },
       "fdMatchId": 537379,
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "minute": null,
-      "score": null,
+      "score": {
+        "home": 0,
+        "away": 0,
+        "homeHt": 0,
+        "awayHt": 0
+      },
       "goals": null,
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "isScheduled": true
+      "isScheduled": false
     },
     {
       "matchNumber": 94,
