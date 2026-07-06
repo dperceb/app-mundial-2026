@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-06T05:38:05.272Z",
+  "lastUpdated": "2026-07-06T09:43:21.073Z",
   "meta": {
     "staticLastUpdated": "2026-06-29T19:13:55.072Z",
-    "resultsLastUpdated": "2026-07-06T05:38:04.733Z",
-    "standingsLastUpdated": "2026-07-06T05:38:05.234Z",
+    "resultsLastUpdated": "2026-07-06T09:43:20.556Z",
+    "standingsLastUpdated": "2026-07-06T09:43:21.031Z",
     "liveOk": true,
     "resultsOk": true,
     "standingsOk": true,
@@ -5459,11 +5459,13 @@
       "group": null,
       "homeTeam": {
         "slug": "winner-match-91",
-        "name": "Winner Match 91"
+        "name": "Norway",
+        "crest": "https://crests.football-data.org/813.svg"
       },
       "awayTeam": {
         "slug": "winner-match-92",
-        "name": "Winner Match 92"
+        "name": "England",
+        "crest": "https://crests.football-data.org/770.svg"
       },
       "stadium": {
         "name": "Hard Rock Stadium",
