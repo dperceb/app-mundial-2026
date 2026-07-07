@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-06T23:31:39.305Z",
+  "lastUpdated": "2026-07-07T01:23:43.142Z",
   "meta": {
     "staticLastUpdated": "2026-06-29T19:13:55.072Z",
-    "resultsLastUpdated": "2026-07-06T23:31:38.767Z",
-    "standingsLastUpdated": "2026-07-06T23:31:39.272Z",
+    "resultsLastUpdated": "2026-07-07T01:23:42.603Z",
+    "standingsLastUpdated": "2026-07-07T01:23:43.097Z",
     "liveOk": true,
     "resultsOk": true,
     "standingsOk": true,
@@ -5335,13 +5335,18 @@
         "slug": "seattle-lumen-field"
       },
       "fdMatchId": 537380,
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "minute": null,
-      "score": null,
+      "score": {
+        "home": 1,
+        "away": 2,
+        "homeHt": 1,
+        "awayHt": 2
+      },
       "goals": null,
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "isScheduled": true
+      "isScheduled": false
     },
     {
       "matchNumber": 95,
