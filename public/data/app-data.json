@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-07T16:56:35.141Z",
+  "lastUpdated": "2026-07-07T19:03:45.097Z",
   "meta": {
     "staticLastUpdated": "2026-06-29T19:13:55.072Z",
-    "resultsLastUpdated": "2026-07-07T16:56:34.662Z",
-    "standingsLastUpdated": "2026-07-07T16:56:35.099Z",
+    "resultsLastUpdated": "2026-07-07T19:03:44.511Z",
+    "standingsLastUpdated": "2026-07-07T19:03:45.053Z",
     "liveOk": true,
     "resultsOk": true,
     "standingsOk": true,
@@ -5369,17 +5369,17 @@
         "slug": "atlanta-mercedes-benz-stadium"
       },
       "fdMatchId": 537381,
-      "status": "LIVE",
+      "status": "FINISHED",
       "minute": null,
       "score": {
-        "home": 0,
-        "away": 1,
-        "homeHt": null,
-        "awayHt": null
+        "home": 3,
+        "away": 2,
+        "homeHt": 0,
+        "awayHt": 1
       },
       "goals": null,
-      "isLive": true,
-      "isFinished": false,
+      "isLive": false,
+      "isFinished": true,
       "isScheduled": false
     },
     {
