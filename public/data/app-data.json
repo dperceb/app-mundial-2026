@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-07T05:35:00.384Z",
+  "lastUpdated": "2026-07-07T08:54:53.349Z",
   "meta": {
     "staticLastUpdated": "2026-06-29T19:13:55.072Z",
-    "resultsLastUpdated": "2026-07-07T05:34:59.889Z",
-    "standingsLastUpdated": "2026-07-07T05:35:00.346Z",
+    "resultsLastUpdated": "2026-07-07T08:54:52.836Z",
+    "standingsLastUpdated": "2026-07-07T08:54:53.310Z",
     "liveOk": true,
     "resultsOk": true,
     "standingsOk": true,
@@ -5442,11 +5442,13 @@
       "group": null,
       "homeTeam": {
         "slug": "winner-match-93",
-        "name": "Winner Match 93"
+        "name": "Spain",
+        "crest": "https://crests.football-data.org/760.svg"
       },
       "awayTeam": {
         "slug": "winner-match-94",
-        "name": "Winner Match 94"
+        "name": "Belgium",
+        "crest": "https://crests.football-data.org/805.svg"
       },
       "stadium": {
         "name": "SoFi Stadium",

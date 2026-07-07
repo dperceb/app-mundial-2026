@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T05:34:59.889Z",
+  "lastUpdated": "2026-07-07T08:54:52.836Z",
   "source": "football-data.org",
   "ok": true,
   "error": null,
@@ -4111,14 +4111,14 @@
       "minute": null,
       "score": null,
       "homeTeam": {
-        "name": null,
-        "shortName": null,
-        "crest": null
+        "name": "Spain",
+        "shortName": "Spain",
+        "crest": "https://crests.football-data.org/760.svg"
       },
       "awayTeam": {
-        "name": null,
-        "shortName": null,
-        "crest": null
+        "name": "Belgium",
+        "shortName": "Belgium",
+        "crest": "https://crests.football-data.org/805.svg"
       },
       "goals": null,
       "goalsSource": null
