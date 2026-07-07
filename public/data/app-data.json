@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-07T19:03:45.097Z",
+  "lastUpdated": "2026-07-07T20:57:42.013Z",
   "meta": {
     "staticLastUpdated": "2026-06-29T19:13:55.072Z",
-    "resultsLastUpdated": "2026-07-07T19:03:44.511Z",
-    "standingsLastUpdated": "2026-07-07T19:03:45.053Z",
+    "resultsLastUpdated": "2026-07-07T20:57:41.290Z",
+    "standingsLastUpdated": "2026-07-07T20:57:41.981Z",
     "liveOk": true,
     "resultsOk": true,
     "standingsOk": true,
@@ -5403,13 +5403,18 @@
         "slug": "vancouver-bc-place"
       },
       "fdMatchId": 537382,
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "minute": null,
-      "score": null,
+      "score": {
+        "home": 0,
+        "away": 0,
+        "homeHt": 0,
+        "awayHt": 0
+      },
       "goals": null,
-      "isLive": false,
+      "isLive": true,
       "isFinished": false,
-      "isScheduled": true
+      "isScheduled": false
     },
     {
       "matchNumber": 97,

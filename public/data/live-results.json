@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T19:03:44.511Z",
+  "lastUpdated": "2026-07-07T20:57:41.290Z",
   "source": "football-data.org",
   "ok": true,
   "error": null,
@@ -4074,9 +4074,14 @@
     {
       "fdMatchId": 537382,
       "matchNumber": 96,
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "minute": null,
-      "score": null,
+      "score": {
+        "home": 0,
+        "away": 0,
+        "homeHt": 0,
+        "awayHt": 0
+      },
       "homeTeam": {
         "name": "Switzerland",
         "shortName": "Switzerland",
