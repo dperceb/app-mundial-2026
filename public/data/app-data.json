@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-08T04:19:42.789Z",
+  "lastUpdated": "2026-07-08T07:03:10.082Z",
   "meta": {
     "staticLastUpdated": "2026-06-29T19:13:55.072Z",
-    "resultsLastUpdated": "2026-07-08T04:19:42.303Z",
-    "standingsLastUpdated": "2026-07-08T04:19:42.747Z",
+    "resultsLastUpdated": "2026-07-08T07:03:09.551Z",
+    "standingsLastUpdated": "2026-07-08T07:03:10.044Z",
     "liveOk": true,
     "resultsOk": true,
     "standingsOk": true,
@@ -5510,11 +5510,13 @@
       "group": null,
       "homeTeam": {
         "slug": "winner-match-95",
-        "name": "Winner Match 95"
+        "name": "Argentina",
+        "crest": "https://crests.football-data.org/762.png"
       },
       "awayTeam": {
         "slug": "winner-match-96",
-        "name": "Winner Match 96"
+        "name": "Switzerland",
+        "crest": "https://crests.football-data.org/788.svg"
       },
       "stadium": {
         "name": "Arrowhead Stadium",

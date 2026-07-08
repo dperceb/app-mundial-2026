@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T04:19:42.303Z",
+  "lastUpdated": "2026-07-08T07:03:09.551Z",
   "source": "football-data.org",
   "ok": true,
   "error": null,
@@ -4159,14 +4159,14 @@
       "minute": null,
       "score": null,
       "homeTeam": {
-        "name": null,
-        "shortName": null,
-        "crest": null
+        "name": "Argentina",
+        "shortName": "Argentina",
+        "crest": "https://crests.football-data.org/762.png"
       },
       "awayTeam": {
-        "name": null,
-        "shortName": null,
-        "crest": null
+        "name": "Switzerland",
+        "shortName": "Switzerland",
+        "crest": "https://crests.football-data.org/788.svg"
       },
       "goals": null,
       "goalsSource": null
