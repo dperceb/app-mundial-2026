@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T18:58:36.408Z",
+  "lastUpdated": "2026-07-10T20:37:33.514Z",
   "source": "football-data.org",
   "ok": true,
   "error": null,
@@ -4122,9 +4122,14 @@
     {
       "fdMatchId": 537384,
       "matchNumber": 98,
-      "status": "SCHEDULED",
+      "status": "LIVE",
       "minute": null,
-      "score": null,
+      "score": {
+        "home": 1,
+        "away": 1,
+        "homeHt": 1,
+        "awayHt": 1
+      },
       "homeTeam": {
         "name": "Spain",
         "shortName": "Spain",
