@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T02:48:28.683Z",
+  "lastUpdated": "2026-07-10T06:43:09.605Z",
   "source": "football-data.org",
   "ok": true,
   "error": null,
@@ -4183,9 +4183,9 @@
       "minute": null,
       "score": null,
       "homeTeam": {
-        "name": null,
-        "shortName": null,
-        "crest": null
+        "name": "France",
+        "shortName": "France",
+        "crest": "https://crests.football-data.org/773.svg"
       },
       "awayTeam": {
         "name": null,

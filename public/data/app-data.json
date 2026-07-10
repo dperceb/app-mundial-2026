@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-10T02:48:29.547Z",
+  "lastUpdated": "2026-07-10T06:43:10.421Z",
   "meta": {
     "staticLastUpdated": "2026-06-29T19:13:55.072Z",
-    "resultsLastUpdated": "2026-07-10T02:48:28.683Z",
-    "standingsLastUpdated": "2026-07-10T02:48:29.508Z",
+    "resultsLastUpdated": "2026-07-10T06:43:09.605Z",
+    "standingsLastUpdated": "2026-07-10T06:43:10.385Z",
     "liveOk": true,
     "resultsOk": true,
     "standingsOk": true,
@@ -5544,7 +5544,8 @@
       "group": null,
       "homeTeam": {
         "slug": "winner-match-97",
-        "name": "Winner Match 97"
+        "name": "France",
+        "crest": "https://crests.football-data.org/773.svg"
       },
       "awayTeam": {
         "slug": "winner-match-98",
