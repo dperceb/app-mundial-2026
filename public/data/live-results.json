@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T04:27:41.520Z",
+  "lastUpdated": "2026-07-11T06:36:32.425Z",
   "source": "football-data.org",
   "ok": true,
   "error": null,
@@ -4193,9 +4193,9 @@
         "crest": "https://crests.football-data.org/773.svg"
       },
       "awayTeam": {
-        "name": null,
-        "shortName": null,
-        "crest": null
+        "name": "Spain",
+        "shortName": "Spain",
+        "crest": "https://crests.football-data.org/760.svg"
       },
       "goals": null,
       "goalsSource": null
