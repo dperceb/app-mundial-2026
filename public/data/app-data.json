@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-11T23:10:15.687Z",
+  "lastUpdated": "2026-07-12T00:10:36.362Z",
   "meta": {
     "staticLastUpdated": "2026-06-29T19:13:55.072Z",
-    "resultsLastUpdated": "2026-07-11T23:10:15.127Z",
-    "standingsLastUpdated": "2026-07-11T23:10:15.650Z",
+    "resultsLastUpdated": "2026-07-12T00:10:35.635Z",
+    "standingsLastUpdated": "2026-07-12T00:10:36.322Z",
     "liveOk": true,
     "resultsOk": true,
     "standingsOk": true,
@@ -5505,17 +5505,17 @@
         "slug": "miami-hard-rock-stadium"
       },
       "fdMatchId": 537385,
-      "status": "LIVE",
+      "status": "FINISHED",
       "minute": null,
       "score": {
         "home": 1,
-        "away": 1,
+        "away": 2,
         "homeHt": 1,
         "awayHt": 1
       },
       "goals": null,
-      "isLive": true,
-      "isFinished": false,
+      "isLive": false,
+      "isFinished": true,
       "isScheduled": false
     },
     {
