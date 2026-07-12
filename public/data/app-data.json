@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-12T03:57:00.891Z",
+  "lastUpdated": "2026-07-12T06:35:29.353Z",
   "meta": {
     "staticLastUpdated": "2026-06-29T19:13:55.072Z",
-    "resultsLastUpdated": "2026-07-12T03:57:00.273Z",
-    "standingsLastUpdated": "2026-07-12T03:57:00.848Z",
+    "resultsLastUpdated": "2026-07-12T06:35:28.499Z",
+    "standingsLastUpdated": "2026-07-12T06:35:29.314Z",
     "liveOk": true,
     "resultsOk": true,
     "standingsOk": true,
@@ -5267,7 +5267,7 @@
         "slug": "mexico-city-estadio-azteca"
       },
       "fdMatchId": 537378,
-      "status": "2026-07-06 01:00:00Z",
+      "status": "FINISHED",
       "minute": null,
       "score": {
         "home": 2,
@@ -5277,7 +5277,7 @@
       },
       "goals": null,
       "isLive": false,
-      "isFinished": false,
+      "isFinished": true,
       "isScheduled": false
     },
     {
@@ -5588,11 +5588,13 @@
       "group": null,
       "homeTeam": {
         "slug": "winner-match-99",
-        "name": "Winner Match 99"
+        "name": "England",
+        "crest": "https://crests.football-data.org/770.svg"
       },
       "awayTeam": {
         "slug": "winner-match-100",
-        "name": "Winner Match 100"
+        "name": "Argentina",
+        "crest": "https://crests.football-data.org/762.png"
       },
       "stadium": {
         "name": "Mercedes-Benz Stadium",
