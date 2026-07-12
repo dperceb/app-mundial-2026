@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-12T00:10:36.362Z",
+  "lastUpdated": "2026-07-12T03:57:00.891Z",
   "meta": {
     "staticLastUpdated": "2026-06-29T19:13:55.072Z",
-    "resultsLastUpdated": "2026-07-12T00:10:35.635Z",
-    "standingsLastUpdated": "2026-07-12T00:10:36.322Z",
+    "resultsLastUpdated": "2026-07-12T03:57:00.273Z",
+    "standingsLastUpdated": "2026-07-12T03:57:00.848Z",
     "liveOk": true,
     "resultsOk": true,
     "standingsOk": true,
@@ -5539,13 +5539,18 @@
         "slug": "kansas-city-arrowhead-stadium"
       },
       "fdMatchId": 537386,
-      "status": "SCHEDULED",
+      "status": "FINISHED",
       "minute": null,
-      "score": null,
+      "score": {
+        "home": 3,
+        "away": 1,
+        "homeHt": 1,
+        "awayHt": 0
+      },
       "goals": null,
       "isLive": false,
-      "isFinished": false,
-      "isScheduled": true
+      "isFinished": true,
+      "isScheduled": false
     },
     {
       "matchNumber": 101,
