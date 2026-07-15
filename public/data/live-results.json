@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T19:35:51.560Z",
+  "lastUpdated": "2026-07-15T20:41:41.191Z",
   "source": "football-data.org",
   "ok": true,
   "error": null,
@@ -4221,10 +4221,10 @@
       "status": "LIVE",
       "minute": null,
       "score": {
-        "home": 0,
+        "home": 1,
         "away": 0,
-        "homeHt": null,
-        "awayHt": null
+        "homeHt": 0,
+        "awayHt": 0
       },
       "homeTeam": {
         "name": "England",
