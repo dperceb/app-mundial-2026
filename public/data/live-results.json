@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T05:58:43.238Z",
+  "lastUpdated": "2026-07-15T08:27:08.679Z",
   "source": "football-data.org",
   "ok": true,
   "error": null,
@@ -4241,9 +4241,9 @@
       "minute": null,
       "score": null,
       "homeTeam": {
-        "name": null,
-        "shortName": null,
-        "crest": null
+        "name": "France",
+        "shortName": "France",
+        "crest": "https://crests.football-data.org/773.svg"
       },
       "awayTeam": {
         "name": null,
@@ -4260,9 +4260,9 @@
       "minute": null,
       "score": null,
       "homeTeam": {
-        "name": null,
-        "shortName": null,
-        "crest": null
+        "name": "Spain",
+        "shortName": "Spain",
+        "crest": "https://crests.football-data.org/760.svg"
       },
       "awayTeam": {
         "name": null,

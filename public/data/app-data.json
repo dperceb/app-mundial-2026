@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-15T05:58:43.727Z",
+  "lastUpdated": "2026-07-15T08:27:09.279Z",
   "meta": {
     "staticLastUpdated": "2026-06-29T19:13:55.072Z",
-    "resultsLastUpdated": "2026-07-15T05:58:43.238Z",
-    "standingsLastUpdated": "2026-07-15T05:58:43.688Z",
+    "resultsLastUpdated": "2026-07-15T08:27:08.679Z",
+    "standingsLastUpdated": "2026-07-15T08:27:09.181Z",
     "liveOk": true,
     "resultsOk": true,
     "standingsOk": true,
@@ -5622,7 +5622,8 @@
       "group": null,
       "homeTeam": {
         "slug": "loser-match-101",
-        "name": "Loser Match 101"
+        "name": "France",
+        "crest": "https://crests.football-data.org/773.svg"
       },
       "awayTeam": {
         "slug": "loser-match-102",
@@ -5649,7 +5650,8 @@
       "group": null,
       "homeTeam": {
         "slug": "winner-match-101",
-        "name": "Winner Match 101"
+        "name": "Spain",
+        "crest": "https://crests.football-data.org/760.svg"
       },
       "awayTeam": {
         "slug": "winner-match-102",
