@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-16T04:25:17.548Z",
+  "lastUpdated": "2026-07-16T06:41:37.049Z",
   "meta": {
     "staticLastUpdated": "2026-06-29T19:13:55.072Z",
-    "resultsLastUpdated": "2026-07-16T04:25:16.881Z",
-    "standingsLastUpdated": "2026-07-16T04:25:17.508Z",
+    "resultsLastUpdated": "2026-07-16T06:41:36.465Z",
+    "standingsLastUpdated": "2026-07-16T06:41:37.016Z",
     "liveOk": true,
     "resultsOk": true,
     "standingsOk": true,
@@ -5632,7 +5632,8 @@
       },
       "awayTeam": {
         "slug": "loser-match-102",
-        "name": "Loser Match 102"
+        "name": "England",
+        "crest": "https://crests.football-data.org/770.svg"
       },
       "stadium": {
         "name": "Hard Rock Stadium",
@@ -5660,7 +5661,8 @@
       },
       "awayTeam": {
         "slug": "winner-match-102",
-        "name": "Winner Match 102"
+        "name": "Argentina",
+        "crest": "https://crests.football-data.org/762.png"
       },
       "stadium": {
         "name": "MetLife Stadium",
