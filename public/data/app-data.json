@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-19T21:35:56.199Z",
+  "lastUpdated": "2026-07-19T22:34:28.683Z",
   "meta": {
     "staticLastUpdated": "2026-06-29T19:13:55.072Z",
-    "resultsLastUpdated": "2026-07-19T21:35:55.555Z",
-    "standingsLastUpdated": "2026-07-19T21:35:56.168Z",
+    "resultsLastUpdated": "2026-07-19T22:34:28.124Z",
+    "standingsLastUpdated": "2026-07-19T22:34:28.640Z",
     "liveOk": true,
     "resultsOk": true,
     "standingsOk": true,
@@ -5675,17 +5675,17 @@
         "slug": "new-york-metlife-stadium"
       },
       "fdMatchId": 537390,
-      "status": "LIVE",
+      "status": "FINISHED",
       "minute": null,
       "score": {
-        "home": 0,
+        "home": 1,
         "away": 0,
         "homeHt": 0,
         "awayHt": 0
       },
       "goals": null,
-      "isLive": true,
-      "isFinished": false,
+      "isLive": false,
+      "isFinished": true,
       "isScheduled": false
     }
   ],
