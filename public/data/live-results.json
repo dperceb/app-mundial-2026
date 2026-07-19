@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-19T19:52:47.090Z",
+  "lastUpdated": "2026-07-19T20:42:52.358Z",
   "source": "football-data.org",
   "ok": true,
   "error": null,
@@ -4271,8 +4271,8 @@
       "score": {
         "home": 0,
         "away": 0,
-        "homeHt": null,
-        "awayHt": null
+        "homeHt": 0,
+        "awayHt": 0
       },
       "homeTeam": {
         "name": "Spain",
